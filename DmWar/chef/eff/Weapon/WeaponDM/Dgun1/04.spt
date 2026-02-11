@@ -1,0 +1,32 @@
+
+
+[Particle]
+entity_file  .\Chef\Eff\Weapon\WeaponDM\Dgun1\04\aiming1.r3e
+num	15
+pos box  0 0 0
+live_time 2
+time_speed 2
+gravity	0 0 0
+	
+	start_color 227 37 107
+	start_scale rand(0.2,0.4)
+	start_alpha 0
+	start_zrot rand(0,360)
+alpha_type 3
+z_front -0.5
+
+
+
+time 1
+	
+	alpha 150
+	scale rand(0.2,0.3)
+	
+	
+time 2
+	
+	alpha 0
+	scale 0.05
+	
+	
+end

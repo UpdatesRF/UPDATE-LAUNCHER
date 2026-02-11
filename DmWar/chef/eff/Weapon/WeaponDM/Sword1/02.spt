@@ -1,0 +1,40 @@
+[Particle]
+
+entity_file .\Chef\UP\W_UP\po_spkl\spkl\spkl_b.r3e
+
+num	15
+pos box 0 rand(-0.7,0.7) 0
+
+live_time 1
+time_speed 1
+gravity	0 0 0
+
+	start_time_range 0.2
+	start_power -16 0 0
+	start_color 255 255 255
+	start_scale rand(0.3,1.2)
+	start_alpha 255
+	
+alpha_type 3
+z_front -0.5
+
+
+time 0.5
+        zrot  rand(-10,10)
+	alpha 255
+	scale 1.4
+	color 255 255 255
+time 1.5
+        zrot  rand(-50,50)
+	alpha 255
+	scale 1.2
+	color 255 255 255
+
+time 2.2
+        zrot rand(-10,10)
+	color 255 255 255
+	alpha 255
+	scale 0.9
+
+
+end

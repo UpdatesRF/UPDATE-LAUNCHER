@@ -1,0 +1,31 @@
+;몹기본타격파티클
+
+
+[Particle]
+entity_file .\Chef\Unit\Par_Com\fighter00\lgt.r3e
+num	15
+pos box 10.8 1.2 0
+
+live_time 1
+time_speed 5
+;emit_time 10
+gravity	0 0 0
+
+
+	;start_time_range 0.98
+	start_color 227 37 107
+	start_scale 0.05
+	start_alpha 250
+	;start_zrot rand(0,360)
+alpha_type 3
+z_front -0.1
+
+time 0.5
+	scale 0.05
+	alpha 100
+time 1
+color 227 37 107
+	alpha 150
+	scale 0.08
+	zrot rand(0,20)
+end

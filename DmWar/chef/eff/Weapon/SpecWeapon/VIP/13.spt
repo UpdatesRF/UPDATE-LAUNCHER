@@ -1,0 +1,19 @@
+
+[Particle]
+entity_file .\Chef\Eff\Weapon\SpecWeapon\VIP\11\1.R3E
+
+num 1
+pos box 0 0 0
+
+live_time 2
+time_speed 1
+gravity	0 0 0
+
+	start_power 0 0 0
+	;start_time_range 0.98
+	start_scale 0.7
+	
+alpha_type 3
+
+end
+

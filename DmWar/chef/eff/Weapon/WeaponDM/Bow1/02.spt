@@ -1,0 +1,37 @@
+[Particle]
+
+entity_file .\Chef\eff\customweapon\posohh\ChiefBelt.R3E
+num 10
+pos box rand(0,11) -1 0
+
+live_time 1
+time_speed 0.9
+gravity	0 0 0
+	;create_time_epsilon 1
+	start_scale 0
+	start_power 0 6 0
+	start_color 150 50 255
+	start_alpha 0
+	star_zrot rand(0,360)
+	alpha_type 3
+	free
+z_front -0.1
+
+time 0.5
+	alpha 255
+	color 150 50 255
+	zrot rand(60,120)
+	scale rand(0.4,0.8)
+
+time 2
+	color 50 250 200
+	zrot rand(-30,30)
+	scale rand(0.4,0.8)
+	alpha 150
+
+time 3
+	color 150 100 255
+	zrot rand(-30,30)
+	scale rand(0.4,0.8)
+	alpha 10
+end

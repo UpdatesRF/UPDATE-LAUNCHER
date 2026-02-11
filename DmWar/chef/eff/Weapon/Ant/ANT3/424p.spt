@@ -1,0 +1,30 @@
+;일렉-기본(활용)
+
+[Particle]
+
+entity_file .\Chef\Armor\BELMALE_A_CLOAK\424p\aura.R3E
+num 6
+pos box 0 0 0
+
+live_time 1.5
+time_speed 1
+gravity 0 0 0
+	
+	start_scale 0.8
+	start_color 219 75 132
+	start_alpha 0
+	start_zrot rand(0,360)
+	alpha_type 3
+
+z_front -0.02
+
+
+
+time 0.5
+	alpha 100
+	;color 255 50 0
+time 1.5
+	color 219 75 132
+	alpha 0
+
+end

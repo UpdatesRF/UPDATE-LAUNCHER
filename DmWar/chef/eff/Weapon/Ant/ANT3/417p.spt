@@ -1,0 +1,36 @@
+;직진형태
+
+[Particle]
+
+entity_file .\Chef\Armor\BELMALE_A_CLOAK\417p\aura.R3E
+num 10
+
+pos box  rand(-0.3, 0.3) rand(-0.3, 0.3) rand(-0.3, 0.3)
+
+live_time 3
+time_speed 10
+gravity 0 0 0
+	creat_time_epsilon 3
+	;start_time_range 10
+	start_power 0 0 0
+	start_scale 1.5
+	start_color 219 75 132
+	start_alpha 50
+	start_zrot rand(0,360)
+	alpha_type 3
+        free
+
+z_front -0.02
+
+
+time 1
+	alpha 50
+	scale 1
+	color 219 75 132
+
+
+time 3
+	alpha 0
+	scale 0
+	color 219 75 132
+end

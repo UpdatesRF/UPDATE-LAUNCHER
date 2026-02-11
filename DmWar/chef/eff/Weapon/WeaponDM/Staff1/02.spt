@@ -1,0 +1,35 @@
+;isis
+
+
+[Particle]
+entity_file .\Chef\recall\isis\Shield_04\Shield.R3E
+num	7
+pos box -2 0 0
+
+live_time 4
+time_speed 2
+gravity	 0.1 0 0 
+	;start_power 0 rand(-1,1) 0
+	start_time_range 0.1
+	start_color 255 153 102
+	start_scale 0.1
+	start_alpha 0
+	start_Yrot 90
+	start_zrot rand(-180,0)
+
+alpha_type 3
+z_front -0.1
+;FREE
+no_billboard
+
+time 1
+	zrot rand(-30,0)
+	scale 0.4
+	alpha 150
+time 3
+	zrot rand(-90,0)
+	scale 0.6
+time 4
+	alpha 0
+
+end

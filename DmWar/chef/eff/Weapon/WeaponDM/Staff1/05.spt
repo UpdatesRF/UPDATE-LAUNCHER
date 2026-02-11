@@ -1,0 +1,52 @@
+[Particle]
+entity_file .\Chef\Eff\Weapon\WeaponDM\Staff1\06\58034.r3e
+
+num	25
+
+pos box rand(-6,0) rand(-1.5,1.5) rand(-1.5,1.5)
+live_time 3
+time_speed 1.5
+gravity	0 0 0
+
+	start_scale rand(0.1,0.2)
+	start_alpha 200
+	start_color 0 0 0
+        start power rand(-3,3) rand(-3,3) rand(-3,3)
+	start_zrot rand(0,360)
+	start_time_range 0.5
+
+alpha_type 3
+flicker_alpha 140
+flicker_time 0.08
+
+
+
+time 0.4
+alpha 200
+color 227 37 107
+zrot rand(10,80)
+power rand(-3,3) rand(-3,3) rand(-3,3)
+flicker
+
+time 1
+alpha 200
+color 227 37 107
+zrot rand (-60,90)
+scale rand(0.2,0.4)
+power rand(-3,3) rand(-3,3) rand(-3,3)
+flicker
+
+time 2
+alpha 200
+color 227 37 107
+zrot rand (-60,90)
+scale rand(0.2,0.4)
+power rand(-3,3) rand(-3,3) rand(-3,3)
+flicker
+
+time 3
+color 0 0 0
+alpha 200
+flicker
+
+end

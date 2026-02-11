@@ -1,0 +1,46 @@
+[Particle]
+entity_file .\Chef\PVP_Item\PVP_LAUNCHER\787p\smoke_3.R3E
+num 35
+pos box rand(-0.1,0.1) rand(-0.1,0.1) rand(-0.1,0.1)
+live_time 2.5
+time_speed 0.7
+gravity -0.6 0 0
+	creat_time_epsilon 5
+	start_power -3 0 0
+	start_color 127 0 199
+	start_scale 0.2
+	start_alpha rand(80,120)
+	start_zrot rand(0,90)
+	alpha_type 3
+z_front -0.1
+
+
+time 0
+	color 127 0 199
+	alpha 100
+	scale 0.2
+
+
+time 0.8
+	color 127 0 199
+	zrot rand(0,20)
+	scale 0.2
+	alpha 255
+
+time 1.2
+	color 127 0 199
+	zrot rand(0,50)
+	scale 0.2
+	alpha rand(150,210)
+
+time 2
+	color 127 0 199
+	scale 0.2
+	alpha rand(180,210)
+
+time 2.5
+	color 127 0 199
+	scale 0
+	alpha 30
+
+end
