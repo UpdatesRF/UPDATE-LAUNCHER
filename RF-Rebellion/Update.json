@@ -1,0 +1,16 @@
+{
+  "method": "GitHub",
+  "version": "1",
+  "files": [
+    {
+      "path": "D3DCompiler_47_cor3.dll",
+      "size": 4916840,
+      "hash": "c7ff4f9146fefedc199360aa04236294349c881b3865ebc58c5646ad6b3f83fca309de1173f5ebf823a14ba65e5ada77b46f20286d1ea62c37e17adbc9a82d02"
+    },
+    {
+      "path": "D3DX9.dll",
+      "size": 1970176,
+      "hash": "f664cbf2916192e64521b4885e3d09f609af5742ded50adbfd58aa1d80b1fb2c3001c0f5e20b4609d74ad56ca2a23b9014a0260bd5b759c095c0f4de88333b5f"
+    }
+  ]
+}
