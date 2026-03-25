@@ -1,7 +1,1132 @@
 {
   "method": "GitHub",
-  "version": "1",
+  "version": "2",
   "files": [
+    {
+      "path": "ABuse.dll",
+      "size": 77824,
+      "hash": "169ebf11533054a438dad304e8188aafb9004c630480bf115eac3317f8dec367ec3b1083ef497e47513674fccdcdb6c20a96817fa0696e19c0d0f4a59c985588"
+    },
+    {
+      "path": "Adv.dll",
+      "size": 77824,
+      "hash": "25238523db5a4750ee6977d721a859c440c29744213b71c2045f89548202ea86cf899f7a47d29ba4ef9c352d6f56dfcbe33e234e2d0db0984e580b52cd83523f"
+    },
+    {
+      "path": "Character/Monster/Ani/COMS_PEACEDAMAGE_01_00.ANI",
+      "size": 906,
+      "hash": "484f3a97da613e1b24b26fac3d5ccc545aab7423edd76c4062fac7f3d01f656f16260c425c9f6d2299861f130f28a6e642498475d1bfda43c50500a1773f0355"
+    },
+    {
+      "path": "Character/Monster/Ani/COMS_PEACESTAND_01_00.ANI",
+      "size": 5590,
+      "hash": "64603aae75f65babd7aec69303c4eb98161169fa53ce8eb43d305b9f8b6b8400370114cfa70aa5b2d71f9d7e33e5cf11564c3fb0054d2a0b782c2be4f6298dff"
+    },
+    {
+      "path": "Character/Monster/Ani/COMS_WARCORPSE_01_00.ANI",
+      "size": 514,
+      "hash": "86454cd9556e0857be25a082f8c02c0aeda099113c7faecc1dfaa2b22558a4d16eb86ff672f20e6b684c5dbf1dcb8872fe48cb90468435831f54225803dccf69"
+    },
+    {
+      "path": "Character/Monster/Ani/COMS_WARDIE_01_00.ANI",
+      "size": 3466,
+      "hash": "8cada4db9bdf5b7b4096126b1ec9552a4690f3f205e7d5f5d324e3b5416a52623df9b5378e0abf4cef637a88c45e1f9b2a0427a261ff2154ce113cb567094860"
+    },
+    {
+      "path": "Character/Monster/Ani/SHOW_PEACEDAMAGE_01_00.ANI",
+      "size": 906,
+      "hash": "484f3a97da613e1b24b26fac3d5ccc545aab7423edd76c4062fac7f3d01f656f16260c425c9f6d2299861f130f28a6e642498475d1bfda43c50500a1773f0355"
+    },
+    {
+      "path": "Character/Monster/Ani/SHOW_PEACESTAND_01_00.ANI",
+      "size": 346,
+      "hash": "d7d15303837c3422aaad3af53314fade82258c79b4e6ceb7f37c3341693dc394a120869dda2f4200c528b952a500564560db3126df50a385276d547444ae200b"
+    },
+    {
+      "path": "Character/Monster/Ani/SHOW_WARCORPSE_01_00.ANI",
+      "size": 514,
+      "hash": "86454cd9556e0857be25a082f8c02c0aeda099113c7faecc1dfaa2b22558a4d16eb86ff672f20e6b684c5dbf1dcb8872fe48cb90468435831f54225803dccf69"
+    },
+    {
+      "path": "Character/Monster/Ani/SHOW_WARDIE_01_00.ANI",
+      "size": 3466,
+      "hash": "8cada4db9bdf5b7b4096126b1ec9552a4690f3f205e7d5f5d324e3b5416a52623df9b5378e0abf4cef637a88c45e1f9b2a0427a261ff2154ce113cb567094860"
+    },
+    {
+      "path": "Character/Monster/Ani/SHOW1_PEACEDAMAGE_01_00.ANI",
+      "size": 906,
+      "hash": "484f3a97da613e1b24b26fac3d5ccc545aab7423edd76c4062fac7f3d01f656f16260c425c9f6d2299861f130f28a6e642498475d1bfda43c50500a1773f0355"
+    },
+    {
+      "path": "Character/Monster/Ani/SHOW1_PEACESTAND_01_00.ANI",
+      "size": 346,
+      "hash": "d7d15303837c3422aaad3af53314fade82258c79b4e6ceb7f37c3341693dc394a120869dda2f4200c528b952a500564560db3126df50a385276d547444ae200b"
+    },
+    {
+      "path": "Character/Monster/Ani/SHOW1_WARCORPSE_01_00.ANI",
+      "size": 514,
+      "hash": "86454cd9556e0857be25a082f8c02c0aeda099113c7faecc1dfaa2b22558a4d16eb86ff672f20e6b684c5dbf1dcb8872fe48cb90468435831f54225803dccf69"
+    },
+    {
+      "path": "Character/Monster/Ani/SHOW1_WARDIE_01_00.ANI",
+      "size": 3466,
+      "hash": "8cada4db9bdf5b7b4096126b1ec9552a4690f3f205e7d5f5d324e3b5416a52623df9b5378e0abf4cef637a88c45e1f9b2a0427a261ff2154ce113cb567094860"
+    },
+    {
+      "path": "Character/Monster/Ani/YACHIA_PEACEDAMAGE_01_00.ANI",
+      "size": 906,
+      "hash": "484f3a97da613e1b24b26fac3d5ccc545aab7423edd76c4062fac7f3d01f656f16260c425c9f6d2299861f130f28a6e642498475d1bfda43c50500a1773f0355"
+    },
+    {
+      "path": "Character/Monster/Ani/YACHIA_PEACESTAND_01_00.ANI",
+      "size": 346,
+      "hash": "d7d15303837c3422aaad3af53314fade82258c79b4e6ceb7f37c3341693dc394a120869dda2f4200c528b952a500564560db3126df50a385276d547444ae200b"
+    },
+    {
+      "path": "Character/Monster/Ani/YACHIA_WARCORPSE_01_00.ANI",
+      "size": 514,
+      "hash": "86454cd9556e0857be25a082f8c02c0aeda099113c7faecc1dfaa2b22558a4d16eb86ff672f20e6b684c5dbf1dcb8872fe48cb90468435831f54225803dccf69"
+    },
+    {
+      "path": "Character/Monster/Ani/YACHIA_WARDIE_01_00.ANI",
+      "size": 3466,
+      "hash": "8cada4db9bdf5b7b4096126b1ec9552a4690f3f205e7d5f5d324e3b5416a52623df9b5378e0abf4cef637a88c45e1f9b2a0427a261ff2154ce113cb567094860"
+    },
+    {
+      "path": "Character/Monster/Ani/YACHIB_PEACEDAMAGE_01_00.ANI",
+      "size": 906,
+      "hash": "484f3a97da613e1b24b26fac3d5ccc545aab7423edd76c4062fac7f3d01f656f16260c425c9f6d2299861f130f28a6e642498475d1bfda43c50500a1773f0355"
+    },
+    {
+      "path": "Character/Monster/Ani/YACHIB_PEACESTAND_01_00.ANI",
+      "size": 346,
+      "hash": "d7d15303837c3422aaad3af53314fade82258c79b4e6ceb7f37c3341693dc394a120869dda2f4200c528b952a500564560db3126df50a385276d547444ae200b"
+    },
+    {
+      "path": "Character/Monster/Ani/YACHIB_WARCORPSE_01_00.ANI",
+      "size": 514,
+      "hash": "86454cd9556e0857be25a082f8c02c0aeda099113c7faecc1dfaa2b22558a4d16eb86ff672f20e6b684c5dbf1dcb8872fe48cb90468435831f54225803dccf69"
+    },
+    {
+      "path": "Character/Monster/Ani/YACHIB_WARDIE_01_00.ANI",
+      "size": 3466,
+      "hash": "8cada4db9bdf5b7b4096126b1ec9552a4690f3f205e7d5f5d324e3b5416a52623df9b5378e0abf4cef637a88c45e1f9b2a0427a261ff2154ce113cb567094860"
+    },
+    {
+      "path": "Character/Monster/Ani/YACHIC_PEACEDAMAGE_01_00.ANI",
+      "size": 906,
+      "hash": "484f3a97da613e1b24b26fac3d5ccc545aab7423edd76c4062fac7f3d01f656f16260c425c9f6d2299861f130f28a6e642498475d1bfda43c50500a1773f0355"
+    },
+    {
+      "path": "Character/Monster/Ani/YACHIC_PEACESTAND_01_00.ANI",
+      "size": 346,
+      "hash": "d7d15303837c3422aaad3af53314fade82258c79b4e6ceb7f37c3341693dc394a120869dda2f4200c528b952a500564560db3126df50a385276d547444ae200b"
+    },
+    {
+      "path": "Character/Monster/Ani/YACHIC_WARCORPSE_01_00.ANI",
+      "size": 514,
+      "hash": "86454cd9556e0857be25a082f8c02c0aeda099113c7faecc1dfaa2b22558a4d16eb86ff672f20e6b684c5dbf1dcb8872fe48cb90468435831f54225803dccf69"
+    },
+    {
+      "path": "Character/Monster/Ani/YACHIC_WARDIE_01_00.ANI",
+      "size": 3466,
+      "hash": "8cada4db9bdf5b7b4096126b1ec9552a4690f3f205e7d5f5d324e3b5416a52623df9b5378e0abf4cef637a88c45e1f9b2a0427a261ff2154ce113cb567094860"
+    },
+    {
+      "path": "Character/Monster/Bone/COMS.BBX",
+      "size": 280,
+      "hash": "37d47fa79d2cf76c16f01965559d5c120f4b6531b4730c9d06ab50dacc3d1aff6f03cdd07a0fdda9be08c71dba4b4404655b3c8fd684f553c2b0a5a747e14016"
+    },
+    {
+      "path": "Character/Monster/Bone/COMS.bn",
+      "size": 9943,
+      "hash": "ee32cc0b8fea6d6d647ffb1e2efac9c3fbd5f50e5cb768b3890a6fc3ec7441b5467ca9d235379a51ed73678d089272845e1842af0964d2cc9b94a5df088c48d1"
+    },
+    {
+      "path": "Character/Monster/Bone/SHOW.BBX",
+      "size": 280,
+      "hash": "09e32a7cb491749476983db54003d22b4e11d97c87a694d151e02297e6d878f6f5133af82530dedd576934cc1efe923df24bf8e598363423cc1cf7083a4c51b2"
+    },
+    {
+      "path": "Character/Monster/Bone/SHOW.bn",
+      "size": 1979,
+      "hash": "987b9684aea14a9c97712bd0e5c09945b5aa97ea2a7f36470329de1eba4cda581425607348ada4958181038d5c9296146621cecbc624e30f5fd093cb5ecf4e27"
+    },
+    {
+      "path": "Character/Monster/Bone/SHOW1.BBX",
+      "size": 280,
+      "hash": "09e32a7cb491749476983db54003d22b4e11d97c87a694d151e02297e6d878f6f5133af82530dedd576934cc1efe923df24bf8e598363423cc1cf7083a4c51b2"
+    },
+    {
+      "path": "Character/Monster/Bone/SHOW1.bn",
+      "size": 1979,
+      "hash": "987b9684aea14a9c97712bd0e5c09945b5aa97ea2a7f36470329de1eba4cda581425607348ada4958181038d5c9296146621cecbc624e30f5fd093cb5ecf4e27"
+    },
+    {
+      "path": "Character/Monster/Bone/YACHIA.BBX",
+      "size": 280,
+      "hash": "9489bac8f1800c33874194d5b7038a71b30a99a74c3486c0477a32dc84f468fb95df7702bad23d44393246e64235eedd2ac9d8376bced521deb1b48d1d2dbd9d"
+    },
+    {
+      "path": "Character/Monster/Bone/YACHIA.bn",
+      "size": 1979,
+      "hash": "987b9684aea14a9c97712bd0e5c09945b5aa97ea2a7f36470329de1eba4cda581425607348ada4958181038d5c9296146621cecbc624e30f5fd093cb5ecf4e27"
+    },
+    {
+      "path": "Character/Monster/Bone/YACHIB.BBX",
+      "size": 280,
+      "hash": "9489bac8f1800c33874194d5b7038a71b30a99a74c3486c0477a32dc84f468fb95df7702bad23d44393246e64235eedd2ac9d8376bced521deb1b48d1d2dbd9d"
+    },
+    {
+      "path": "Character/Monster/Bone/YACHIB.bn",
+      "size": 1979,
+      "hash": "987b9684aea14a9c97712bd0e5c09945b5aa97ea2a7f36470329de1eba4cda581425607348ada4958181038d5c9296146621cecbc624e30f5fd093cb5ecf4e27"
+    },
+    {
+      "path": "Character/Monster/Bone/YACHIC.BBX",
+      "size": 280,
+      "hash": "9489bac8f1800c33874194d5b7038a71b30a99a74c3486c0477a32dc84f468fb95df7702bad23d44393246e64235eedd2ac9d8376bced521deb1b48d1d2dbd9d"
+    },
+    {
+      "path": "Character/Monster/Bone/YACHIC.bn",
+      "size": 1979,
+      "hash": "987b9684aea14a9c97712bd0e5c09945b5aa97ea2a7f36470329de1eba4cda581425607348ada4958181038d5c9296146621cecbc624e30f5fd093cb5ecf4e27"
+    },
+    {
+      "path": "Character/Monster/Mesh/COMS.MSH",
+      "size": 336218,
+      "hash": "2175cda4cad5de8330a54c6f41408586316864f9b1ec2ab508aaa4a32781dc9e64edbbff4d0a17784a67adc9654e06535794e7d3099e5faf4cc52b32150ef5f6"
+    },
+    {
+      "path": "Character/Monster/Mesh/ELANMONM.RFS",
+      "size": 6402485,
+      "hash": "2be4ee666493ca48c2ad4a61475fbd28bdda2708ae3b9a9b51328ac0bfb6f908de3fe39bec02c10771c76897ad4911e4148f1c15cef4425d6b9937f004e37b0c"
+    },
+    {
+      "path": "Character/Monster/Mesh/SHOW.MSH",
+      "size": 33395,
+      "hash": "d3cf334a6aa6b5d8cac1e3591c6696f3cec206be58c730736afd4cf6028c700c04f8602c395daae8094a381ed4323c928926676f1f692902811cdd6a5096f229"
+    },
+    {
+      "path": "Character/Monster/Mesh/SHOW1.MSH",
+      "size": 1112989,
+      "hash": "ca93849c12be905ca5464ce6be24802c6515aa87832c3068b5d291eaed0995417c6033f7db5327c6953e0646e8e7af8642ed79ec518e4d22e84037ebc1445518"
+    },
+    {
+      "path": "Character/Monster/Mesh/YACHIA.MSH",
+      "size": 8255,
+      "hash": "8b275ae0127a947b707701452b1de6cbfe7c391516fa88cbed3c5a16e541579385f6b2bfdd37724505d14895645a638aa42f6c0f67418c51e5c6405a5edbff10"
+    },
+    {
+      "path": "Character/Monster/Mesh/YACHIB.MSH",
+      "size": 8255,
+      "hash": "f98f27b7ea0b03f5690090353a89cf50e96368c958636dde7802e159d89c5a1f623f3de1f0fefd19f17887650c5ce0e345e89aadadc2691e22560b336279baab"
+    },
+    {
+      "path": "Character/Monster/Mesh/YACHIC.MSH",
+      "size": 8255,
+      "hash": "f56b9b6abb0bf2cde0bcae2ad72cc4afd5dbf7b9828455c4cb6d4e5ae714402e3e70147dd01545141f0871728470831a2679f79e56defb8f5b3e1a7d78eae172"
+    },
+    {
+      "path": "Character/Monster/Tex/bale-of-straw.dds",
+      "size": 43832,
+      "hash": "7b87ae52f251fb6f5c6109d36ff0a2d3be4669ae8c672c345bf4d8835fb964f1a98ef48075e11b027e5712552543e4a786127b2668f7b378bfecfa2880dcd93d"
+    },
+    {
+      "path": "Character/Monster/Tex/ELANMONT.RFS",
+      "size": 31111484,
+      "hash": "3b7f316c292671168ae4f1b57b307370f5f1020d965d69cf8464b83e49eb8ba716e8f3e591a45ab43785612657626b010f33903a9421163a755e98d8fd5a35b4"
+    },
+    {
+      "path": "Character/Monster/Tex/flat07.dds",
+      "size": 87536,
+      "hash": "6666a0df6387ee4e152fa2514c0c31d70cacc33035f48c183962c19c9b8a147217e2afe78fea0d7084efc21b4dd6f1dcd6334c8d92e5033ec60f38ed63394347"
+    },
+    {
+      "path": "Character/Monster/Tex/Runeweapon_IDEternity02.dds",
+      "size": 1556896,
+      "hash": "14d0c255b69975b535c5b4f0a3953bc93f72909399c1ceb79549a53a800850d53736d78838807b63497f40fd730f69682d65e2528bcb4edffaa1c572248c7244"
+    },
+    {
+      "path": "Character/Monster/Tex/Runeweapon_IDEternity021.dds",
+      "size": 1556896,
+      "hash": "a614fada4233c8a740d9d22fca737e93fa05f396713addbc54f57693b256aa50e19428e7291f4158aa0c1044aee460d001ef063b7f3d63058489a663614c28b1"
+    },
+    {
+      "path": "Character/Monster/Tex/YACHIA.DDS",
+      "size": 87536,
+      "hash": "c8705abc10a0dd746e78434349f564bc203fc4e3ef5b370e247414f1ae0959ed4e806a2ec5c578c8a5c2c46ce7d8d89de903839c397ec9fec570653efcc5979d"
+    },
+    {
+      "path": "Character/Monster/Tex/YACHIB.DDS",
+      "size": 87536,
+      "hash": "3043b363053854b4d769c5a8cecfa5755423b52611c9ee6cfab70dae2bb2833c2334d0c7ecc0b6497789985143f6492511477e71e2ef43b0476eea5d2e4d253a"
+    },
+    {
+      "path": "Character/Monster/Tex/YACHIC.DDS",
+      "size": 87536,
+      "hash": "e33c5759508e5136add7a334505e781bfd2f81951f4bc80b2698f692cb88f80d6f369c5afa738c5f385037bd6b1c04e49f9a7b6c1136bc31ce8732630f4bfca8"
+    },
+    {
+      "path": "Character/Npc/Ani/FIX_NPC_ACCRETIA.RFS",
+      "size": 1267148,
+      "hash": "3905f5bd712d46e37b9794fcf8aae5b7b6bba0be58e21a7b1e763b28b9bd1152dcc30bd93659ef5931217932b800bf33e3748e9ee55e7d1796fd7ca157756fe2"
+    },
+    {
+      "path": "Character/Npc/Ani/FIX_NPC_BELLATO.RFS",
+      "size": 1835832,
+      "hash": "c7e354249e03f8dfdc048995ee24dbb8555eec94c31012d08692a2a4bda700e5068fd252225a581138c05f2b617ca320d3994cf8ba81026da914751462f00ba0"
+    },
+    {
+      "path": "Character/Npc/Ani/FIX_NPC_CORA.RFS",
+      "size": 1876342,
+      "hash": "44d06ae9f8b09a54d8477e94e9de1dabac82d2a0d5e03c43135d2898448104b0b9a84d4b87271e049c6f9b3ca696feb5091135c8a58200ed7e0dc271219973e6"
+    },
+    {
+      "path": "Character/Npc/Ani/RFSInfo.dat",
+      "size": 424,
+      "hash": "8a08ee131384ef906508bd867b34aec62ebf230d03cabd35499f90450afec878e3d04884f9a930268c2dd439cdfbf2056ff3628eb1c7cde13e789c3cfa34d079"
+    },
+    {
+      "path": "Character/Player/Ani/ACCRETIA_ASSISTANCA_DBEAMGUN_00.ANI",
+      "size": 32490,
+      "hash": "142c6767f4fcc7915b6ac31bd31d791a5e9c8c56b10413a506efbf856d6ed02be0943da09423736c16deb8cec7c2a32d277869f77142023ca7d5dc9ead1d6fdf"
+    },
+    {
+      "path": "Character/Player/Ani/ACCRETIA_ASSISTANCA_DBEAMGUN_01.ANI",
+      "size": 32490,
+      "hash": "142c6767f4fcc7915b6ac31bd31d791a5e9c8c56b10413a506efbf856d6ed02be0943da09423736c16deb8cec7c2a32d277869f77142023ca7d5dc9ead1d6fdf"
+    },
+    {
+      "path": "Character/Player/Ani/ACCRETIA_ASSISTANCA_DBEAMGUN_02.ANI",
+      "size": 32490,
+      "hash": "142c6767f4fcc7915b6ac31bd31d791a5e9c8c56b10413a506efbf856d6ed02be0943da09423736c16deb8cec7c2a32d277869f77142023ca7d5dc9ead1d6fdf"
+    },
+    {
+      "path": "Character/Player/Ani/ACCRETIA_ASSISTANCA_DBEAMGUN1_00.ANI",
+      "size": 32490,
+      "hash": "142c6767f4fcc7915b6ac31bd31d791a5e9c8c56b10413a506efbf856d6ed02be0943da09423736c16deb8cec7c2a32d277869f77142023ca7d5dc9ead1d6fdf"
+    },
+    {
+      "path": "Character/Player/Ani/ACCRETIA_ASSISTANCA_DBEAMGUN1_01.ANI",
+      "size": 32490,
+      "hash": "142c6767f4fcc7915b6ac31bd31d791a5e9c8c56b10413a506efbf856d6ed02be0943da09423736c16deb8cec7c2a32d277869f77142023ca7d5dc9ead1d6fdf"
+    },
+    {
+      "path": "Character/Player/Ani/ACCRETIA_ASSISTANCA_DBEAMGUN1_02.ANI",
+      "size": 32490,
+      "hash": "142c6767f4fcc7915b6ac31bd31d791a5e9c8c56b10413a506efbf856d6ed02be0943da09423736c16deb8cec7c2a32d277869f77142023ca7d5dc9ead1d6fdf"
+    },
+    {
+      "path": "Character/Player/Ani/ACCRETIA_ASSISTANCA_TMACHINEGUN_00.ANI",
+      "size": 32490,
+      "hash": "15b00f87fc0cdbd255dd674d19077f5ba3b7690d6b64f9c5cd3505962791a1a7844a1731706649a9fd6843fe96499634608f07bf7b993c9853948c2013fe3879"
+    },
+    {
+      "path": "Character/Player/Ani/ACCRETIA_ASSISTANCA_TMACHINEGUN_01.ANI",
+      "size": 32490,
+      "hash": "15b00f87fc0cdbd255dd674d19077f5ba3b7690d6b64f9c5cd3505962791a1a7844a1731706649a9fd6843fe96499634608f07bf7b993c9853948c2013fe3879"
+    },
+    {
+      "path": "Character/Player/Ani/ACCRETIA_ASSISTANCA_TMACHINEGUN_02.ANI",
+      "size": 32490,
+      "hash": "15b00f87fc0cdbd255dd674d19077f5ba3b7690d6b64f9c5cd3505962791a1a7844a1731706649a9fd6843fe96499634608f07bf7b993c9853948c2013fe3879"
+    },
+    {
+      "path": "Character/Player/Ani/ACCRETIA_RANGE_MULTISHOT_TBOW_NEW.ANI",
+      "size": 30478,
+      "hash": "1c156b45c803abba0f30a7d12c374b8e7b1c74ee10f0cd509a5b01517b13427acc600c3571075fe407f3231c44b07e651afcee89e120341f04fbe5de0517f4cd"
+    },
+    {
+      "path": "Character/Player/Ani/ACCRETIA_RANGE_MULTISHOT_TCROSSBOW_NEW.ANI",
+      "size": 26466,
+      "hash": "615d3c8e6dc87d36878b82bc37757d2c9c8cde952aa5a163fa976b7b9224752998f07a8f760c1800fe1df0a39151acd74284dbacf0594264fcdb99b161a30969"
+    },
+    {
+      "path": "Character/Player/Ani/CORMALE_MELEE_FULLSWING1_DAXE_00.ANI",
+      "size": 39610,
+      "hash": "db77d498764b56e59ce8907384c347cd0184f5634366e18c887248887f47f043220b4312ba2225919ab454db5fe1f2c91c59c4a31d039b88f8a1c1f02c958320"
+    },
+    {
+      "path": "Character/Player/Ani/CORMALE_MELEE_FULLSWING1_RAXE_00.ANI",
+      "size": 40014,
+      "hash": "95a9794370f8e487f301169790d6998afe101ec83d4d7140e5c987107490f71f61c4935ea9a72771c451d4a6e4c220e359682eb68cc05cc12e69e15c5915659b"
+    },
+    {
+      "path": "Character/Player/Ani/CORMALE_MELEE_FULLSWING1_RKNIFE_00.ANI",
+      "size": 40014,
+      "hash": "40dbc3aa763751c2c9d4012068191ece295503fe2e80236be64d032922eaf9fd454dcf20309b52c5e8a0280dba24d3aa5044905d7bc2491638f2b0a856ace069"
+    },
+    {
+      "path": "Character/Player/Ani/CORMALE_MELEE_FULLSWING1_RMACE_00.ANI",
+      "size": 40014,
+      "hash": "1235be743fc04b3aeb83bb790dd78bb12da55d77af5d170126beb56b2cb9ba181c2bf68a671b20d77b25f5711cac798bfc08dece50a8b0927bc8e3ccf737cfd0"
+    },
+    {
+      "path": "Character/Player/Ani/CORMALE_MELEE_FULLSWING1_TAXE_00.ANI",
+      "size": 40014,
+      "hash": "c3f36a73f307d95e6704a9c41bc41b5c8c2430b2b5f914abcb74bee9dad07762d08900ba795d59069e64894d6f9dc00ab1252df82d9a54a61bf8d7323a4dafd1"
+    },
+    {
+      "path": "Character/Player/Ani/CORMALE_MELEE_FULLSWING1_TMACE_00.ANI",
+      "size": 40014,
+      "hash": "26876938138ae5b5db73a6350f93ca7a2965e3be546dddf9d3459b87e1d74bad027e0b37ead2f0cd6af88e2de21e527eedc32f454928d95b55a222059d22e5dc"
+    },
+    {
+      "path": "Character/Player/Ani/CORMALE_MELEE_FULLSWING1_TSPEAR_00.ANI",
+      "size": 40014,
+      "hash": "003392478cc452bb6b142c5fa7a1714d631721ec2a8c1b947b0f99bf3d90866995a9b29d8aa2e9be0f6abca412d52eb72d93bef5583e1a3777687fe9f6b04604"
+    },
+    {
+      "path": "Character/Player/Ani/CORMALE_MELEE_FULLSWING1_TSWORD_00.ANI",
+      "size": 40014,
+      "hash": "47530fca8770147d57066f0b0f7cc81999b50b5ce4d67ecd90997ec1838929fed65c2fe945d56c93efcf634c58dd19f0e87a91b5dbf68f6c27019c29678af231"
+    },
+    {
+      "path": "Character/Player/Mesh/RFSInfo.dat",
+      "size": 989,
+      "hash": "1a3a581546d526ecb68e6779d79c218efdcc0e017f079b258aac507228edff49596c832e1c6068a3a566302893966ba07d1ff311ff29db311dab49e8da40ccc8"
+    },
+    {
+      "path": "Character/Player/Mesh/WHITEM.RFS",
+      "size": 6166294,
+      "hash": "4941d7f332e55d18c7d6e22d5264515300d55e8adb90a9ab751bbeb61e400cbbc177e082f383c8555df808a108079b6d3bbf14673a9f2c75917dac4033a13d89"
+    },
+    {
+      "path": "Character/Player/Tex/CMW40.RFS",
+      "size": 4591724,
+      "hash": "87b4895aaa4330cfd0974a29b3ac0244de0a06b824f965a9e7d62f9b77ddcae92a0d457a5942b68b87c99793858da3316711b6107e6426771ee7383d4dd010e0"
+    },
+    {
+      "path": "Character/Player/Tex/RFSInfo.dat",
+      "size": 979,
+      "hash": "4f0105c02966c562a76b4de0a328d874a2d9ad2d0d871ea74f130819362de3c029a71b3061feedab7969ce728110d83e3a3c35fb53bdc78b1b16ca27ff4cc5a9"
+    },
+    {
+      "path": "Character/Player/Tex/WHITET.RFS",
+      "size": 13603348,
+      "hash": "6adefff3a751591200c33bd295e4bb23704557259618ec6021239b9eaa26317ff5cf1db3d4b4a58cabaacbe57898016e9de65766a1a5c27250eaaa1f062e32e4"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/ACCRETIA_ARMOR_GLOVES_013.EFF",
+      "size": 528,
+      "hash": "68ed0b237cfbfe197f061a6accda7d13dfa8c28f60429b95806705bfb33badc331f0a1a7c70e4d16c5158cdb28dbd1ee938a93302cd2cb762e3fb4d464a54d13"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/ACCRETIA_ARMOR_GLOVES_014.EFF",
+      "size": 528,
+      "hash": "68ed0b237cfbfe197f061a6accda7d13dfa8c28f60429b95806705bfb33badc331f0a1a7c70e4d16c5158cdb28dbd1ee938a93302cd2cb762e3fb4d464a54d13"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/ACCRETIA_ARMOR_GLOVES_015.EFF",
+      "size": 528,
+      "hash": "68ed0b237cfbfe197f061a6accda7d13dfa8c28f60429b95806705bfb33badc331f0a1a7c70e4d16c5158cdb28dbd1ee938a93302cd2cb762e3fb4d464a54d13"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/ACCRETIA_ARMOR_HELMET_013.EFF",
+      "size": 352,
+      "hash": "db8838e0035830413528b68afba39a3c745838459d9374bfb680bfa2b08cb75b3142cafe0af2887bfc640aeb44a9f8edafeb21c4582e2800d9c3f87e2ce1a865"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/ACCRETIA_ARMOR_HELMET_014.EFF",
+      "size": 352,
+      "hash": "e538a61b566871126dd535489be0b82071fda20fa60df61c3005d5f4371fa8f75a4ac593ed1ab5fb651c8885cedc611ae827e738c97719f1d25fc19cf61d9a00"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/ACCRETIA_ARMOR_HELMET_015.EFF",
+      "size": 704,
+      "hash": "1177f30ca4527455c250a0d2918fb283aa1824890953c5db5a4dd41da48c8e0694fd14114b824de1a0fe08b1fad2870cc952cca8410615885d086e6ee426c4c5"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/ACCRETIA_ARMOR_LOWER_013.EFF",
+      "size": 176,
+      "hash": "ff918f207b46c5ff1230a4b227afef2cd17fc97dec1482b54912ed7e7efdcbfee9599dc89a544e87ff64561917f1f5b763407e111c30c960a498b7bb2a421ec0"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/ACCRETIA_ARMOR_LOWER_014.EFF",
+      "size": 176,
+      "hash": "66a1f89cc7e23d685f9334a35b9439cf8bae5652d54ded926b94d79c1d6194507073bdd4f191b5b8ee5a415788706adaed2812669ff16c6e1f270c895c5fc815"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/ACCRETIA_ARMOR_LOWER_015.EFF",
+      "size": 176,
+      "hash": "1d8f981e2913c07e26f51c95c816a4b100a0195b74142a399b89c79efdf5441ad9e2c43be9035c458be58483e138ad841bdba9991ede27d3c64780fe2110e6e0"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/ACCRETIA_ARMOR_SHOES_013.EFF",
+      "size": 528,
+      "hash": "9dda3250e6617e5a63acebd5810f928385ec10783e658f30c0279c001d644c8a0194a06aca136a7569e02e2e5ccfb6a178deb82137182f9e1bfcb9f7c868f171"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/ACCRETIA_ARMOR_SHOES_014.EFF",
+      "size": 528,
+      "hash": "9dda3250e6617e5a63acebd5810f928385ec10783e658f30c0279c001d644c8a0194a06aca136a7569e02e2e5ccfb6a178deb82137182f9e1bfcb9f7c868f171"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/ACCRETIA_ARMOR_SHOES_015.EFF",
+      "size": 528,
+      "hash": "9dda3250e6617e5a63acebd5810f928385ec10783e658f30c0279c001d644c8a0194a06aca136a7569e02e2e5ccfb6a178deb82137182f9e1bfcb9f7c868f171"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/ACCRETIA_ARMOR_UPPER_013.EFF",
+      "size": 528,
+      "hash": "39443bee35b8c87b8192c18119fdf54de7f3032b6742d6b375179da8419c99459fa2dc1190a3c5b07fc5cec8054433a5fdef8ce6fe1ff0cce0f43c097f118519"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/ACCRETIA_ARMOR_UPPER_014.EFF",
+      "size": 880,
+      "hash": "9fd867e44ed6c4b778d5e43034f663a07acc5cce75f214a529bcef2c6bedbed8ce1fac10dd5010e5f64f0003aa45b9884b048f60e6a4c0607213a894ac4503c6"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/ACCRETIA_ARMOR_UPPER_015.EFF",
+      "size": 528,
+      "hash": "9d2542ef9f8d941779809cd98e2e06e7839cff93866da34ce08862f3fda6cea81a5de2597782ad4630168b6939402c1c9ef988256a9dcecad07b852c1cc8c487"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/BELFEMALE_ARMOR_GLOVES_013.EFF",
+      "size": 528,
+      "hash": "c99667e52625d86d5d9f6cfa06461c32e1990a2030017d280461acc53bee4947bc895e6c06a1b4fe0fd8b0e6b705a538d4e1572da01cb7e4470b430648cd6198"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/BELFEMALE_ARMOR_GLOVES_014.EFF",
+      "size": 528,
+      "hash": "b0f3276f4407ed0f46b5b1e2d810c505b75653fd36e11f410b04348e14b48e3edc837ac9c19c033b89b8ad1224a39f47fd2229430014c7d65a583d787163dbde"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/BELFEMALE_ARMOR_GLOVES_015.EFF",
+      "size": 528,
+      "hash": "b46e022e7d37bb5f232b32ef19c79795de166a8fe4ddee3fc6fd4c6138222b311918be8e7078c75e0f758175718f7de0b43d1e6ba2b26c7ae87be9f6e0d15c77"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/BELFEMALE_ARMOR_HELMET_013.EFF",
+      "size": 176,
+      "hash": "b3d4edc42c08dd60e23a77717abfc60f8d6f3d68b33ec881c5d17b9b3a8d9023d77e5c832858fd2f804c4ea33358ad64b6040f02a36dc7f1aa4f86cc63aa83b0"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/BELFEMALE_ARMOR_HELMET_014.EFF",
+      "size": 352,
+      "hash": "f3c8f2e50904de8810bcf8140268d7ee8eaca6d96097a1ab590aaafdc46be405f0eca5891cfbf2720641212e78ce70280f8168e3caa515695afb4d64befda419"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/BELFEMALE_ARMOR_HELMET_015.EFF",
+      "size": 176,
+      "hash": "b3d4edc42c08dd60e23a77717abfc60f8d6f3d68b33ec881c5d17b9b3a8d9023d77e5c832858fd2f804c4ea33358ad64b6040f02a36dc7f1aa4f86cc63aa83b0"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/BELFEMALE_ARMOR_LOWER_013.EFF",
+      "size": 176,
+      "hash": "b3d4edc42c08dd60e23a77717abfc60f8d6f3d68b33ec881c5d17b9b3a8d9023d77e5c832858fd2f804c4ea33358ad64b6040f02a36dc7f1aa4f86cc63aa83b0"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/BELFEMALE_ARMOR_LOWER_014.EFF",
+      "size": 528,
+      "hash": "f328e42cb94cbcb389a10431bcc4723ba69d8484b9bbb69b1550786694c93fb1d30dfad7e365c03ddb552cc5c05f450f2eb6cbae4fed14b436014a33a5cc84a9"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/BELFEMALE_ARMOR_LOWER_015.EFF",
+      "size": 176,
+      "hash": "b3d4edc42c08dd60e23a77717abfc60f8d6f3d68b33ec881c5d17b9b3a8d9023d77e5c832858fd2f804c4ea33358ad64b6040f02a36dc7f1aa4f86cc63aa83b0"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/BELFEMALE_ARMOR_SHOES_013.EFF",
+      "size": 176,
+      "hash": "b3d4edc42c08dd60e23a77717abfc60f8d6f3d68b33ec881c5d17b9b3a8d9023d77e5c832858fd2f804c4ea33358ad64b6040f02a36dc7f1aa4f86cc63aa83b0"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/BELFEMALE_ARMOR_SHOES_014.EFF",
+      "size": 352,
+      "hash": "cd3219c2e451d0797842aa46aa47659f7f76015e9357f7fc256de83dbcdf7f5378aa9c70f3a577621d34360c2eafe0bc3948355eddf1087d094c64d46d7c30b5"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/BELFEMALE_ARMOR_SHOES_015.EFF",
+      "size": 352,
+      "hash": "b4e832358b1b3924f46d22da4274202dca30cab37dd4880293fc5cdd4843d4c2206adfbd916113b0e3cf03055f702c0436ef756e9ba4e1372438c353c2598ea4"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/BELFEMALE_ARMOR_UPPER_013.EFF",
+      "size": 528,
+      "hash": "8eae171a2918784f5d7d168dbc0046de952606ac7757a68257cd93f6bfa82a3cb07491830fad04323493d8cf164bd84bcc9ad7a77872d03521a4689380aaf8a9"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/BELFEMALE_ARMOR_UPPER_014.EFF",
+      "size": 704,
+      "hash": "94de8f1f42ef6f0c6a935db8aa822637ff1c9cf5bdcd0f05004a72d1e37032a4b448e5eb065eeca9a9b60d09e0a300a80812ad8b27b948a4666c65e78579b780"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/BELFEMALE_ARMOR_UPPER_015.EFF",
+      "size": 704,
+      "hash": "af4bb63f13359abefb33bcdb8c9413db9c04e77d53ca695ea0a4a15ad14ea932fcf30baf0d7616b50c382f5d9f6278097940d358f8bd2328d016bdbd1d474efd"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/BELMALE_ARMOR_GLOVES_013.EFF",
+      "size": 528,
+      "hash": "c99667e52625d86d5d9f6cfa06461c32e1990a2030017d280461acc53bee4947bc895e6c06a1b4fe0fd8b0e6b705a538d4e1572da01cb7e4470b430648cd6198"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/BELMALE_ARMOR_GLOVES_014.EFF",
+      "size": 528,
+      "hash": "b0f3276f4407ed0f46b5b1e2d810c505b75653fd36e11f410b04348e14b48e3edc837ac9c19c033b89b8ad1224a39f47fd2229430014c7d65a583d787163dbde"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/BELMALE_ARMOR_GLOVES_015.EFF",
+      "size": 528,
+      "hash": "b46e022e7d37bb5f232b32ef19c79795de166a8fe4ddee3fc6fd4c6138222b311918be8e7078c75e0f758175718f7de0b43d1e6ba2b26c7ae87be9f6e0d15c77"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/BELMALE_ARMOR_HELMET_013.EFF",
+      "size": 176,
+      "hash": "b3d4edc42c08dd60e23a77717abfc60f8d6f3d68b33ec881c5d17b9b3a8d9023d77e5c832858fd2f804c4ea33358ad64b6040f02a36dc7f1aa4f86cc63aa83b0"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/BELMALE_ARMOR_HELMET_014.EFF",
+      "size": 352,
+      "hash": "f3c8f2e50904de8810bcf8140268d7ee8eaca6d96097a1ab590aaafdc46be405f0eca5891cfbf2720641212e78ce70280f8168e3caa515695afb4d64befda419"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/BELMALE_ARMOR_HELMET_015.EFF",
+      "size": 176,
+      "hash": "b3d4edc42c08dd60e23a77717abfc60f8d6f3d68b33ec881c5d17b9b3a8d9023d77e5c832858fd2f804c4ea33358ad64b6040f02a36dc7f1aa4f86cc63aa83b0"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/BELMALE_ARMOR_LOWER_013.EFF",
+      "size": 176,
+      "hash": "b3d4edc42c08dd60e23a77717abfc60f8d6f3d68b33ec881c5d17b9b3a8d9023d77e5c832858fd2f804c4ea33358ad64b6040f02a36dc7f1aa4f86cc63aa83b0"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/BELMALE_ARMOR_LOWER_014.EFF",
+      "size": 528,
+      "hash": "f328e42cb94cbcb389a10431bcc4723ba69d8484b9bbb69b1550786694c93fb1d30dfad7e365c03ddb552cc5c05f450f2eb6cbae4fed14b436014a33a5cc84a9"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/BELMALE_ARMOR_LOWER_015.EFF",
+      "size": 176,
+      "hash": "b3d4edc42c08dd60e23a77717abfc60f8d6f3d68b33ec881c5d17b9b3a8d9023d77e5c832858fd2f804c4ea33358ad64b6040f02a36dc7f1aa4f86cc63aa83b0"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/BELMALE_ARMOR_SHOES_013.EFF",
+      "size": 176,
+      "hash": "b3d4edc42c08dd60e23a77717abfc60f8d6f3d68b33ec881c5d17b9b3a8d9023d77e5c832858fd2f804c4ea33358ad64b6040f02a36dc7f1aa4f86cc63aa83b0"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/BELMALE_ARMOR_SHOES_014.EFF",
+      "size": 352,
+      "hash": "cd3219c2e451d0797842aa46aa47659f7f76015e9357f7fc256de83dbcdf7f5378aa9c70f3a577621d34360c2eafe0bc3948355eddf1087d094c64d46d7c30b5"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/BELMALE_ARMOR_SHOES_015.EFF",
+      "size": 352,
+      "hash": "b4e832358b1b3924f46d22da4274202dca30cab37dd4880293fc5cdd4843d4c2206adfbd916113b0e3cf03055f702c0436ef756e9ba4e1372438c353c2598ea4"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/BELMALE_ARMOR_UPPER_013.EFF",
+      "size": 528,
+      "hash": "8eae171a2918784f5d7d168dbc0046de952606ac7757a68257cd93f6bfa82a3cb07491830fad04323493d8cf164bd84bcc9ad7a77872d03521a4689380aaf8a9"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/BELMALE_ARMOR_UPPER_014.EFF",
+      "size": 704,
+      "hash": "94de8f1f42ef6f0c6a935db8aa822637ff1c9cf5bdcd0f05004a72d1e37032a4b448e5eb065eeca9a9b60d09e0a300a80812ad8b27b948a4666c65e78579b780"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/BELMALE_ARMOR_UPPER_015.EFF",
+      "size": 704,
+      "hash": "af4bb63f13359abefb33bcdb8c9413db9c04e77d53ca695ea0a4a15ad14ea932fcf30baf0d7616b50c382f5d9f6278097940d358f8bd2328d016bdbd1d474efd"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/CORFEMALE_ARMOR_GLOVES_013.EFF",
+      "size": 352,
+      "hash": "90d648d07056330a9ff8ecd537c9d69d650830677dadc13a051fed11fafedbb2c495de68b318e8a28d51b79711259a19c5d081f57a32c1f64e9f3532beb21291"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/CORFEMALE_ARMOR_GLOVES_014.EFF",
+      "size": 176,
+      "hash": "4f9cd2db6260aaea6d625bcf8a6c72571b3a99a0831264378d189f1171902cddc3ed29c04478b3f175adf7800d6a3d215c48a79b1493b7b34fcfc909f55e3f48"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/CORFEMALE_ARMOR_GLOVES_015.EFF",
+      "size": 176,
+      "hash": "2e217f3f356e67b6b11da259e340bbd610f9fd048e61e8c397e57092f5867b30b3ebefe9e46c57ccc0656444569dde2528d7fb2a0fafc4c7ff08e9a665afc76c"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/CORFEMALE_ARMOR_LOWER_013.EFF",
+      "size": 176,
+      "hash": "7d80d78dce940d785f8344cb7a28a3cee8c9ba57f292e6717a1db3a42282d07dc6d4da9fdc17483fdf49578c75e2ece5d8dd827f6e4e75f486dffd7d049b22d8"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/CORFEMALE_ARMOR_LOWER_014.EFF",
+      "size": 176,
+      "hash": "2190f84fe9c611e31865ef568ba7358fb2710fb74b7a67f6a7c828154fae5a21644415548c944f4f84afafad5a47c1d7b3b344826af1c11749ef0ca8686e8ade"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/CORFEMALE_ARMOR_LOWER_015.EFF",
+      "size": 176,
+      "hash": "6071fde74dcffea2a13fe6c6116d7eac442b6b5db7b9ab46496b27058f3e0e764f51f13b37a46f445ea7e9be5f20f49e618f202ec0e8a9142793cccc59dd2b1c"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/CORFEMALE_ARMOR_SHOES_013.EFF",
+      "size": 176,
+      "hash": "0673669a51262ebebdb553f95bb0c9ed02cfe8ac3c804e06d00608788fd6ca5b30ec34902c6f5782f2bfe417b5b5d278b6e5d9758c1121d424d4cc9dab0dcd78"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/CORFEMALE_ARMOR_SHOES_014.EFF",
+      "size": 176,
+      "hash": "ff3474a796280092641357b03983cb8f5c014fa44d6ff0e0c3c06700f157e7437f8d3525967fb3d8a400ed64e7272ec2a16147e5a529651f19976e49ba113379"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/CORFEMALE_ARMOR_SHOES_015.EFF",
+      "size": 176,
+      "hash": "ecb277e5d79cd3b3941e0b9d475dc49024055053a78d4be5053d01ae63bffda13cf7812def930a50ad4f4032e74501ac1780bdacae8f8907738b0a09e30b9124"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/CORFEMALE_ARMOR_UPPER_013.EFF",
+      "size": 352,
+      "hash": "a07e1636484cf68d50acb227e7567757b171dbe7bf5149c233bef4163ffd1e1ba9d7db866ed5d7e1f997eb1d4a0815939d28219dfe803586de81805f1762dbc9"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/CORFEMALE_ARMOR_UPPER_014.EFF",
+      "size": 528,
+      "hash": "9037aa2ddaf0f1bfb06ecff7bfd87e651a5464345dcd045676d21b71578fe2755bba0b48da428fea55f36b102e6b1b4dc758a8029d1eb0b002b4e14728c61bb5"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/CORFEMALE_ARMOR_UPPER_015.EFF",
+      "size": 528,
+      "hash": "dfb43434662ab8aed5429df2849312ff5e5c30a9c7aa17c062b86b082815959a093ccd58eae118dad9027e1c0baeffa82f81989bd071d8827ae2ce2c1bf67d95"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/CORMALE_ARMOR_GLOVES_013.EFF",
+      "size": 352,
+      "hash": "dbe4b6eac5cff65b7758788abd48f0bea2e55a14123e58848db1ab245634335e56df24c8df81a812624a72fbe7809b1dd4f51e72a315b951fe10c688ccfc1f57"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/CORMALE_ARMOR_GLOVES_014.EFF",
+      "size": 176,
+      "hash": "2e217f3f356e67b6b11da259e340bbd610f9fd048e61e8c397e57092f5867b30b3ebefe9e46c57ccc0656444569dde2528d7fb2a0fafc4c7ff08e9a665afc76c"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/CORMALE_ARMOR_GLOVES_015.EFF",
+      "size": 176,
+      "hash": "2e217f3f356e67b6b11da259e340bbd610f9fd048e61e8c397e57092f5867b30b3ebefe9e46c57ccc0656444569dde2528d7fb2a0fafc4c7ff08e9a665afc76c"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/CORMALE_ARMOR_LOWER_013.EFF",
+      "size": 176,
+      "hash": "106d627bdb500fc8ff5bc6bc9d81a7766187263cc13391f93cb4be810692cc69fc96cb0e1b55b8af3e707b85ed5f6f50f47b74c99357258f009e2478cf37ad02"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/CORMALE_ARMOR_LOWER_014.EFF",
+      "size": 176,
+      "hash": "6071fde74dcffea2a13fe6c6116d7eac442b6b5db7b9ab46496b27058f3e0e764f51f13b37a46f445ea7e9be5f20f49e618f202ec0e8a9142793cccc59dd2b1c"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/CORMALE_ARMOR_LOWER_015.EFF",
+      "size": 176,
+      "hash": "6071fde74dcffea2a13fe6c6116d7eac442b6b5db7b9ab46496b27058f3e0e764f51f13b37a46f445ea7e9be5f20f49e618f202ec0e8a9142793cccc59dd2b1c"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/CORMALE_ARMOR_SHOES_013.EFF",
+      "size": 176,
+      "hash": "2a11b8ff9b280a78ee7afd322e147266ac66ae1c4d6d1a94b2f54184c63ae704ba23e7c7de0223feabaaf0d7fbdcdcfa738021ffe9aada9f4f4f6774c93b5a6c"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/CORMALE_ARMOR_SHOES_014.EFF",
+      "size": 176,
+      "hash": "ecb277e5d79cd3b3941e0b9d475dc49024055053a78d4be5053d01ae63bffda13cf7812def930a50ad4f4032e74501ac1780bdacae8f8907738b0a09e30b9124"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/CORMALE_ARMOR_SHOES_015.EFF",
+      "size": 176,
+      "hash": "ecb277e5d79cd3b3941e0b9d475dc49024055053a78d4be5053d01ae63bffda13cf7812def930a50ad4f4032e74501ac1780bdacae8f8907738b0a09e30b9124"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/CORMALE_ARMOR_UPPER_013.EFF",
+      "size": 352,
+      "hash": "93d7da01a9d9d083b7f75409e26cfa60f8ea0a75b8afebaab193cb91a1069c8300fe412da701ee1b457eb9955671e034636675cd19e2592bb338e15a499fde56"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/CORMALE_ARMOR_UPPER_014.EFF",
+      "size": 528,
+      "hash": "706de9546fa4d8d495589b0da8feb311c99ced2357b9c8b15b6c9ecbf2c69f7e0099e62344bc7ef9121a5671ecb53684dc48d120be9a3836271bee7c183fda11"
+    },
+    {
+      "path": "chef/Eff/60LV_WHITE/CORMALE_ARMOR_UPPER_015.EFF",
+      "size": 528,
+      "hash": "dfb43434662ab8aed5429df2849312ff5e5c30a9c7aa17c062b86b082815959a093ccd58eae118dad9027e1c0baeffa82f81989bd071d8827ae2ce2c1bf67d95"
+    },
+    {
+      "path": "chef/Eff/monster1/A.EFF",
+      "size": 176,
+      "hash": "caed6740f2ce626edb78cd8ea61a58778d43b5fe276e1613596922d55ef6bb608a059b18880c47087368e0979d6dfbf917db25caccecb0b3ea9b01cadc9146cf"
+    },
+    {
+      "path": "chef/Eff/monster1/B.EFF",
+      "size": 176,
+      "hash": "3cf325f6fdaa10a088eb53a7b2fc1d06d58dcce0b091a6dee083b37d128d9718d5dcf34086e94a53f0550ec5f29440c5da330a397d6359870bd50e2ed714e274"
+    },
+    {
+      "path": "chef/Eff/monster1/C.EFF",
+      "size": 176,
+      "hash": "9da891799980e9033730f5b1b60461480508347738ae95f49cd2ea8f318457a2c9a0b0fb1c1bc1090aa9c02fb9ce66e38af8958d940de9ec50802217e619cc33"
+    },
+    {
+      "path": "chef/Eff/newstyle/Ashd_01.EFF",
+      "size": 176,
+      "hash": "05e47947a8e7bce40d96b3507ee0aba85d586ecaa1144ba6c2c49bc32b261beeae75708c2ef0599ade9bf8aeae4d85ccfadf2a55d97f9d7365856e47993b6fc3"
+    },
+    {
+      "path": "chef/Eff/newstyle/Ashd_06.EFF",
+      "size": 176,
+      "hash": "e028f4d31573175992ed44b8ac2f5282c708c412ae3b073888a9cb3b6abdd9fa07eb8b2bcad7700f9829b497428886a053444287414f24a472501400575ca961"
+    },
+    {
+      "path": "chef/Eff/newstyle/Ashd1.spt",
+      "size": 818,
+      "hash": "88dac27f7358221089a94348860f91f4d11f1e168ae0d548c5d520a5fcc31cd158ae3bf4d5db7a6660f5209b788624dc4019886d5290e4ad3b3ccf7c44d7567d"
+    },
+    {
+      "path": "chef/Eff/newstyle/Ashd2.spt",
+      "size": 367,
+      "hash": "8fd6f99c0666749cc16afdbb393b8af6a343472158fb7dbacd9c5acdb76e4721d5b9b82ace76bebb16a4745c993abbc912b5cb02453881b36f5d38a3039461cf"
+    },
+    {
+      "path": "chef/Eff/newstyle/Ashd3.spt",
+      "size": 367,
+      "hash": "8e8d38c2773a26b47a95462a7c60996cb330e27ad1604d94e466017afc75259a9db36acde44c044ff04a89ff6ddd576b2f8c7593d12c3540f6638105ba8c1309"
+    },
+    {
+      "path": "chef/Eff/newstyle/BCshd_01.EFF",
+      "size": 176,
+      "hash": "86359fb0c890bfd542e393a0f6d40f418c1afa4bd87101dfb0ff89010d1e6ebfd9f8d330b34615de255db63f1558e0fb91d04e1b0b066242ac4925f723443e5a"
+    },
+    {
+      "path": "chef/Eff/newstyle/BCshd_06.EFF",
+      "size": 528,
+      "hash": "37a356bbedcae8b64fbfc022428de9c17769c392a1c20212ccc2ccb23fe9a30f53a5e5647ae79afd34b02684bc22a0a40542bd786cd61cde42ceed8400983669"
+    },
+    {
+      "path": "chef/Eff/newstyle/BCshd1.spt",
+      "size": 822,
+      "hash": "bb401d25ca88698ca6e5e4440f14c01247da5e234acc5d9159e535bf5b43bf95c21885fd4a2da4b854b8908c338d3b68d6e627acd0aa01b244b8ab606c78cb9d"
+    },
+    {
+      "path": "chef/Eff/newstyle/BCshd2.spt",
+      "size": 460,
+      "hash": "2249245690837af0194c8bee1e598cf456ef1cf20f38b048c289b18057315ec509f5bebda11b972f994e46dd9c5ca2c3e8a5e4eb9260b864df40f9a3996f0670"
+    },
+    {
+      "path": "chef/Eff/newstyle/BCshd3.spt",
+      "size": 459,
+      "hash": "ee971196ce651cb1632b50f74f104b8dd7ee84757d8474d833b3df5a467cd514ebb662b61385d7e865ac88c726a583c66d8a55707718b94aee4787f627fc1b53"
+    },
+    {
+      "path": "chef/Eff/shield/COM_ARMOR_LSHIELD_170.EFF",
+      "size": 528,
+      "hash": "b29de1100026f9b84e345800976e129135d1039b19de26f09957e5795ff4a480e4ca1d934835c45bc0652a9c1462db7fcbbea2843bd03077b5ce4a8a4da85695"
+    },
+    {
+      "path": "chef/Eff/shield/COM_ARMOR_LSHIELD_171.EFF",
+      "size": 528,
+      "hash": "7a23b4057254d04eb1f9978a49968aaefc28759b3a39d4a53554dc52c2a92b817fdfd00705ec8e96beba68980d3214cb2eb5d154cf7c685c5b4c8964f74dbb82"
+    },
+    {
+      "path": "chef/Eff/shield/Energy/+5-7/426p.spt",
+      "size": 976,
+      "hash": "45a036f8be0a62b0a17c7bb71cf921a79fd72224c65149bf359b359dc45844b3115be944e9222a235e87e7dbd1d88a81cec7b832f4315469cbdd2ea7f0eb9de4"
+    },
+    {
+      "path": "chef/Eff/shield/Energy/+5-7/center.spt",
+      "size": 379,
+      "hash": "1e5a07b3efb0511e2fcef83dcdb2227ba4596dac409c2beb00eb2399f318404c5432743f202babfcb22eecac09137c2da9abea9c61ff1890a99985d1f2eb67e4"
+    },
+    {
+      "path": "chef/Eff/shield/Energy/+5-7/line01.spt",
+      "size": 586,
+      "hash": "b83f4768b921a71652232f0f9bd2acd292d933576e6716697eea696e4c0c7a8e7b50fa1e3fdccc2eb5dd94197f8278095ca63458afb85c7fe3a1bb43b643e4a3"
+    },
+    {
+      "path": "chef/Eff/shield/Energy/+5-7/line02.spt",
+      "size": 590,
+      "hash": "3283cd48aae8785ac1a1c3bab0929c97bfaf6646425cca7293349914427d6a333ea8c7baf513a2a03c475b66e9c0e04e7188c955e2a9f3e335df05050b26fa71"
+    },
+    {
+      "path": "chef/Eff/shield/Energy/+5-7/line03.spt",
+      "size": 585,
+      "hash": "4dc1fe111250e4fa99a8e38319f64061a0554dbee80c1ccd29e18fb6300421fbbe48a29222be4ffbd7a86a102d582c8e42515413332667f5a913bebf0f71406d"
+    },
+    {
+      "path": "chef/Eff/shield/Energy/+5-7/line04.spt",
+      "size": 589,
+      "hash": "f3f0a36847996be5ab40715e70b2dd538c5aaa54d6feae70793c2afc750137f1239c2ab1d00311650f0da8f14dcf8bd5a656dd37028990e67d40520b078d630f"
+    },
+    {
+      "path": "chef/Eff/shield/Whitet_SHIELD_5-7.eff",
+      "size": 1056,
+      "hash": "06d5118aa64e5a9c73e584d321eae2bad2ca329aa83b1f6d0da273c93c21e62372f98b57d29d412f2b802ffb8cd526474e1350a4d5d7640200363b3634df8e78"
+    },
+    {
+      "path": "chef/Eff/shield/Whitet/+5-7/center.spt",
+      "size": 373,
+      "hash": "f291e81d3a5dcc1a6032ede765409c0bd84b38cc828016023e083e123635d658495b475e57af34ff0db039a48db9db65ae3b1c6cecd218484bc8eb618a312e4e"
+    },
+    {
+      "path": "chef/Eff/shield/Whitet/+5-7/dlcenter.spt",
+      "size": 373,
+      "hash": "f291e81d3a5dcc1a6032ede765409c0bd84b38cc828016023e083e123635d658495b475e57af34ff0db039a48db9db65ae3b1c6cecd218484bc8eb618a312e4e"
+    },
+    {
+      "path": "chef/Eff/shield/Whitet/+5-7/dlline1.spt",
+      "size": 587,
+      "hash": "fda4217aa4ba8231fb6e8dc161a2a5fecd482dd7d04ae306186a83b24c497d0b4b74e3c13b70709eec4d56bb8d185c28fd4b40adfc1d60be8f4bc98ae6d750da"
+    },
+    {
+      "path": "chef/Eff/shield/Whitet/+5-7/dlline2.spt",
+      "size": 591,
+      "hash": "3cb058baac1025610fdf6a407424a4f920e4f2f1c90967db2617e0dbb890669e3fed8e4b326e296d169809dc11d93bdcd1195cc2e8cca772fafc67a1b52fbe0a"
+    },
+    {
+      "path": "chef/Eff/shield/Whitet/+5-7/dlline3.spt",
+      "size": 586,
+      "hash": "2ad911a15172ef13a48b70a803061d51a784a7f3ad97c79987d92de2f030a1a7f09b4f2ecbc4b2902f080fdb1e1b7d476627176f1e766e1df2500ae53c3ef532"
+    },
+    {
+      "path": "chef/Eff/shield/Whitet/+5-7/dlline4.spt",
+      "size": 590,
+      "hash": "ab1bf4dff6b5e731c29d688a79cfd8fee351abaf280bbdbd9e6c936ada35a2856e8be740c5eadf720f7dba42b74161423bd59fa954f342c20d08d61b54d7d188"
+    },
+    {
+      "path": "chef/Eff/shield/Whitet/+5-7/line01.spt",
+      "size": 587,
+      "hash": "fda4217aa4ba8231fb6e8dc161a2a5fecd482dd7d04ae306186a83b24c497d0b4b74e3c13b70709eec4d56bb8d185c28fd4b40adfc1d60be8f4bc98ae6d750da"
+    },
+    {
+      "path": "chef/Eff/shield/Whitet/+5-7/line02.spt",
+      "size": 591,
+      "hash": "3cb058baac1025610fdf6a407424a4f920e4f2f1c90967db2617e0dbb890669e3fed8e4b326e296d169809dc11d93bdcd1195cc2e8cca772fafc67a1b52fbe0a"
+    },
+    {
+      "path": "chef/Eff/shield/Whitet/+5-7/line03.spt",
+      "size": 586,
+      "hash": "2ad911a15172ef13a48b70a803061d51a784a7f3ad97c79987d92de2f030a1a7f09b4f2ecbc4b2902f080fdb1e1b7d476627176f1e766e1df2500ae53c3ef532"
+    },
+    {
+      "path": "chef/Eff/shield/Whitet/+5-7/line04.spt",
+      "size": 590,
+      "hash": "3283cd48aae8785ac1a1c3bab0929c97bfaf6646425cca7293349914427d6a333ea8c7baf513a2a03c475b66e9c0e04e7188c955e2a9f3e335df05050b26fa71"
+    },
+    {
+      "path": "chef/effectfilelist.txt",
+      "size": 26932,
+      "hash": "64aa40718256beb4ec8b8fa860f0f22116e1c68ad015c82c856d826a0e45030132c900f2ebdf8c45806547e9351b9fa1203e7137c1b5da98090b548e83b850f9"
+    },
+    {
+      "path": "chef/itemeffectlist.txt",
+      "size": 101156,
+      "hash": "778d7f21b26476c426086baa21e754ba0de582eb5e0ef30b01089db9eac4ab12002c836b74340882ed0f126c62c20b3fcd3d758643b36001f64ddefb3dc0ba0d"
+    },
+    {
+      "path": "chef/monster.ini",
+      "size": 29519,
+      "hash": "c4fd2a82bf18968e221644844f784310bf9d195a636e65ea150ea35a6ac749ebcf20fae7df7cbb5936a0e5e6db489c012cff57f6538d83e1433dbcfbe72ebbf0"
+    },
+    {
+      "path": "chef/newsheld/ashield/1.spt",
+      "size": 976,
+      "hash": "0f793a069ad38aa65d4c6bcce5d3111586c34c51dc379ec6baf5c3113ecc08198ce6828dada9ea767b42585884b38c6e0dab2d5f435016788de4898d61429ff4"
+    },
+    {
+      "path": "chef/newsheld/ashield/2.spt",
+      "size": 492,
+      "hash": "d26daa002abc2853e62dc4dbfb4ee2d9cfa4e6dea58b647dedba6fdf3ad2cc15c62df2b43bf6c63651218e89745c42ccf15e9e2ef7ac4fc281cafc18a276e2c4"
+    },
+    {
+      "path": "chef/newsheld/ashield/ashield.EFF",
+      "size": 352,
+      "hash": "1bc667146418063ab64420af6503ebeb3b370fca2f7a59314b1c451bee94c418bd97a35cb4fbf03e6c0635db0224468ca6029cda6f480f78c17758d8553a292e"
+    },
+    {
+      "path": "chef/newsheld/bcshield/1.spt",
+      "size": 312,
+      "hash": "95c2b70e80c70f1e27c43b51a4e40ad07bb4f101835580cd4a0ed5317986e58b496d02fa02e5f528548fba96a69fd498b72398e6dbb43963a4ae0752ed91cebd"
+    },
+    {
+      "path": "chef/newsheld/bcshield/2.spt",
+      "size": 398,
+      "hash": "e9c1afa5ce34e139ed54f36fbc9023c98b1fae5f1370bbe9a579bfc4c7cb5f961eb4c7cb3ebae001631386fd88119429d864e8096b84614cd65561a085f2feb2"
+    },
+    {
+      "path": "chef/newsheld/bcshield/bcshield.EFF",
+      "size": 176,
+      "hash": "738d7b830933bb8cff380a5f447426c6d6abec9f03c7b4010779050d2a4b640ebbcf7abe0f95e8b67283dac2a4cf517f8890a74cd3f54e455db9609b838d430d"
+    },
+    {
+      "path": "chef/Npc.ini",
+      "size": 1561,
+      "hash": "4b963fda6b8780b03f10ecfdf625e95bea3e81180b1ce3a0d186a3d8b14cfe635e257cbddf444fe8ae8cff4c7d2abaaf46c0a48f8724bf8bc54ca798a31b270d"
+    },
+    {
+      "path": "chef/Particle.ini",
+      "size": 105893,
+      "hash": "deb382ca6817ae5b55ae98ec7e02aec1c0937ed6037fee5224bac391e86c0b00c356ae178d4143fa596060f31cc312085538d5c1c8dca88c072d2a4bc0ccd40f"
+    },
+    {
+      "path": "chef/patternlist.txt",
+      "size": 20371,
+      "hash": "0bb654299a0648dd83b20250267b9eec3c16a109903ff59c9b456540bb3cb8be5d038233bf9ae34acb23fdf60217d887f2628dcc7f5a87c68ec7b0667a0b436a"
+    },
+    {
+      "path": "chef/r3e/781p/lvup.r3e",
+      "size": 208,
+      "hash": "956ee4f10a86fb5bb32451f547fb5a453099d71d5d8216193e5f0d6b08149e58f3bb978a00abfe8a5102fe4649f85eaed50aa5f9b9e5bdb60a2a2923c3d34b07"
+    },
+    {
+      "path": "chef/r3e/781p/lvup.r3m",
+      "size": 198,
+      "hash": "d94bf8ed0ac71a78aa61049c05fe391f7c64b60f6692e4e6838bf309945c23b00ccc068ee03fffdf350c05190dba72d387e2cd18410accc8b010e8a473c9ec32"
+    },
+    {
+      "path": "chef/r3e/781p/lvup.r3t",
+      "size": 11204,
+      "hash": "450c97dddd120be38a3e93e014e3cad913122a2eafff54a98dbf04bd66d87d8917dd2fa2d5b8ff19417890852ffe2a80e807accec2f04815ac73b99ee7dfbd85"
+    },
+    {
+      "path": "chef/r3e/a/lvup.r3e",
+      "size": 208,
+      "hash": "956ee4f10a86fb5bb32451f547fb5a453099d71d5d8216193e5f0d6b08149e58f3bb978a00abfe8a5102fe4649f85eaed50aa5f9b9e5bdb60a2a2923c3d34b07"
+    },
+    {
+      "path": "chef/r3e/a/lvup.r3m",
+      "size": 198,
+      "hash": "d94bf8ed0ac71a78aa61049c05fe391f7c64b60f6692e4e6838bf309945c23b00ccc068ee03fffdf350c05190dba72d387e2cd18410accc8b010e8a473c9ec32"
+    },
+    {
+      "path": "chef/r3e/a/lvup.r3t",
+      "size": 43972,
+      "hash": "5924cf5fbd410eea8a1125f85984f29e3cd4d53a499038b5746e49dcdae8dc3d4ea2b27127cb6d841de1ad45f19918402545239b2f806737914ee8f4a049ad89"
+    },
+    {
+      "path": "chef/r3e/b/lvup.r3e",
+      "size": 208,
+      "hash": "956ee4f10a86fb5bb32451f547fb5a453099d71d5d8216193e5f0d6b08149e58f3bb978a00abfe8a5102fe4649f85eaed50aa5f9b9e5bdb60a2a2923c3d34b07"
+    },
+    {
+      "path": "chef/r3e/b/lvup.r3m",
+      "size": 198,
+      "hash": "d94bf8ed0ac71a78aa61049c05fe391f7c64b60f6692e4e6838bf309945c23b00ccc068ee03fffdf350c05190dba72d387e2cd18410accc8b010e8a473c9ec32"
+    },
+    {
+      "path": "chef/r3e/b/lvup.r3t",
+      "size": 43972,
+      "hash": "c5ffbff87e35ecf056f036aad00d4be78f620c61482297156565b0ab9dd6fa5e63314af7056171fb9357a19d1fe52287de4a0c350302ff5a2626b2da2728f3c1"
+    },
+    {
+      "path": "chef/r3e/c/lvup.r3e",
+      "size": 208,
+      "hash": "956ee4f10a86fb5bb32451f547fb5a453099d71d5d8216193e5f0d6b08149e58f3bb978a00abfe8a5102fe4649f85eaed50aa5f9b9e5bdb60a2a2923c3d34b07"
+    },
+    {
+      "path": "chef/r3e/c/lvup.r3m",
+      "size": 198,
+      "hash": "d94bf8ed0ac71a78aa61049c05fe391f7c64b60f6692e4e6838bf309945c23b00ccc068ee03fffdf350c05190dba72d387e2cd18410accc8b010e8a473c9ec32"
+    },
+    {
+      "path": "chef/r3e/c/lvup.r3t",
+      "size": 87676,
+      "hash": "66bc96773013c687896fae7f28cd798917b101cdbdb5a43d777eea84c1bc622979cbab23b8d876905adf2b7acbd37beb11cd8198f0bb6f82b3a456822685d0fb"
+    },
+    {
+      "path": "chef/r3e/snow_p/snow_p.r3e",
+      "size": 268,
+      "hash": "37b7e92c3232373f97bce51006294029636ed43f70b255e21380a56ead8bfc2dff121fe924247cd38c7bb7f3da816f24dfa3604f101dca188c54a00fd7032046"
+    },
+    {
+      "path": "chef/r3e/snow_p/snow_p.r3m",
+      "size": 198,
+      "hash": "657460f0915deeae4247c8ea5321d6aae7574133b2e01768cebdd5186f65980a7367f0d7fcd067013e14cba5aa430eefe85934e1bb0c864902e1e25b0b00ccb2"
+    },
+    {
+      "path": "chef/r3e/snow_p/snow_p.r3t",
+      "size": 5756,
+      "hash": "f95deb0af218a57a9b2863c477369f964e43ff605f49472aa46bfd56fa240b01518dcb4f8e6c3904d0622002c0b1103fc2926ff7ed80e7c35d10ca81a965f928"
+    },
+    {
+      "path": "chef/r3e/spkl/spkl.r3e",
+      "size": 208,
+      "hash": "956ee4f10a86fb5bb32451f547fb5a453099d71d5d8216193e5f0d6b08149e58f3bb978a00abfe8a5102fe4649f85eaed50aa5f9b9e5bdb60a2a2923c3d34b07"
+    },
+    {
+      "path": "chef/r3e/spkl/spkl.r3m",
+      "size": 198,
+      "hash": "d94bf8ed0ac71a78aa61049c05fe391f7c64b60f6692e4e6838bf309945c23b00ccc068ee03fffdf350c05190dba72d387e2cd18410accc8b010e8a473c9ec32"
+    },
+    {
+      "path": "chef/r3e/spkl/spkl.r3t",
+      "size": 11204,
+      "hash": "77a231aa05e5198a470ac589cbbc6ec5e6fdd66fec52f50d110a24e68a141f3d5b37da428e040d2fc247a0526bdee83d7ae3f13c0fb287bd2db394f778ced722"
+    },
+    {
+      "path": "chef/recall.ini",
+      "size": 1374,
+      "hash": "5440c5f0e13f2ed4ab30754575133f49da1bd1455c25c9eafa5b3a305ffa74418ab7bc7c3148c40fff062749600b41923ace6fcad2e17ba38626f13bc6cb4275"
+    },
+    {
+      "path": "chef/Runeweapon/Opex.EFF",
+      "size": 1936,
+      "hash": "994aaa446612a8143f3b1d3fbb836cba20d2c960e5557e1b1a8b502788d776431913251169e83a7a1fe0f2756347072e9ae6418ce57ba2fa1ba3563f6044c058"
+    },
+    {
+      "path": "chef/Runeweapon/spkl.spt",
+      "size": 401,
+      "hash": "ab4b74b23e0f60b881bb2faeac5d6aec4da1837aae39c318d7a748880506ae235ee289941cf5f8b886a5bdc1754717433031e54260c6a55a3b7712f72aed27d3"
+    },
+    {
+      "path": "chef/Runeweapon/spkl/spkl.r3e",
+      "size": 208,
+      "hash": "956ee4f10a86fb5bb32451f547fb5a453099d71d5d8216193e5f0d6b08149e58f3bb978a00abfe8a5102fe4649f85eaed50aa5f9b9e5bdb60a2a2923c3d34b07"
+    },
+    {
+      "path": "chef/Runeweapon/spkl/spkl.r3m",
+      "size": 198,
+      "hash": "d94bf8ed0ac71a78aa61049c05fe391f7c64b60f6692e4e6838bf309945c23b00ccc068ee03fffdf350c05190dba72d387e2cd18410accc8b010e8a473c9ec32"
+    },
+    {
+      "path": "chef/Runeweapon/spkl/spkl.r3t",
+      "size": 11204,
+      "hash": "563890cf1bcfc620a2131083ab031dbf1dc1ebb920e2120f4eb2a201a63a13f14f4a5766b71eae8678874d4ba22baabb8a75b0793deb60372dce7769d6a534bc"
+    },
+    {
+      "path": "chef/Tex/asilver.dds",
+      "size": 87504,
+      "hash": "2254614006991c8d64556a01e73e6849d8810aed120c88b4bc748f7597a5750acf5a600c89e9733c2f0c022d87b491edbd3dca8625a33ec9a38217d8ead94127"
+    },
+    {
+      "path": "chef/Tex/Show1.dds",
+      "size": 87536,
+      "hash": "5f343be4c3a7365115f109b2c11fbbefbd525c97d0b09c088a4b965deaabcbec68c2f1776946bd4e66573ddfbfdc8c3c8a8e611a36c1b0d7d1666f0b947c8f94"
+    },
+    {
+      "path": "chef/Tex/Show2.dds",
+      "size": 87536,
+      "hash": "517300c5e682db4182c41164ab5092587d7051ef54dafc306116be4974ca1b11bfc932d2087325893ecd3387e658247aa1a60ed864a50ebe18147185ad30ead2"
+    },
+    {
+      "path": "chef/Tex/Show3.dds",
+      "size": 87536,
+      "hash": "8cc5df19b6e5146362459631e95bf1fe1e71dd6986ef4dceecb30b6ac663e8e1871b41b1121fc6811633ab1aad58558e054a9673b0ef6c8c82e729719e001a67"
+    },
+    {
+      "path": "chef/Tex/STAFF_W1.dds",
+      "size": 87536,
+      "hash": "af6dd1456d890672a54b2987222c2526962d53bd09deb678da7ceda2ac3fee56329f722be57d0037f2c5d415cb2279211aede859522243ff01de73d395588952"
+    },
+    {
+      "path": "chef/Tex/volcano.dds",
+      "size": 22000,
+      "hash": "2b8455ebcd7d32f88b76135b7e04888c1e16f2247306ee5f23189a22a7c91965111041b230320bb1c2ac9979f3dd302112b3d5d196b53a987c2350eee1c5296f"
+    },
+    {
+      "path": "chef/Unit.ini",
+      "size": 2568,
+      "hash": "5b6fd8fb9dc0924ebe7b57e8e485bd82306b7687c2ddd257331bb7b246425a7dba2edf1b16cdc07f401ab4a9a0ac96720ef8dd001ab6cb57d51bd53d7f5cdb8f"
+    },
     {
       "path": "D3DCompiler_47_cor3.dll",
       "size": 4916840,
@@ -11,6 +1136,1741 @@
       "path": "D3DX9.dll",
       "size": 1970176,
       "hash": "f664cbf2916192e64521b4885e3d09f609af5742ded50adbfd58aa1d80b1fb2c3001c0f5e20b4609d74ad56ca2a23b9014a0260bd5b759c095c0f4de88333b5f"
+    },
+    {
+      "path": "datatable/advr.dat",
+      "size": 20104,
+      "hash": "b17d271e3cc4a97f3d377575524cdaf63661d06fd580685b1f21cc78ea61f3232b9856cc0945dcf989eb0df14d5cb128bcbe1c23ccf6b41c62c782ac00579f11"
+    },
+    {
+      "path": "datatable/ar.scp",
+      "size": 28755,
+      "hash": "cf3455ecc5bddc2ee2f2a07fa9bb1011ab347878cde8d45813843aa4b23ca723ec4cde3150ef5699e755884cedef1e4d10b801cd26dd5b2e9ab544c2d45b198c"
+    },
+    {
+      "path": "datatable/as.scp",
+      "size": 28792,
+      "hash": "744136bd5a2fe6b7d960625993f97cbc669853a9bbb032e41085d57483c8e95363dcc4fa04bb5e391522fc73a86faca9e63f762685804f5adee555fb412356dc"
+    },
+    {
+      "path": "datatable/aua.dic",
+      "size": 4,
+      "hash": "013f70b1f5095e9220c4dc1e166645889479d832dc53c565dddc289737af704866c9f2584953b6667197f8eac2462b07621fff8eb30154656e9cd464b897c988"
+    },
+    {
+      "path": "datatable/aw.scp",
+      "size": 27208,
+      "hash": "6c472a97ce9c0feba5d70d2d8a9b6546c13d1b8a42cd49c37f4cec30d895705a00a41f4f06194fe33c119666fca0b3cec97a1d617ba188a483528506b007f847"
+    },
+    {
+      "path": "datatable/battledungeon.edf",
+      "size": 154197,
+      "hash": "9f905eec1348135ec03d4ed22246412e7cd770eea9e2683eba34236dfb2c734fce3011ef573747cff145ca65bc4e8904aec59082155b238da067811a6c4c27ee"
+    },
+    {
+      "path": "datatable/bf.scp",
+      "size": 29135,
+      "hash": "e1e7c310c1ca3a46af434c69da5daaaa98777ab089da8de05182e12e8bff00b52e989b6e78e850b904ba60d520bd14be509f1d52fe1b49e22ca3abe625c5bc9f"
+    },
+    {
+      "path": "datatable/br.scp",
+      "size": 28727,
+      "hash": "53c715fe1b82d5d3fd0aa96cdf08a33fc28b3afe8578c5dd461f7eac1cfb9010db59dcdad54ccafcf9e50d908d869599df827b570a0c44e90eccee1ab3a6e1ff"
+    },
+    {
+      "path": "datatable/bs.scp",
+      "size": 28726,
+      "hash": "4a5cec8b2cf1d8a0d74ef77c99aa7007ee3ed20df3bd370ac6a41e3646cd92881c9e2b885887cbf7b5cfceab8bb050aded244bd620f80ee6a4145d964e6943fc"
+    },
+    {
+      "path": "datatable/bw.scp",
+      "size": 27185,
+      "hash": "24bd2ab4b907774124c94a7ffdc73bc57354245747b74850ddec452c91cd8bf0f0f819026cef10cbd3498c7f3d95d570c863b1b9f81739a0f88605d50fe58fdb"
+    },
+    {
+      "path": "datatable/cashshop.edf",
+      "size": 26601,
+      "hash": "ee5937599dcbf5e95c18062d23e9f53d62f49de45b6e52617801d6d9f5e2d1bcbe506b12d57343a649eae608335aa59ba1759e36c4c577d07466ed71a4818714"
+    },
+    {
+      "path": "datatable/ccrlogo.dat",
+      "size": 116,
+      "hash": "f75651d14e47ccfd98c28a79fdaa3514edc8fdc1cec09465d30e3bcc7ae0e52a94dfdbab9517da41973854a858e2a586cfce93a11c71583f546186567d34663b"
+    },
+    {
+      "path": "datatable/cf.scp",
+      "size": 29179,
+      "hash": "a4a9885936fc98a5d6ef28f86a5ff4397f65d4dc773a6d3ba9d8a79dab0e0527d4b4da6b1d45e2f21969f19bae7abc77f60cef16cff551b596ace55e7345a0d9"
+    },
+    {
+      "path": "datatable/character.edf",
+      "size": 671333,
+      "hash": "9a881a1a121f92dbf2fc307dde6f12375c079e7ce8ce3e4ffeeae7abfc19fa83d26ae137d09be70d7c5a04118c416f75277a12209554585daa44c6f555b8bcb5"
+    },
+    {
+      "path": "datatable/class.edf",
+      "size": 8729,
+      "hash": "bfa77a3024f7c2d7c9d5f080597feb7ef8886acc7e287c74bd2bf6e81989699782d5a6e57e5cb3ef29e5298e008e878f6f5fdd948db40d673e777b606224642d"
+    },
+    {
+      "path": "datatable/cr.scp",
+      "size": 28733,
+      "hash": "f79f2a270bf6c90b6a936e8eae35f33fc721bf8df534a63d2e8ea2862d65d5dc368e6355f4e51b5acc51830c936d46f3e38b33ed3309470735321172ae3b9b58"
+    },
+    {
+      "path": "datatable/cryp.dat",
+      "size": 38384,
+      "hash": "052537bc45a42012b7d355e4aeafe1a29917fe5fd1fafc23c3dc09319428309b700c3035a2465231fc73fcfaa84d3de26c3b53bbf685a3efa1ac4c77e1f5263f"
+    },
+    {
+      "path": "datatable/cs.scp",
+      "size": 27200,
+      "hash": "69a346931d539ac7fc94ce806cabf112b96d60ab9c126554d2cc86998ed7da75cf9c4d148cdbffce1988c25fb6c472e8b01ea875dae516504c81fab141cd1af2"
+    },
+    {
+      "path": "datatable/cw.scp",
+      "size": 27209,
+      "hash": "85a2f70b38c21a586a4a46932a043bc729530db3d1cae6c0f058eb2732a44845c308ded50be2f28bccb655d678d7d3703f068cae3c561b7983408c66d9471ed5"
+    },
+    {
+      "path": "datatable/event_msg.edf",
+      "size": 8181,
+      "hash": "a5a1970b0758a5a5f0a42cef787f0e1ff6aa84dbd07ac01df274996fec26b2a7329d587412826bed52740077f7f2bc8915d40b75cd91707f822282e3548eabea"
+    },
+    {
+      "path": "datatable/eventship.edf",
+      "size": 41609,
+      "hash": "e83f563f3a8ac83e6f8848638b5742f9bc1d68ff14af4a5cdf2a8b5b91cf05965879717db4b24a7d08ddce48ba49d8edfc0c40f1430d49c4c1e50abd1bed0090"
+    },
+    {
+      "path": "datatable/eventsound.edf",
+      "size": 361,
+      "hash": "7c7469751c5733fd500878fb61c88adbc3311b52490d4a2348e78093974525dbb8c1e8e75ecd424071449ea7b1014632ded3dc810da132cddcc45cc4ab21ebe5"
+    },
+    {
+      "path": "datatable/exp.edf",
+      "size": 13561,
+      "hash": "5c6a2c1f6c91d56d96299da8982ab436ab488ebcc2ea41090819da9b971773036e94591460fe37d0f2c75141b17d9ddfddf388606164d9a0f7798b93af751c59"
+    },
+    {
+      "path": "datatable/fg_cb.ini",
+      "size": 42,
+      "hash": "79d454f1e661fff75f61ce965e2223473383dcc6872293820c75b4488012af0d84b0a6701f4930a9f273b6bdf258801cc009d5dd0e151b72d51653d5b3b2c466"
+    },
+    {
+      "path": "datatable/gamedata.edf",
+      "size": 48360,
+      "hash": "aec53f27e6f423b73541a26f8dd9d0e90e7add4d39a0c3db605a9c1166e0f5002af48bcd9685aaf68056fde08a6ea022875a04d0d5038add751c90be14edd084"
+    },
+    {
+      "path": "datatable/hint.edf",
+      "size": 9483,
+      "hash": "aed45cbf11d8a1c302dd4ccbe42fef8336f829ce97da5106d4a85b62429f7a0db82b5d00c5c0f824d559cf420cf7385b249414d2304ccd7567544ec6aa399790"
+    },
+    {
+      "path": "datatable/item.edf",
+      "size": 1612715,
+      "hash": "dea8ec70c99bc62b68412a419a0cd18577c38d5eec91ea18fc0fd3d8d15766e9e30a7f7e08be265f5a308ca43509de40dcd5cfdb55e8f166db7b198029ce6398"
+    },
+    {
+      "path": "datatable/itemcash.edf",
+      "size": 35561,
+      "hash": "1c6b5c1c37505b113811f061f8517ae2ca0851bb51b81ec26c89e2e69e0ec7bff92b84bb96dee3ec25e72ad2b648da6dd9c060280add13fbbcfb1588b7ecd5af"
+    },
+    {
+      "path": "datatable/itemcombine.edf",
+      "size": 208997,
+      "hash": "148f9134d782b03114e6ce429e5027716d36d2e52e8fe7467c24f8c7a8e5c06b95b7fff0d7682c1b4d20ab0da42ce43126785266c4f8dc4dc57c35a976181a3d"
+    },
+    {
+      "path": "datatable/itempremium.edf",
+      "size": 250561,
+      "hash": "4e97807b6cf0a1b2f001590ff7548141b661feb972c895b190848d79194a4293fee11c6d03b8f9d61e5221f5fc55dcab21715ce7c9fa8ec01ca496e0bc7fa86b"
+    },
+    {
+      "path": "datatable/itemseteffect.edf",
+      "size": 43497,
+      "hash": "27949c7037f6c0c84438c62bc0fb0f0082cd6ae7c3e79d520d98370c669688eb67b4a2f49603f897aff25afaf72a38bbd7caf3a5ad4b2b02c4da46d5fa8c357d"
+    },
+    {
+      "path": "datatable/itemtimer.edf",
+      "size": 585,
+      "hash": "a45c650b47124d0f97ef878afe5f5655363437066d6169065b8e152e82ceb8b6c00db03a194395b88465de0f916ff30d38bc6b2d11da4528b1a5ed4c14dc452d"
+    },
+    {
+      "path": "datatable/iua.dic",
+      "size": 212,
+      "hash": "024255fba41c77dbecc6f7cd14f80149c6fa1d96214501fd643b4829f905cfd1a6411d66669642c7aa96cf79461973a52f1ae1add124b84a5f5ddbfe5027dee6"
+    },
+    {
+      "path": "datatable/keymap_nkm.dat",
+      "size": 1874,
+      "hash": "bc2e1a9edf8118963fa031a92507aaa1f6af06f774afee058f896e1bed1b690fad36bc615e85cc55e65dccda95b9c31b502c6beb174ccaaa5dfb85d9000eddde"
+    },
+    {
+      "path": "datatable/keymap.dat",
+      "size": 1948,
+      "hash": "96ce757f99ac34a9068b8d2de5c708042da0edd1916cf5ccdac40219cae7ab7b074ea987980f01a13873c0544207fcc96992d5afb6827a65e8a347e2ff9262cf"
+    },
+    {
+      "path": "datatable/langeng.edf",
+      "size": 105264,
+      "hash": "84167f863bf11831b684743789f6b1e4dc0799b12ef51959e556fd369467554d349cbbac8e2b5073ae5fa126f4d0c68da61f8fce323495d9cd2bd15c6c327178"
+    },
+    {
+      "path": "datatable/language.pak",
+      "size": 2279161,
+      "hash": "17a33b7e868d3dcd041489856192a5583e72b5c09fa1c5420d4f09b17d5a1ff3fcb31f48befd8ed824f8c51c8da06f71280cf2edc31b7fd5363c79a74a358738"
+    },
+    {
+      "path": "datatable/map.edf",
+      "size": 204611,
+      "hash": "a4a1a8dbd926f277498a98f48081f6685011403b44ee242c48746b375b1f87a5ca216d7ee8b37fe8bc15be2e3f21abac6d99cab27e6962b023459cada974a276"
+    },
+    {
+      "path": "datatable/mapdata.dat",
+      "size": 52254,
+      "hash": "e17e7bbfce4d1ce957b7b16cbf3824f25d6f613bcd1e34477d7ae13d96d651e582d65fff92a0e2c31d2d4707c2eadc18e3dff7caab22282080f0e3d3f00f2846"
+    },
+    {
+      "path": "datatable/Modules/[Client]BattleData.edf",
+      "size": 337,
+      "hash": "f8456a1b3d42d63f00692ab2ec80fb03481e57fd33f35836bcf0fb25f802813bf7bb70fb4a52b0516a9d745c1112fd6ed4aad83bdf40d37cea96b80083c7717d"
+    },
+    {
+      "path": "datatable/Modules/[Client]BossRespawnControlEx.edf",
+      "size": 15081,
+      "hash": "66aaa3da3ab37cd18962b3f6114fb337107dd7c22f8f9396d2cc1cf1e8ce34e5b6429a98d451069f7bad12ae4d1bb6fe21faf003f14509032311130356c8b212"
+    },
+    {
+      "path": "datatable/Modules/[Client]BoxItemOut.edf",
+      "size": 105741,
+      "hash": "5132621d68c355488769c1e2c94f74e422df7711213296957a3245c1377d8a6111ed4bb273a193b2a55f8bcf071dabe17ad4af1f086754ba014ec4f149644025"
+    },
+    {
+      "path": "datatable/Modules/[Client]ButtonEx.edf",
+      "size": 1109,
+      "hash": "f68775ae9a7e84777f496415e29b0b2b00b911d9ae296d3fc63334a101bd3d644ae84565215087817d2de56068212fee5c472cd42bee4a93c4559430be9631d4"
+    },
+    {
+      "path": "datatable/Modules/[Client]DailyReward.edf",
+      "size": 1289,
+      "hash": "6d65f82b9c8c2f0f1a3e2f7c8507ef58ab3d25e2abed2ef68b6e8c94458b35625466ca6b87f83cd5bde26615bd5dbe159742e05112aa4d449942514e384436b8"
+    },
+    {
+      "path": "datatable/Modules/[Client]DistanceView.edf",
+      "size": 705,
+      "hash": "ed0fefad8b9d5f7fa608ccf0e7d21bd26e12a3adc784185e131fd65810fe8264631dd32ad87d6cdce7c4f991eb437af30891dded1adbcf523a1667061253afc1"
+    },
+    {
+      "path": "datatable/Modules/[Client]EvilFate.edf",
+      "size": 981,
+      "hash": "ae7559419cc2711ccaa6b51717d822390c213d5f9654d99a93113410f9c233f83211a08eb124a17ffe1fbc632508763fcad5ac38e81bc1f1d446e69bc966f6c7"
+    },
+    {
+      "path": "datatable/Modules/[Client]Illusion.edf",
+      "size": 981,
+      "hash": "18f22771cb49c5b4cfc1c273af572861552fefa919afd28066a97b50766f1913229f2ed55914dc8a5392d605bd7f6d15fc0b02fa1ed74f4046629f9397580912"
+    },
+    {
+      "path": "datatable/Modules/[Client]ItemUpgradeEx.edf",
+      "size": 1980,
+      "hash": "8e30b975564fbded613925f5c6d21fba632ec44e737d66cea708ee8230f3573a7b624ca813154b48db5288723002f59ad91f77b9c78cb8fad583b5c256d7477b"
+    },
+    {
+      "path": "datatable/Modules/[Client]LanguageEx.edf",
+      "size": 160829,
+      "hash": "f6e95c422cd432bbb66855d1fbe78035eb8bdf8ed9d041636bfe6ce07c73232c36bf1b4e655f5270227473ef1ff1b5d8aa66c844c8ec5955b42adc497e507183"
+    },
+    {
+      "path": "datatable/Modules/[Client]LocationData.edf",
+      "size": 11637,
+      "hash": "71e0a789b111e238ed55f0aa1aeaf6c098fe5180309524150a1006e93d8c3e852de259ddc44a4a7971725461e83a3f92eab55ac5b3ac13572addb6569de872e4"
+    },
+    {
+      "path": "datatable/Modules/[Client]LootingData.edf",
+      "size": 1097,
+      "hash": "ecab93af71758e6664e7d9db0605c72e1c756dd6aab28212558c36ea146cc82001d43c2cbbe83567ba5519ef5973c6dc978aed2f1fe7eff520065daa899f0eb6"
+    },
+    {
+      "path": "datatable/Modules/[Client]MessageData.edf",
+      "size": 3905,
+      "hash": "e51000e04f70a7f991dac0547c1adaab426bc67b56253f4e10829598f6bf826f66a927737c6db856e48012473fe0de9a365d62e25fb223fc9acdfc5145b18f95"
+    },
+    {
+      "path": "datatable/Modules/[Client]MonsterCreateEx.edf",
+      "size": 6977,
+      "hash": "6191ae488e402e35ad1602e2d006355979d1b526b99362c568c616f06b6f792d60b05007e2e28a40eac12a93cdcf4048a17c3451c44791e903562798d0f51676"
+    },
+    {
+      "path": "datatable/Modules/[Client]MonsterDestroyEx.edf",
+      "size": 6977,
+      "hash": "849c0c685572baf6d99be161f2dcd1b81afbc29f1d97d027071e204defc5a942ccd534aecc7ce8861bb8e4b0c386b80a5bb21df868ba4ade32cb363759b873d3"
+    },
+    {
+      "path": "datatable/Modules/[Client]ObjectData.edf",
+      "size": 341,
+      "hash": "127edada3d58dab60d64cc43852f29482e30d2778bfc65a032fe902a4e04d6efb4e0094334b1150d4a08e97fb3c8aa4f87f0bd7fa389cc22a5e0d7b6942f27e1"
+    },
+    {
+      "path": "datatable/Modules/[Client]OffsetEx.edf",
+      "size": 2777,
+      "hash": "b0f3bd987fef4bb7d0521c3d8a9162e0fc9be4ba7654f5b27e478d8cafc104595b8e58d22cbf50b01cf3b5cc0ca59b82a004c3983248c4ac54e8031f390fd2dd"
+    },
+    {
+      "path": "datatable/Modules/[Client]PotionEx.edf",
+      "size": 3377,
+      "hash": "8f0eadb693d2ef785534a226c0b7d2e0937535bfcd3fb4f08fc34287da68f10d6c8f29c24e9a10f378bcee51eb18504c46e03ce5442c70a71ddd91a3dac6f060"
+    },
+    {
+      "path": "datatable/Modules/[Client]Retribution.edf",
+      "size": 981,
+      "hash": "acabf179b4ecb7e2620b951aa1111003b3ebf1c54fc734ce54b27da4be0c1f16f28c92fa1be2222eb07d3883f99cb5c46767c9ff09b6c0ec087194399887ad90"
+    },
+    {
+      "path": "datatable/Modules/[Client]Teleportation.edf",
+      "size": 973,
+      "hash": "d65698285fd141d8d4d032b339f63b7bc6d63cc0cc0fcc45f6b5ca77a25f7d492edf6d49c11d47f4a49f2bb61592fb4b9981de9291a1436a0da246ea9365018f"
+    },
+    {
+      "path": "datatable/Modules/MauInterface.ini",
+      "size": 624,
+      "hash": "5b25098b19768792c340c7c1a5e40db6369282db12af1fdeea59af19485d1da23261eee7aa467881fc1e8f890ca6198dca070664076d755fca42189cf408df25"
+    },
+    {
+      "path": "datatable/Modules/ModuleSetting.ini",
+      "size": 378,
+      "hash": "1127b17b8fea6694a7d1220c1cf2a6487f4a8bc4ed11977b81e73e47d00f3824c879c446c0d7ede5aad8aa68524d4d0294e21115347fc22f40d8f0943c429a59"
+    },
+    {
+      "path": "datatable/monsterscript.edf",
+      "size": 3824293,
+      "hash": "7f47dd24cb727c200b6e0fece433d6146c690e684b451659b2993bd273db98ca1f57e8556e97eeed20b980c38c2da91d1f856bf9c2ff7299311ed024327792b2"
+    },
+    {
+      "path": "datatable/msgevent.edf",
+      "size": 8181,
+      "hash": "0a38fa7980ab619bdd1d1c34085d8cf3035fdc75acea9f42e18709e37ed2f2e9fdce2aed0ea9db8e2ade53e50f406341d2487857e2a881b0bc4436a66442ffd4"
+    },
+    {
+      "path": "datatable/npc.edf",
+      "size": 14941,
+      "hash": "db929db7550a7b3b70326aaac2f61f0cbbb231b8d4d8ca7dd2b70c70670dd3575be1ce18b093b9724749e8de24ee471f3443a2787f4b53030772ab4e7d7309a4"
+    },
+    {
+      "path": "datatable/pcroom.edf",
+      "size": 227457,
+      "hash": "17a17722a45390b8dd64c946f57c9da9e3241d27e5cdf8db1e41c22e19240fdc91a85e8d16102decc7fef300d5b3a3be9ea8fa35ef92f5a98115ecb92be1762e"
+    },
+    {
+      "path": "datatable/player.edf",
+      "size": 1141,
+      "hash": "f0e966b2388f4ecdd90a8e2a2d154b0c9b9e7630b6252095d0cd1a66dbbd6bc41d97a8ef28af09487fb0fdf79fe4ba0063128bd1835669e812f02fbdac372968"
+    },
+    {
+      "path": "datatable/playercharacter.edf",
+      "size": 657,
+      "hash": "e85e5fb8597f91461d9251db1142eef20cbfe9dec83e940bb6324c919fedfc7982b59752f83c0ee61d223b4ec30dd251143cf7d88a162bb7b86d78f8dbf49574"
+    },
+    {
+      "path": "datatable/quest.edf",
+      "size": 1226985,
+      "hash": "76a8a92c86893d1590d7509c7b4160e14261319005dd649a290f3cb3749a7ed4fad5cbaabea9f0e31f1a0230d713721d2369c5ca544e483fe31588a32c798f7c"
+    },
+    {
+      "path": "datatable/Resource.edf",
+      "size": 4195541,
+      "hash": "dc6649deb29e59c563be525f21a6060c80c55ae58747908e8257a1c799920b0e84c9d0464f82793d9df211aa3230ab0548c98f5252e0c0678b5f9cc0e8fb7f44"
+    },
+    {
+      "path": "datatable/rf_avi.dat",
+      "size": 542,
+      "hash": "3536e951eb6e4d2777c744676e7f894b176508ba145867b5ccff3621fa40e9d29c2126cfd37c206843e5e09b5dfb7265dd8cc54b56f4b5bc20a1f7e0b80b3ecf"
+    },
+    {
+      "path": "datatable/rf_url.dat",
+      "size": 1816,
+      "hash": "bfa018f608e544bfc8b1e307ef09b52e633aa1b9b4a3a6fd06094d7c969fa64d2c408098c5ad45522ccd3bfb2d9a79cedf7bffb5124bae06c0733de3b4e67be3"
+    },
+    {
+      "path": "datatable/rf_weburl.dat",
+      "size": 2891,
+      "hash": "dacf76e6149cbbce1cbefdbfc7a0eb8254d1882b2ff4ec1067d8efac180108f98853e90fe1e8b0743212b87f30b4c971d5074ffeddaf67f8f34ad5f1e2d14c75"
+    },
+    {
+      "path": "datatable/ru-ru/ar.scp",
+      "size": 28755,
+      "hash": "cf3455ecc5bddc2ee2f2a07fa9bb1011ab347878cde8d45813843aa4b23ca723ec4cde3150ef5699e755884cedef1e4d10b801cd26dd5b2e9ab544c2d45b198c"
+    },
+    {
+      "path": "datatable/ru-ru/as.scp",
+      "size": 28792,
+      "hash": "744136bd5a2fe6b7d960625993f97cbc669853a9bbb032e41085d57483c8e95363dcc4fa04bb5e391522fc73a86faca9e63f762685804f5adee555fb412356dc"
+    },
+    {
+      "path": "datatable/ru-ru/aua.dic",
+      "size": 4,
+      "hash": "013f70b1f5095e9220c4dc1e166645889479d832dc53c565dddc289737af704866c9f2584953b6667197f8eac2462b07621fff8eb30154656e9cd464b897c988"
+    },
+    {
+      "path": "datatable/ru-ru/aw.scp",
+      "size": 27208,
+      "hash": "6c472a97ce9c0feba5d70d2d8a9b6546c13d1b8a42cd49c37f4cec30d895705a00a41f4f06194fe33c119666fca0b3cec97a1d617ba188a483528506b007f847"
+    },
+    {
+      "path": "datatable/ru-ru/battledungeon.edf",
+      "size": 160353,
+      "hash": "29066cba06e6a95c1a1d78efb826593c16e484130d7171d8bae38ce430b35eeeea2b8a0fdfc088ac6d20b862a8440ddd20a1d5aa8b826489474130ab10034ad8"
+    },
+    {
+      "path": "datatable/ru-ru/bf.scp",
+      "size": 29135,
+      "hash": "e1e7c310c1ca3a46af434c69da5daaaa98777ab089da8de05182e12e8bff00b52e989b6e78e850b904ba60d520bd14be509f1d52fe1b49e22ca3abe625c5bc9f"
+    },
+    {
+      "path": "datatable/ru-ru/br.scp",
+      "size": 28727,
+      "hash": "53c715fe1b82d5d3fd0aa96cdf08a33fc28b3afe8578c5dd461f7eac1cfb9010db59dcdad54ccafcf9e50d908d869599df827b570a0c44e90eccee1ab3a6e1ff"
+    },
+    {
+      "path": "datatable/ru-ru/bs.scp",
+      "size": 28726,
+      "hash": "4a5cec8b2cf1d8a0d74ef77c99aa7007ee3ed20df3bd370ac6a41e3646cd92881c9e2b885887cbf7b5cfceab8bb050aded244bd620f80ee6a4145d964e6943fc"
+    },
+    {
+      "path": "datatable/ru-ru/bw.scp",
+      "size": 27185,
+      "hash": "24bd2ab4b907774124c94a7ffdc73bc57354245747b74850ddec452c91cd8bf0f0f819026cef10cbd3498c7f3d95d570c863b1b9f81739a0f88605d50fe58fdb"
+    },
+    {
+      "path": "datatable/ru-ru/cashshop.edf",
+      "size": 28521,
+      "hash": "2897daac9e2f4afc9c817fda05e36ba00fe9658b7179bde20aad650174a2ce57efe34fcd0f04b37f2eabf8759faab1bdae382a18cf852486c3dd248b51a6c7b8"
+    },
+    {
+      "path": "datatable/ru-ru/CcrLogo.dat",
+      "size": 116,
+      "hash": "82c49365768196eed5c4257c467d26c3b8a5db36672f346ba2f529a83226abb399e87324bbb7d6399982bb82aef7bbefb9b295b49f3765738de2b24ba5467851"
+    },
+    {
+      "path": "datatable/ru-ru/cera.env",
+      "size": 133,
+      "hash": "613a47eafd22de98118cd4a188b7ddd8adbc66e2584dcd870898ac7020720390b96c7711d9ea5a36a3274f4fcd19e62bc6324f94a45b82732716cab4e96297c9"
+    },
+    {
+      "path": "datatable/ru-ru/cf.scp",
+      "size": 29179,
+      "hash": "a4a9885936fc98a5d6ef28f86a5ff4397f65d4dc773a6d3ba9d8a79dab0e0527d4b4da6b1d45e2f21969f19bae7abc77f60cef16cff551b596ace55e7345a0d9"
+    },
+    {
+      "path": "datatable/ru-ru/character.edf",
+      "size": 482085,
+      "hash": "9a0d9583db946f36cc020abb4f69c355e4b8cda83a2c7d10783cec1c0e1ffbf018c194f973fe4f5df7cd47ed2803c1d4237685e1e76ba0d7bdd04374611b1055"
+    },
+    {
+      "path": "datatable/ru-ru/ChatCommand.ini",
+      "size": 9291,
+      "hash": "29561fdc9246fac7d5e850fd68c69e5937088f7b59b882a13ccda84f1bedb679ae4396ba2f61e36f9428c8b8389b70cdb460dda4ad9e3bf32917e9bd160d5377"
+    },
+    {
+      "path": "datatable/ru-ru/cr.scp",
+      "size": 28733,
+      "hash": "f79f2a270bf6c90b6a936e8eae35f33fc721bf8df534a63d2e8ea2862d65d5dc368e6355f4e51b5acc51830c936d46f3e38b33ed3309470735321172ae3b9b58"
+    },
+    {
+      "path": "datatable/ru-ru/cs.scp",
+      "size": 27200,
+      "hash": "69a346931d539ac7fc94ce806cabf112b96d60ab9c126554d2cc86998ed7da75cf9c4d148cdbffce1988c25fb6c472e8b01ea875dae516504c81fab141cd1af2"
+    },
+    {
+      "path": "datatable/ru-ru/Csra.txt",
+      "size": 2195,
+      "hash": "cab89fc6db699496016e37e46ef8b970fae7ad9ea78248c9912275ba172f95466396dad389f7eb6d2b0e80185a50e6eebc61df3a08bdfcd12f578bdf76294e27"
+    },
+    {
+      "path": "datatable/ru-ru/cw.scp",
+      "size": 27209,
+      "hash": "85a2f70b38c21a586a4a46932a043bc729530db3d1cae6c0f058eb2732a44845c308ded50be2f28bccb655d678d7d3703f068cae3c561b7983408c66d9471ed5"
+    },
+    {
+      "path": "datatable/ru-ru/event_msg.edf",
+      "size": 8181,
+      "hash": "13f4746c632acb49f279b16ed3f8ff71afbbb388ff85a33f7ba21ac5baeb0d9d23e73ab1e0efe324af14014e3873bbf0eca702f8e100da4fb891635b5d23e7e5"
+    },
+    {
+      "path": "datatable/ru-ru/eventsound.edf",
+      "size": 361,
+      "hash": "7c7469751c5733fd500878fb61c88adbc3311b52490d4a2348e78093974525dbb8c1e8e75ecd424071449ea7b1014632ded3dc810da132cddcc45cc4ab21ebe5"
+    },
+    {
+      "path": "datatable/ru-ru/exp.edf",
+      "size": 13561,
+      "hash": "5c6a2c1f6c91d56d96299da8982ab436ab488ebcc2ea41090819da9b971773036e94591460fe37d0f2c75141b17d9ddfddf388606164d9a0f7798b93af751c59"
+    },
+    {
+      "path": "datatable/ru-ru/fg_cb.ini",
+      "size": 42,
+      "hash": "79d454f1e661fff75f61ce965e2223473383dcc6872293820c75b4488012af0d84b0a6701f4930a9f273b6bdf258801cc009d5dd0e151b72d51653d5b3b2c466"
+    },
+    {
+      "path": "datatable/ru-ru/font.ini",
+      "size": 31,
+      "hash": "f637ef61eadc13bdddc3cd5fbc941235d1571ecd71c0d1312c58ffeccd1fdf24479753ad0ce600a6a8c0fcb684cc6c3f56614c5257cd482ef4071808fe3d6539"
+    },
+    {
+      "path": "datatable/ru-ru/gamedata.edf",
+      "size": 48360,
+      "hash": "8457ba17a005f8f7285752ddbaeb3a4c81a585d3836b6c06b50249ccbd95241dd53cc3a6a7b61ed32669738f2f7a8d43cd142fc77dcb6e08a527a3adc10ab390"
+    },
+    {
+      "path": "datatable/ru-ru/hint.edf",
+      "size": 9483,
+      "hash": "aed45cbf11d8a1c302dd4ccbe42fef8336f829ce97da5106d4a85b62429f7a0db82b5d00c5c0f824d559cf420cf7385b249414d2304ccd7567544ec6aa399790"
+    },
+    {
+      "path": "datatable/ru-ru/item.edf",
+      "size": 19044888,
+      "hash": "907bbf69ddd4bcd513a6461eeb7c9655eae7213435c3148f389d440c0f2541588700bb0b9cf034ef964d7ccc21211822438134a6008c9815ecc8604fa2aab594"
+    },
+    {
+      "path": "datatable/ru-ru/itemcombine.edf",
+      "size": 9945681,
+      "hash": "ad3700918778d68cf6370d65853b76c106ea055d1104c6258621b80a02beebaf7d085c078899438255cffa3a205e7438be51ff63090e0e59ecc22129624b2356"
+    },
+    {
+      "path": "datatable/ru-ru/iua.dic",
+      "size": 212,
+      "hash": "024255fba41c77dbecc6f7cd14f80149c6fa1d96214501fd643b4829f905cfd1a6411d66669642c7aa96cf79461973a52f1ae1add124b84a5f5ddbfe5027dee6"
+    },
+    {
+      "path": "datatable/ru-ru/keymap_nkm.dat",
+      "size": 1874,
+      "hash": "bc2e1a9edf8118963fa031a92507aaa1f6af06f774afee058f896e1bed1b690fad36bc615e85cc55e65dccda95b9c31b502c6beb174ccaaa5dfb85d9000eddde"
+    },
+    {
+      "path": "datatable/ru-ru/keymap.dat",
+      "size": 1948,
+      "hash": "96ce757f99ac34a9068b8d2de5c708042da0edd1916cf5ccdac40219cae7ab7b074ea987980f01a13873c0544207fcc96992d5afb6827a65e8a347e2ff9262cf"
+    },
+    {
+      "path": "datatable/ru-ru/language.edf",
+      "size": 176770,
+      "hash": "ab82734db74338ace2e67a8dc1cb13b7e29cd3f4e9023f136d189daa6cbefb0f8e99ffc3e66ab68d539a94c38687b8e31ae0ce3309879467ded69096a8adae19"
+    },
+    {
+      "path": "datatable/ru-ru/launchermessage.ini",
+      "size": 11363,
+      "hash": "2fd3f7a1e2e6fd78ab49c547cf98617130326a314f5de696264f6261d9204d9946b9c1990256d12a38f2890d649655d3cffe9a28da03b064592a257209d182c4"
+    },
+    {
+      "path": "datatable/ru-ru/launchermessage.ini.tmp",
+      "size": 0,
+      "hash": "cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e"
+    },
+    {
+      "path": "datatable/ru-ru/map.edf",
+      "size": 83305,
+      "hash": "7706f31d0982efab60c574efb15f01803c63da1d5916a594e6e339a6c7d6ba9b51638e4e44fb2223ccbb230cf793f8f0ed152f43302a5907cb507899b3c12f1a"
+    },
+    {
+      "path": "datatable/ru-ru/mapdata.dat",
+      "size": 52254,
+      "hash": "e17e7bbfce4d1ce957b7b16cbf3824f25d6f613bcd1e34477d7ae13d96d651e582d65fff92a0e2c31d2d4707c2eadc18e3dff7caab22282080f0e3d3f00f2846"
+    },
+    {
+      "path": "datatable/ru-ru/monsterscript.edf",
+      "size": 3824293,
+      "hash": "7f47dd24cb727c200b6e0fece433d6146c690e684b451659b2993bd273db98ca1f57e8556e97eeed20b980c38c2da91d1f856bf9c2ff7299311ed024327792b2"
+    },
+    {
+      "path": "datatable/ru-ru/ndcharacter.edf",
+      "size": 225441,
+      "hash": "f25906675993047ee50e4d1aa73b04a27c0ecbc2460ece30fe1e8d74f7fc8a1086cca4455e006cabb662d4ccea5993b6433381646655bdac46111256fd3504a9"
+    },
+    {
+      "path": "datatable/ru-ru/ndeventship.edf",
+      "size": 8220,
+      "hash": "261b60e3f90550bed4916726a57452d5a66df488d90ec7fdcfb6ab65c65b99ec3395e08ef0d36969f48d6651c8fdb0bf0d54816427be292ef726e338ae6dda5d"
+    },
+    {
+      "path": "datatable/ru-ru/nditem.edf",
+      "size": 830347,
+      "hash": "32f3d13595a09508783d19b3fb2a78a27225ea1a03fe2e9977a3b1a276c7bd949ce28087838127a487caf79f5f78f73fccf6c75ddb3e1018b89233c2146d65b5"
+    },
+    {
+      "path": "datatable/ru-ru/nditemcash.edf",
+      "size": 2501,
+      "hash": "ce9ccc95619ddf031599d3367271af64ce26b5efb087b2baf5c8a3b92cce125b23547208c76db96979afeabf6295d958db4873ad71471714e54540c224c2a825"
+    },
+    {
+      "path": "datatable/ru-ru/NDLanguage.edf",
+      "size": 192925,
+      "hash": "4181a17461e35da4af7cf3df55c06493c00720d0179ae6ddced07db89debd9ff32a2dd3d46154931ff1f23b51c5f33ac86d056eb5a23a4039377421935b9094d"
+    },
+    {
+      "path": "datatable/ru-ru/ndmap.edf",
+      "size": 31098,
+      "hash": "43cca494c313f1e136843c97194342524a2a29dbb4f49eb950be01303db9a2a829c3838e2324315e5e610d41c571bc8caeafd78db0f5decc8c4f535b7926dc69"
+    },
+    {
+      "path": "datatable/ru-ru/ndmsgevent.edf",
+      "size": 7977,
+      "hash": "3fd3fbe333d3e7677bad2722a6a3622a4cbfc73753074a43c625ab32d72969c3469fcb69e8c75f83e08c26b1f7b31ff01a058651499135413d4d8c1bcffc9b82"
+    },
+    {
+      "path": "datatable/ru-ru/ndmsgmonster.edf",
+      "size": 69352,
+      "hash": "56253ede382cb794a5f9c907c57507c92adbfce18e6fed714d3bbafa8da8c52d67cedcb0f0d49f79ef5cd6db94edd87414367397eeb6fbed5fa9439d4d9d3761"
+    },
+    {
+      "path": "datatable/ru-ru/ndquest.edf",
+      "size": 656452,
+      "hash": "5cebf6220b49fca819c6704dd9258762bbad0af572a2d821031d0d3e37e6e2375648b4648875d3bfaef81a88bbcb97fe62a5d6bfc2097b866bcae30cbf1cc997"
+    },
+    {
+      "path": "datatable/ru-ru/ndskillforce.edf",
+      "size": 227177,
+      "hash": "7ee39241c3ba51d0ad322271cd04cb4759ba1e199f3e417e9973872ddb6752c99412d9fb23a7f1177991a44bc7902e22298fbbc01e1bff6f4ee98116d42ed694"
+    },
+    {
+      "path": "datatable/ru-ru/ndstore.edf",
+      "size": 28955,
+      "hash": "72fcb151b391a9bb846af6530e06fca0592211db4140a0eab19427a14835a36909d9d4058acf8f3889113bc842d17d57c7b17c0b8e2dfda4e2bc133187296a62"
+    },
+    {
+      "path": "datatable/ru-ru/pcroom.edf",
+      "size": 274977,
+      "hash": "8dcd8bf31e5762ee568e5725c189840f0cb47c043ac0accefefb3c04a9ed4823986d941c635f70839f6a92d7a75e86ddc5f5d0237f1817efbea2a50d0cedd009"
+    },
+    {
+      "path": "datatable/ru-ru/player.edf",
+      "size": 1141,
+      "hash": "f0e966b2388f4ecdd90a8e2a2d154b0c9b9e7630b6252095d0cd1a66dbbd6bc41d97a8ef28af09487fb0fdf79fe4ba0063128bd1835669e812f02fbdac372968"
+    },
+    {
+      "path": "datatable/ru-ru/quest.edf",
+      "size": 1965110,
+      "hash": "8eb71e2ed8f68e0012a7deff0c69d72abf2d14e100a7dd16b6eb05d06b5217b1e1fcbbd1cc9eb5f09c8d1315b10854ecde2cca69e9505da714eb4aea2634bff1"
+    },
+    {
+      "path": "datatable/ru-ru/resource.edf",
+      "size": 4133417,
+      "hash": "5be807829712dd8ea6b3e776be57c29165fb1ebab6bf7d700ab9db1004ad9f5eacb18f61d520b14d52b2f588cef7d5b29be37db8bb8e7cc44b566a9c8ac338d1"
+    },
+    {
+      "path": "datatable/ru-ru/rf_weburl.dat",
+      "size": 2891,
+      "hash": "dacf76e6149cbbce1cbefdbfc7a0eb8254d1882b2ff4ec1067d8efac180108f98853e90fe1e8b0743212b87f30b4c971d5074ffeddaf67f8f34ad5f1e2d14c75"
+    },
+    {
+      "path": "datatable/ru-ru/setitemeffect.edf",
+      "size": 58833,
+      "hash": "0a9c155cd296d420b0ab1393e32a137403f116d91423d4e345019eb0d351249efffd9669eeb5b4478d61ac1cceec6f1c7b08b534e8a705c086a2e0de773d8d3d"
+    },
+    {
+      "path": "datatable/ru-ru/skillforce.edf",
+      "size": 1255977,
+      "hash": "99a700d86d7feb6e118b2e972be28d877bd72b17c552ef8e6ffb0b4fd5d0313461b2d4d9d59f5239d99845d6ea78542216c0944fe8b53ad836edda2f1fdd0c03"
+    },
+    {
+      "path": "datatable/ru-ru/store.edf",
+      "size": 1348525,
+      "hash": "352f87dcd19dca5e35899326a25d5015f24d3d1f804e8a3ad6a861d6c26b1217406ea857d1525411198a2c95163846e83960ef2fc1742ec9f060625802f11321"
+    },
+    {
+      "path": "datatable/ru-ru/timeritem.edf",
+      "size": 7977,
+      "hash": "6570eb047ac1638b1ff2f7ff79a503ee1ec0077ef628384dc6525fdc83e121bac3b6e064ffc49bc646561347ceb5ca141a91972d43716275be3d2d063a7e8da9"
+    },
+    {
+      "path": "datatable/ru-ru/uihelp.edf",
+      "size": 7650,
+      "hash": "166d763b73d3c9d5dcf1599ff76b6846079d81ac3ab0ab9c629da789b2cf278131dd6fbaaf49eff4bb922594368cb2f6be765e5bb5748bdb06384178d5d5a9fa"
+    },
+    {
+      "path": "datatable/ru-ru/worldmapdata.dat",
+      "size": 8266,
+      "hash": "1c9ace3ef350e5201e68c9b13270c6c24d8438596bb9b2375e355812efa37fd2d28481c17b6d55fbe214872834cbbac04a9e69670ad964d9c4cb03549b3b9205"
+    },
+    {
+      "path": "datatable/setitemeffect.edf",
+      "size": 58833,
+      "hash": "0a9c155cd296d420b0ab1393e32a137403f116d91423d4e345019eb0d351249efffd9669eeb5b4478d61ac1cceec6f1c7b08b534e8a705c086a2e0de773d8d3d"
+    },
+    {
+      "path": "datatable/skillforce.edf",
+      "size": 465257,
+      "hash": "050a5350ffaae2c2aad5abaa14f28e8777db42279db49e64cd3abe2050af6958f1dfae5e4fcaae2b6527efe30e0d250f5f5aa6398d94e999ec4ce37d1ad00298"
+    },
+    {
+      "path": "datatable/store.edf",
+      "size": 622377,
+      "hash": "22e9b33c889c4a717b07a4e08cfed6c03244592fa8d7f48df4cd2ad17231d100aca67568e737c9dcd8ecede31c115e9d919434d88855be4f961f62eceb2e2e85"
+    },
+    {
+      "path": "datatable/timeritem.edf",
+      "size": 7833,
+      "hash": "bafe2fda4bc290d6d528e3b2f0b29f61ee232372748faecfbc737d85a303198603de4d6eec0f7d4ff68855e4a6c52674716b31c79fc56ebe2179c4c75010a846"
+    },
+    {
+      "path": "datatable/uihelp.edf",
+      "size": 7650,
+      "hash": "166d763b73d3c9d5dcf1599ff76b6846079d81ac3ab0ab9c629da789b2cf278131dd6fbaaf49eff4bb922594368cb2f6be765e5bb5748bdb06384178d5d5a9fa"
+    },
+    {
+      "path": "datatable/worldmapdata.dat",
+      "size": 8266,
+      "hash": "1c9ace3ef350e5201e68c9b13270c6c24d8438596bb9b2375e355812efa37fd2d28481c17b6d55fbe214872834cbbac04a9e69670ad964d9c4cb03549b3b9205"
+    },
+    {
+      "path": "Effect/MagicSptList.spt",
+      "size": 627483,
+      "hash": "41e636f4b5562ab32219d4bc3fabacae1cfa6bea4009de8d9dc7c058418da08619c55f2142f0d6cdda1c97334dff2f898f1ae34793ac822f797487d540582a4e"
+    },
+    {
+      "path": "Icon/buff/Acc/0.png",
+      "size": 5066,
+      "hash": "47cba3ea01166a1f2989376f09dd2b8c3f33b30e67210bd91d5dfa2d80697e5a827c500c56df3c0f893787bc2c12febbd267fe1a6bf7ef30817a804deb2161a5"
+    },
+    {
+      "path": "Icon/buff/Bel/0.png",
+      "size": 4525,
+      "hash": "b88c2f8678e6950967edb9e78fd38532d0c06f32ed72753956fe98d521027b250de416eb8e7ea3f16b16187e81b69c89de5c2a7b7adf9cff4326d526fe32302e"
+    },
+    {
+      "path": "Icon/buff/Bel/1.png",
+      "size": 5025,
+      "hash": "409a01d06f505dd11594c0bad241a04a2d3c90bc27a42c4df2e08887fa5aa663fc13d710d45bc2150e2916b937cb0d471aa1ee2cff220b7a9ba33ab64d2c32e5"
+    },
+    {
+      "path": "Icon/buff/Bel/2.png",
+      "size": 4808,
+      "hash": "fb6b9a9b978f57c75687ad591e86d0b275d25cfc692b0365f69d5f4196476e78644d4ecb6c175528996a95b452ee6fd5250a76fff3899c9d200571e8da75777e"
+    },
+    {
+      "path": "Icon/buff/Bel/3.png",
+      "size": 4298,
+      "hash": "369245aa264fe992b3a64152a79d9191deda876e9e6752a485bcef6376c4f713f96d11d429a65022e3c38d3901c2588e0eda5206515c363ff8d0653b4c03d48f"
+    },
+    {
+      "path": "Icon/buff/Cora/0.png",
+      "size": 4936,
+      "hash": "11621aa8534ce6ead072879edda1b6cf69c8cf6c3f9bc1e2c1c4358cbeee83464cc18790f9816c0694031b6fe8fdf9ba5ec885044de8abaddc63494cb0fd8db4"
+    },
+    {
+      "path": "Icon/buff/Cora/1.png",
+      "size": 4486,
+      "hash": "668e8543ef1b5f7450a527827e8a7936451988b7627426b5de506934eee519e8af4e0fc2cda88abdc2c4abe98ae11f5cc42e41421417cd8448777afe85fa1bed"
+    },
+    {
+      "path": "Icon/buff/Cora/2.png",
+      "size": 4397,
+      "hash": "e7525e06453d0a58c29e307c108acbb61584556e4010170f155d4531d9277430ce73f2cb8fbfa6025f6e9d76a1359f7b1052ed08cdaddf58ebac22ebf19d3247"
+    },
+    {
+      "path": "Icon/buff/Cora/3.png",
+      "size": 4695,
+      "hash": "60e2becc41b4143bf454ca68de1bd57ca19c42b3783cce46b205c2b3e30a6b3d215c9b743d06130a9f25513e5aa4d85e02e2260d9c1065d109cb475ea4d341bf"
+    },
+    {
+      "path": "Icon/buff/Cora/4.png",
+      "size": 4357,
+      "hash": "18184cb989581d8a3169f33ba88b46b87017335809237bbbfee12a34af1de889efdc8fd9c885af93daa912c17ccab920cadec7f9192d6aa55bbe157940417520"
+    },
+    {
+      "path": "Icon/buff/Cora/5.png",
+      "size": 5103,
+      "hash": "5929cbf8cc80d70055fd7e458272c54dda58b101b67bedaf98f0235fd4c33209c931d6ebde761899f67fd9c022bb3b64ddd437d3686eec8d62a5f10b35749876"
+    },
+    {
+      "path": "Icon/Calendar/img_0.png",
+      "size": 821,
+      "hash": "63056bdaac8c7432e713680b3d28eb3864e29924d6d801b1c90a1477e306469481b058986d640b5c2b9f58776a6e6ccbda7927abbcf8ae7524b75186327a407a"
+    },
+    {
+      "path": "Icon/Calendar/img_1.png",
+      "size": 2814,
+      "hash": "0118ea098ffd0e2b681a93c844cbc89a205975c6dc139adf7ad8a666ff6652438168d0b2143913c82afb860154e04e4c4b0d495689aa315ea3b80b87eb48b5e6"
+    },
+    {
+      "path": "Icon/Calendar/img_10.png",
+      "size": 2977,
+      "hash": "5f19e2e3222365a4b99133105e9e0c66b3710bb633b764e363d7e1d23d2666adbb74d4e5c295ab3b62df3cd1fbe2dd9567c8aa5a41f84a399e4ae24e03c783b0"
+    },
+    {
+      "path": "Icon/Calendar/img_11.png",
+      "size": 2958,
+      "hash": "73b80e519437f93c8065d568fa8b8f2828228f5fe355dd3be629a0cb5047c5c7fa709eb0912b50d8bdc1547ce4ea24031bd65d49375fabf6b3ec42612c57618a"
+    },
+    {
+      "path": "Icon/Calendar/img_12.png",
+      "size": 2924,
+      "hash": "ffae7d86377b155a058ffb24f35e04923bd06913b32d09bef669ca9447291c03b8d76223e6a84708b5448ac393761fcae7d687e1e66064bd99b13360dd071064"
+    },
+    {
+      "path": "Icon/Calendar/img_13.png",
+      "size": 2965,
+      "hash": "d1ca66abdb5923e8e5b5ead4828114962fc3b7cb1465211ab17dbc26fecb338aea0ecefaed3d72e96d710210e821cce4169feddc6b9a93fcebfcec49693b50a6"
+    },
+    {
+      "path": "Icon/Calendar/img_14.png",
+      "size": 2999,
+      "hash": "eee1216fa5870dff705c19a6e4fcba885bb21d24f20342d9c21079220ef4f26a913677fb3badb15ce225afccc7b9f8883752370a03497125875a102f629daa5b"
+    },
+    {
+      "path": "Icon/Calendar/img_15.png",
+      "size": 2327,
+      "hash": "f55f1a30c28617957f7dd25487bd5c476fc75a17ad820be3fcfcf8dc376896539f07c173306d70c0d5040dd262299f1dcabf9ad6ee04829b6a71b1202766e32d"
+    },
+    {
+      "path": "Icon/Calendar/img_16.png",
+      "size": 2367,
+      "hash": "b83a4f400cd00ecbee48590a20c943fb0477e3ee38ad264487a8146711f7a61f30b4592f55edd69593b1e58ed65a05ffd2a4df5c26ce7c925fdaac1f3b1b74df"
+    },
+    {
+      "path": "Icon/Calendar/img_17.png",
+      "size": 1929,
+      "hash": "97cdd54e6b252cc52c78d51b97d155a5ee2b6b77a0916dac4b1eefeb2f4eb8662bc4eab1f984845d640d875fa00aea5f83409d0a09f5e9f0b1e66636b75df0b9"
+    },
+    {
+      "path": "Icon/Calendar/img_18.png",
+      "size": 2534,
+      "hash": "70aad5ce5eb94210dbdf9e2c710c2d8a85d089ac34b524d5482f85e6368a0a9ce50e68c652721aafa8fbac3a66e5f67cd87a45cf4dbe6a249a7a074427eac619"
+    },
+    {
+      "path": "Icon/Calendar/img_19.png",
+      "size": 2508,
+      "hash": "63b81a590113f89e4407fd1f545c40bed5eb5977509479f4ed645c03077d58c0f4b9f5d2b9ea3392ad9933131f0c4f9fd70cbcd1b46e35b0a4677728d99309fc"
+    },
+    {
+      "path": "Icon/Calendar/img_2.png",
+      "size": 3291,
+      "hash": "ab8b6f1cf78c302f63efbb4e1b7e1af891d2d75601227570d85de016da01c7d32f619ff08637c284ba2d9d05ba72e2da7f7f3d279f830abf82c7a98dc9659fdd"
+    },
+    {
+      "path": "Icon/Calendar/img_20.png",
+      "size": 2436,
+      "hash": "13db780e1f7faf70a13756eba01d13a126fa7cade2449bea27c9ebfbadcf00047ec64ce6b2d59f5ee9d9b6d2e329ca1651febd0261195c2d006c9eccdb274f1c"
+    },
+    {
+      "path": "Icon/Calendar/img_21.png",
+      "size": 2771,
+      "hash": "7ccbd55e0b133f995ebb4612d2763ca8ec7943937812aa96541958d36203ff1cc0d1e9701785c412803dbc1858f746715e13f1c4df042462404e00c6ad74a8b9"
+    },
+    {
+      "path": "Icon/Calendar/img_22.png",
+      "size": 2206,
+      "hash": "80d7e9ce69bf540fd3b3e5d47bf953327680ad7f41b8dbd94ffd45785daf634c412fc47d0c411992fc808b03cb5752635d3b53848bbc87e6e990ff0532fb54dc"
+    },
+    {
+      "path": "Icon/Calendar/img_23.png",
+      "size": 2630,
+      "hash": "d104350074739ef66027f073a84ec0ca193bf1ded4fad26a418cb2860c9b0f4203a40e33a4e7ffe0a5aae576c110245d8082d95f27a3728428257199b7b9ff16"
+    },
+    {
+      "path": "Icon/Calendar/img_24.png",
+      "size": 2717,
+      "hash": "014c4721ea2f7d7f3e3d7763cbe8872eda16e0000bac0d26301c3bbfdf2195d66b625bc147e1894c0c5f1ef02c9574ebc1890f6bb8d7c4c76d79ea2e050d9b1b"
+    },
+    {
+      "path": "Icon/Calendar/img_25.png",
+      "size": 2821,
+      "hash": "6fe63070496a4a93ff4862c603434f99d125a88b3ce032501744a317a9b491887676c8e942f4140e66a162f8eda43abe8cb9523a513d082fc0e52460810da2a5"
+    },
+    {
+      "path": "Icon/Calendar/img_26.png",
+      "size": 2920,
+      "hash": "eaa96528f7e5544eeef526c084b570e08d813dd25744cd1b2fb8286dfc6fa476ce0ff16c83e9c3bf0cc74b9737b02d1f1645050ab4ae9434f73e1d6c2f49881a"
+    },
+    {
+      "path": "Icon/Calendar/img_27.png",
+      "size": 3053,
+      "hash": "334adc7b14e085da09e02a5ce815dcb0628afd2636c2df53edb7cee3b198f823d7b52f0025044e67b5cdee5b9b94f4a800ca295c313c810303af4d5796508234"
+    },
+    {
+      "path": "Icon/Calendar/img_28.png",
+      "size": 3153,
+      "hash": "e7efcbd8e8fa4ce2d9bc9a78b27da6a8e15f8da220bfa316ca43e1831e9a4bb0054091463013e3e6c4f7609c4c1b1c5a7bdd4fc81f51e65e8316dff60aa0025d"
+    },
+    {
+      "path": "Icon/Calendar/img_29.png",
+      "size": 3149,
+      "hash": "4d1ac7ae9b56a022ce439c2c0fb2b628d9c6f3b249f2f5251cd3d20bfd8ed0fddee62c4cc3bab2444252dcb66747b4d8697b7dd630c34c4e174e76a85eca23af"
+    },
+    {
+      "path": "Icon/Calendar/img_3.png",
+      "size": 3293,
+      "hash": "727382117df8a459a8e1527ddb04adc60893e3c87a9d089372a966dd086cf49f0875b2ce1d67a8d65ca9dabdf3c153e9b230052b868ada0acd539ca5fed2f0fc"
+    },
+    {
+      "path": "Icon/Calendar/img_30.png",
+      "size": 3151,
+      "hash": "753af61fae0d4b779019b8383ca2ab6b8a43de5c5ac707331113aafbe119f92952b93d837de408af48dbf497bc7c1aed123e7e79b8901ba9a4cffec8db918926"
+    },
+    {
+      "path": "Icon/Calendar/img_31.png",
+      "size": 2291,
+      "hash": "97c564914559aa352704d167cb391bcd8e1757f1498199a285f30bf20e6a3269267ac468148cb50c560007904b4c5368b1c368356b2f87dbe4875b8f191ce910"
+    },
+    {
+      "path": "Icon/Calendar/img_4.png",
+      "size": 3280,
+      "hash": "9bfd10ea411b887ab0eccb3a09788ba831ef2d4da6f3d9ca664fdf6edb16550ca791189d7ff1713b1d91df0d5e75657bf5d2825974d849370c53afe85d1a3f52"
+    },
+    {
+      "path": "Icon/Calendar/img_5.png",
+      "size": 3245,
+      "hash": "0cddf133e8be4ea7762481d76492fbae23a3749d13121ea5221017bbe17c585762d945365478902b800dd9e823a1567cc50e9c8f82c30d7ef43435ce62d0b274"
+    },
+    {
+      "path": "Icon/Calendar/img_6.png",
+      "size": 3336,
+      "hash": "e05a86be3e76d20d7eb0b0b39999429d0dde01a35febdcafdef51734c59d7e4466e2cd613bdb3cb4c750704c8b3c690a5eb1f12b482e3a8ce0895b507b9f4ca5"
+    },
+    {
+      "path": "Icon/Calendar/img_7.png",
+      "size": 3332,
+      "hash": "2981327a8f84909c35692486e23390f3e1a13753de19257dfa94084c5d039c09f9a38c1c37d9abadc8be7dee0a7e36273e6fc5fb3c9c3e7e75edc828810e5915"
+    },
+    {
+      "path": "Icon/Calendar/img_8.png",
+      "size": 2471,
+      "hash": "c5889609c7cb8b749016a92ffb606367d9e63f11086ea2adb947e4beec9ee342d4219cff2a8677459b801f5d73bb7931828fc8a462b285716c1edced69c3f69e"
+    },
+    {
+      "path": "Icon/Calendar/img_9.png",
+      "size": 2954,
+      "hash": "99d55c6f005b88894589f0cf456bb65a489c8edf644b128a3a68951be65cf6fe0a53ccebd2c3745d5f70d7492c695a9670c6d1fb63c0c7dcf0e4e079c27d8e59"
+    },
+    {
+      "path": "Icon/Panel/0.png",
+      "size": 1680,
+      "hash": "cbac5a0093212c908ae2a0a5ea8357be19f1d58a79318057ea9b444fa58ff7408aad6ea27e3b3d878f4e6b78fbae113a95a89bcdfdaa2ced046453c5a2322322"
+    },
+    {
+      "path": "Icon/Panel/1.png",
+      "size": 1866,
+      "hash": "510904e5082ebca407d7836e4a19005112d0aba9ed649021bb4a536c2e228b7323479e346dd7422cba8e6d33c57a31426c7dc128ebbdd02a29bdf8e7c79e2cac"
+    },
+    {
+      "path": "Icon/Panel/2.png",
+      "size": 1725,
+      "hash": "34da64b135e5343475c4f804ced80b5d2e02eca59a4493f4e213a567407cb3af3330ed8337f92c1f9884ee484dab30b144ed94d7619c61bc156ba3311369cac0"
+    },
+    {
+      "path": "Icon/Setu2p.ini",
+      "size": 44,
+      "hash": "0186ca32ba98df3c03d7f7bbe63a18e07d6d275a5322e438c88c318d32cadbada8619f973ca936896081d65882f1c6b93dcb54bf195c09986cc54bb8a4222ce3"
+    },
+    {
+      "path": "Icon/Setup.ini",
+      "size": 44,
+      "hash": "0186ca32ba98df3c03d7f7bbe63a18e07d6d275a5322e438c88c318d32cadbada8619f973ca936896081d65882f1c6b93dcb54bf195c09986cc54bb8a4222ce3"
+    },
+    {
+      "path": "item/shield/mesh/shdbcm.rfs",
+      "size": 1275902,
+      "hash": "85fee89a657a05d374ea7b8cbae0f85ce3ef168c6186e5225fefa08c17f7f9d0b5a3189e443bd2206f88d50cc2cfc6f89d55c018811c9912af87cd5ff2f11857"
+    },
+    {
+      "path": "logs/log26.02.2022.20.23.59.0.txt",
+      "size": 94,
+      "hash": "cc7971415df4eb947ab7498648886dc01931a03a5cce7837d00b58de27184fc57b7c2ae9ad03b00fcb4eea33758678269965c6a317bb06b0c6c70388bda55030"
+    },
+    {
+      "path": "map/cora/coraEXT.spt",
+      "size": 454,
+      "hash": "4a032422f4bd4e7003fc99d605f44663d08223aec6cf491dabc9ef3f525bb8bee801dfb551293937e61d955f99b1e9863dec0ff7c6f104ece6965727586bb995"
+    },
+    {
+      "path": "map/elan/elan.bsp",
+      "size": 19381565,
+      "hash": "9036989118eb3be784d3569ae7a879fce801f765dc5ebbc9e279185a1ba8462d64bf04604ace330f5fbc412c71e8e65e31ea3b859a1a455279707888fcd81fe4"
+    },
+    {
+      "path": "map/elan/elan.ebp",
+      "size": 596478,
+      "hash": "df2e6ff9def69333514e44765841764b8e0746848d104eebe919b0a49fcca94ee9c5194b76b013c6ad9b02617419e18e8febc166ada1e02f1ae71583d3a62791"
+    },
+    {
+      "path": "map/elan/elan.r3m",
+      "size": 72424,
+      "hash": "4ffb5ae2c25a9d1d14ad52f65aadd4b097ca561b958a03c9d9754804e98f165b28254688735738fcb26933592760463bc56c0f76010e29149eb5f4ee596b09de"
+    },
+    {
+      "path": "map/elan/elan.r3t",
+      "size": 37543230,
+      "hash": "17f2cfac6ae3708a627b7d4ac431a9584c463a175af4033da7c0a796334f3527d1e06f4d9e86b3f795730a9dcc383e7283e47d42a3addb4ac7c46a1903c32362"
+    },
+    {
+      "path": "map/elan/elan.r3x",
+      "size": 1036,
+      "hash": "dab03771c83509f143b45b5d2b78d01f7007b868a0642580e42fa8953f0da11bcde4c1853c5bb5ff3cb71db313f03c760608a18c9091e361fec374f6c9e30363"
+    },
+    {
+      "path": "map/elan/elanEXT.spt",
+      "size": 342,
+      "hash": "a42a6f2da11549548a38ece3988a96537ade785490fde557926cdd2961d84d27d5d87e0f1c471e24f438d087f119ee95723872d621793a5417cd1b2da1fedb3a"
+    },
+    {
+      "path": "map/elan/elanLgt.r3t",
+      "size": 16750132,
+      "hash": "b50797bde18a84f364a50eaeebc09f758078cfa903444168b2774297145fba07f17fc18bf6c466f1b132ef05a927980f461ceadc6a77b7e3abdd88e13d73efa0"
+    },
+    {
+      "path": "map/elan/Sky/elansky.r3e",
+      "size": 28022,
+      "hash": "fbeb405d8b83551b7809075332717b288c960ea7a26b4548fa0c1a510aaf8a6eeb2e3419a1e327e8809a40489fa03424321f879a1f957b73617b54cd7ed7e320"
+    },
+    {
+      "path": "map/elan/Sky/elansky.r3m",
+      "size": 1908,
+      "hash": "88773b3a8d1c0dc5934dd8064f655dc91b1e6c06f68d876ce4dc52389fe8122ff602a061b73fa56338e13d58c052e6023acf5c8a7abe7a97489727db798d8814"
+    },
+    {
+      "path": "map/elan/Sky/elansky.r3t",
+      "size": 3913176,
+      "hash": "b9d17e1bb646874498727d96775fa40982288b78aedae8f032881425cacb3a36ce5b5929eb20e924371c9ac61d811d1b9c0c1a4daae575c8236bf646b412e8fa"
+    },
+    {
+      "path": "map/elan/Sky2/elansky2.r3e",
+      "size": 20216,
+      "hash": "5b9dbb93d7c0c74421d44901050096e1948ae0dcc9a20785a8454b5bdd149592615e54b3e12c6ee034e6cbe54625166cf358bb9ad26dbdcad46a38a156d14df8"
+    },
+    {
+      "path": "map/elan/Sky2/elansky2.r3m",
+      "size": 1954,
+      "hash": "799f5f0ceb51e73e2e90967b223db6c76f7f80f567e3637b38e9e82afd4cadbee689c966171740d611be7e1e7073a580d1e8f312a8e65bdab1e483527ddaaef9"
+    },
+    {
+      "path": "map/elan/Sky2/elansky2.r3t",
+      "size": 5420592,
+      "hash": "e527405fa11bba3efd96136ed7fe87125a4d47b0cbc4964d072becc2295606c95a23721a4a07ba5b52b110d40d0147bc9ee4d1dc46f5f54426b26100b38a64e0"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/bag_blue/bag_blue.r3e",
+      "size": 2571,
+      "hash": "2a2aa9358e62f0110c773fc24fcfc2499a9976e074a6e62387cb80328871b0497a5b014c7a588f523d7e63282f911d0a77a4e67bae282d0c0e39cff7bde19d19"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/bag_blue/bag_blue.r3m",
+      "size": 198,
+      "hash": "040ffdb53d5fef4b1c01bb5ab4bc97f0a2e8588c933060cee0fa2f10c3d1a8ba09fb9928ca1528117cad623afdf5a2d138c8065520f50d7c94ab1cd78cb2f74a"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/bag_blue/bag_blue.r3t",
+      "size": 175044,
+      "hash": "bb898c8f154f44274904c71c70f20af82ec46c8a9cfb7778d6a35b91a955f8c2f9234121526d3be1e761c16ff28b48d2bb983cd3f1075af7f78a5b3e0fafecc5"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/bag_green/bag_green.r3e",
+      "size": 2571,
+      "hash": "2a2aa9358e62f0110c773fc24fcfc2499a9976e074a6e62387cb80328871b0497a5b014c7a588f523d7e63282f911d0a77a4e67bae282d0c0e39cff7bde19d19"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/bag_green/bag_green.r3m",
+      "size": 198,
+      "hash": "040ffdb53d5fef4b1c01bb5ab4bc97f0a2e8588c933060cee0fa2f10c3d1a8ba09fb9928ca1528117cad623afdf5a2d138c8065520f50d7c94ab1cd78cb2f74a"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/bag_green/bag_green.r3t",
+      "size": 175044,
+      "hash": "8426ce489cce17d758da962438896718a2733fdf4dc4932eb6c946830c839b6a85c4d321cb64b6ac30721cc728c786a4d5817e7cefa92db3cd94a0e50d9da2b0"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/bag_red/bag_red.r3e",
+      "size": 2571,
+      "hash": "2a2aa9358e62f0110c773fc24fcfc2499a9976e074a6e62387cb80328871b0497a5b014c7a588f523d7e63282f911d0a77a4e67bae282d0c0e39cff7bde19d19"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/bag_red/bag_red.r3m",
+      "size": 198,
+      "hash": "040ffdb53d5fef4b1c01bb5ab4bc97f0a2e8588c933060cee0fa2f10c3d1a8ba09fb9928ca1528117cad623afdf5a2d138c8065520f50d7c94ab1cd78cb2f74a"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/bag_red/bag_red.r3t",
+      "size": 175044,
+      "hash": "b90ab7a01bbea3f3a70e2108b6abf32b41e4fd6b32f3742531f6c818b635ba0fdc26f7caf5c015c623ad1edb3b1ce5956922b490981a1a6269fe9405d8d94358"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/bell/bell.r3e",
+      "size": 10806,
+      "hash": "f3571c6940398ff1a72c08903e679c761786dbbd48da9449bbdc93b079802f2a86875f9721b57a05f73e069d9862e94733e9a12f2216fbfbdcde34adcb17a9a6"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/bell/bell.r3m",
+      "size": 198,
+      "hash": "9468dab7e62f6d356eaa77e3fb42f9faad3643cfc782b5f7097516ab8b8cd765e8a9634d64194b708fa986b2635f923e5054e7b6998e33981de29cbbb9528892"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/bell/bell.r3t",
+      "size": 1398396,
+      "hash": "3f9e5fcf36de9cf375e6f4fa1f18485c30b8b011667946cd7ecd45e3a5abb6b4ee34c0a1aee391b956589670551f2e9c89acb12b01c58208ac7b41b5401e6efa"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/Box_all/Box_all.r3e",
+      "size": 323230,
+      "hash": "a2de778fd50e5cfa85839a2a4dde2258e4a13a99b1748ee04998c6fd65849191a103617b619013eabd69ecab3755af17bb2715867795997a711ec00452c0f43f"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/Box_all/Box_all.r3m",
+      "size": 768,
+      "hash": "7572a63d5e5b6630b0783a68a9cee58d6f43384532f36435dd3c339d9f63ca9228089621b5a7a5c1cdf3ee1dbb643ff2bd8eb2bd53424d64a67c9be064e06c8d"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/Box_all/Box_all.r3t",
+      "size": 2797304,
+      "hash": "e01cb0c38fbb531d509db73d2e2f604a5dec47dfe38fc1bfb6c9eab5d27012b85830a0bad680a5e0f6a72b4eabac51014d5d51d97d9304fd76e8e7f34e1e46ef"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/Box1/Box1.r3e",
+      "size": 29020,
+      "hash": "154c37c868439708f781ded5df3ab8c72d882001f2a0244e1452baff0ab71217dc4da5177ac78ae0f901f1e3acad74cd535900afe98174882373b53977b1e4af"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/Box1/Box1.r3m",
+      "size": 198,
+      "hash": "86fd9228c10f2a1334da8c791116439b51ef4ccfff89dcbb7df6309ee62b19b675778081b371ad272e663ef5b7079c573069142bdd2850f522218ec2396a6411"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/Box1/Box1.r3t",
+      "size": 699332,
+      "hash": "bd58a8381e54dc2218fb8be6ffeda9ba46cc52ead8039895802b5665420b95f8383b53a0de34509a2dc34a64399815b5d67bc3bcf428b7a899acb7de1799b04c"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/Box2/Box2.r3e",
+      "size": 78780,
+      "hash": "7a88387f33b6cc268102b2aa11a4acd4d08335fec9893a0daa851837aeede435dd21395abbcf68df879c089e0f8b65b1579e0e14c0578fb0508b8d7c16020d7b"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/Box2/Box2.r3m",
+      "size": 198,
+      "hash": "86fd9228c10f2a1334da8c791116439b51ef4ccfff89dcbb7df6309ee62b19b675778081b371ad272e663ef5b7079c573069142bdd2850f522218ec2396a6411"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/Box2/Box2.r3t",
+      "size": 699332,
+      "hash": "bd58a8381e54dc2218fb8be6ffeda9ba46cc52ead8039895802b5665420b95f8383b53a0de34509a2dc34a64399815b5d67bc3bcf428b7a899acb7de1799b04c"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/Box3/Box3.r3e",
+      "size": 52228,
+      "hash": "b0e1acb6f68d8d67487c63f332c4fe358fbc3471c917686e6c10491b22524c60c046bd2db8bc502a764618fdf5f7188728b3ec0f57bf485c967b9a5eb0241a80"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/Box3/Box3.r3m",
+      "size": 198,
+      "hash": "86fd9228c10f2a1334da8c791116439b51ef4ccfff89dcbb7df6309ee62b19b675778081b371ad272e663ef5b7079c573069142bdd2850f522218ec2396a6411"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/Box3/Box3.r3t",
+      "size": 699332,
+      "hash": "bd58a8381e54dc2218fb8be6ffeda9ba46cc52ead8039895802b5665420b95f8383b53a0de34509a2dc34a64399815b5d67bc3bcf428b7a899acb7de1799b04c"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/Box4/Box4.r3e",
+      "size": 163580,
+      "hash": "26cc564cac718c5914f3b2fe725c2d41d103061c0efd913656af385955624ba1fdaddf50228e5f594b20c61de45ad2d29995d5ebe4fcbe543f00351ec78bbeb9"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/Box4/Box4.r3m",
+      "size": 198,
+      "hash": "86fd9228c10f2a1334da8c791116439b51ef4ccfff89dcbb7df6309ee62b19b675778081b371ad272e663ef5b7079c573069142bdd2850f522218ec2396a6411"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/Box4/Box4.r3t",
+      "size": 699332,
+      "hash": "bd58a8381e54dc2218fb8be6ffeda9ba46cc52ead8039895802b5665420b95f8383b53a0de34509a2dc34a64399815b5d67bc3bcf428b7a899acb7de1799b04c"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/Box5/Box5.r3e",
+      "size": 29020,
+      "hash": "154c37c868439708f781ded5df3ab8c72d882001f2a0244e1452baff0ab71217dc4da5177ac78ae0f901f1e3acad74cd535900afe98174882373b53977b1e4af"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/Box5/Box5.r3m",
+      "size": 198,
+      "hash": "86fd9228c10f2a1334da8c791116439b51ef4ccfff89dcbb7df6309ee62b19b675778081b371ad272e663ef5b7079c573069142bdd2850f522218ec2396a6411"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/Box5/Box5.r3t",
+      "size": 1398396,
+      "hash": "554d181f3472e6f0e9a7a3858b1d5f30def6c6ef4efa5ee73b40079fd72be466bd4f0be0904e2abfc45b9cf49a987715a8e5cb5cc47e4e03cb12baf5035deba7"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/Box6/Box6.r3e",
+      "size": 29020,
+      "hash": "154c37c868439708f781ded5df3ab8c72d882001f2a0244e1452baff0ab71217dc4da5177ac78ae0f901f1e3acad74cd535900afe98174882373b53977b1e4af"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/Box6/Box6.r3m",
+      "size": 198,
+      "hash": "86fd9228c10f2a1334da8c791116439b51ef4ccfff89dcbb7df6309ee62b19b675778081b371ad272e663ef5b7079c573069142bdd2850f522218ec2396a6411"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/Box6/Box6.r3t",
+      "size": 699332,
+      "hash": "9e47ca6be50e6a3dbf6787f2d8d3fe3856584eb55d1449eb9820a7833fb5b51e32d264e390dab6c4958da25d24916da420ac82b198c36ce459b91c67a4b16589"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/Box7/Box7.r3e",
+      "size": 29020,
+      "hash": "154c37c868439708f781ded5df3ab8c72d882001f2a0244e1452baff0ab71217dc4da5177ac78ae0f901f1e3acad74cd535900afe98174882373b53977b1e4af"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/Box7/Box7.r3m",
+      "size": 198,
+      "hash": "86fd9228c10f2a1334da8c791116439b51ef4ccfff89dcbb7df6309ee62b19b675778081b371ad272e663ef5b7079c573069142bdd2850f522218ec2396a6411"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/Box7/Box7.r3t",
+      "size": 699332,
+      "hash": "0df553a6ba95d45dab5968a7ede9206f180ab5a70e565271c7059d09be57ee30e5de2e681ce905a727bb5e95854a88fcf2647a35e323b6f74ec9cc06252eae58"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/Box8/Box8.r3e",
+      "size": 29020,
+      "hash": "154c37c868439708f781ded5df3ab8c72d882001f2a0244e1452baff0ab71217dc4da5177ac78ae0f901f1e3acad74cd535900afe98174882373b53977b1e4af"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/Box8/Box8.r3m",
+      "size": 198,
+      "hash": "86fd9228c10f2a1334da8c791116439b51ef4ccfff89dcbb7df6309ee62b19b675778081b371ad272e663ef5b7079c573069142bdd2850f522218ec2396a6411"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/Box8/Box8.r3t",
+      "size": 1398396,
+      "hash": "7338dcf30056144bc4f482b8568381e5e0ff8fb87385298226b5b03da60314f80486612ed4c9ae9ea68ffdf471b5aedc258165c370191f46c614553223e192e6"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/candy/candy.r3e",
+      "size": 11080,
+      "hash": "cb74b0a4ac60819206d60d0ad99bfa27b55096322c6123f271a33a829e229cc01fff4a2378866c1a3f0fc9d8d95781b2ab8925408055f07af3f86aadd45a5b19"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/candy/candy.r3m",
+      "size": 198,
+      "hash": "5f31e824333ddd5f5dcee3799bb59412de7cd6f1c41512d634cae7db411be69179d9b6be86f4d84b3bc7efbc8a2d57784e5fc8a2844ffda12f7c76d186bb278d"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/candy/candy.r3t",
+      "size": 1398396,
+      "hash": "62b274bc1700501f0b4f229b7da917e1df742a98475217c46a015564e470f6ecd0151a594819d04c634a19cd805e95b65507f6363c5291c0bc9f0c74680ed3aa"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/christmas_tree/Christmas_Tree.r3e",
+      "size": 1216232,
+      "hash": "6bd249c8c2273120db12d3385df1da4ae454a0f064bebfe548699f825e605f984779ab834d175edfa90f5b066f6353bc2b5f27d7d9ddbc66b785a001d282899a"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/christmas_tree/Christmas_Tree.r3m",
+      "size": 578,
+      "hash": "d924aefb6dcdb18cf9c12c9c28d9582811e5b31a2222d4aaa1ef286123d33e5f73dccd18340eb4ebc99f36edcc9b47b2e76b5d769dfcf37311bac409297b25ac"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/christmas_tree/christmas_tree.r3t",
+      "size": 3496108,
+      "hash": "5d8a0b0ad8c50bf689ba1f9e63fc3f562cca04517e22532c7df66424e9bf77da8a793eff887835ce182c2b93cfa647304e2564538e9b5b5ce94c058e4a1f9af3"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/cookie/cookie.r3e",
+      "size": 23934,
+      "hash": "fc6687a02117dd6970d9179aaeafb45237d7e84f58aef41275f63f83c0f685d46c81db5f8e3da012dd01829bd451c030e2897fa043e8fff8d01be5efb9a104d4"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/cookie/cookie.r3m",
+      "size": 198,
+      "hash": "925c7fcadf0614b76941b682d6344b71142d7802510a3af080ec1891cbb129d93c58d338d7333ac77ceece2b65b8a50bd3ae5a9a3020c0d884ddcb7f636da8e3"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/cookie/cookie.r3t",
+      "size": 1398396,
+      "hash": "ca8f43d0e28282be6645cf8ca41aebd9e5dbb7e9eeb9de37a20812e2c132654d67ed76b04f64904c01e8f85c2119344c4e87b87a67f2fc11b411d4698d2eb015"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/snow/snow.r3e",
+      "size": 220,
+      "hash": "0724e6533f43edbf9fbcc06c907b3edce2cb4b27678f8212871f35db213638d47a64be8393a1065cf529d5734f08ff75d31042fb3c51d49ebfe2dea19e409d5e"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/snow/snow.r3m",
+      "size": 198,
+      "hash": "296ecd01bae52655b5efbe4fe4107eb82179f4ee7d2612f80d9b93745f45d6cc31dd0c59e8e88b7f12571194376ca570bafeb7655d2e6dabc642132fd14c0e33"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/snow/snow.r3t",
+      "size": 2996,
+      "hash": "bd265966362e11cd1a72194a781ec936f7f2753f59bd5cafb94bd35f567db73047ac278a2d32a983bca5a18db854f6072a5c0d72fc8617ba6842759b8d0a54ee"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/snowflake1/snowflake1.r3e",
+      "size": 10584,
+      "hash": "7f49bc4edf83bce019960d05ae603eb3b820709c1c2dd4cfdef5fed643c4138aaf5dd5dc02104e72431857aadd7cdb31fcf3aeb83b8c82f3bfde48122cf6c163"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/snowflake1/snowflake1.r3m",
+      "size": 198,
+      "hash": "c2666376b6e56f1f6741e6e811a92bd21b32d9ddc3607f864ae19868acd9562065a937e38856b02f94b1a7d8e3adb8839d16fc8d4cfa386bdeabe16588028382"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/snowflake1/snowflake1.r3t",
+      "size": 1398396,
+      "hash": "dfc4ea480010ea58ac6cbccc575bd75721e4f85d841d0381e1654810607e57db3e0fa17fd27388fcfc866db9b3bce56546f3e81a5e7627a5f1309ffbc5304397"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/snowflake2/snowflake2.r3e",
+      "size": 28812,
+      "hash": "b2914ae78fd6c6c3dc5bc3c7babcebf07e13eec8059b086e5f1824fe3853eaef5bf96d34345394a62ec262ce6bf847bd04596cc9ac9c454cd54d63108dff1a3c"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/snowflake2/snowflake2.r3m",
+      "size": 198,
+      "hash": "820c7832cfa73af5a68d6d959de2d8acb83a4174ff5cc9af367b8d5167287ef30c158594f3438dce8f35a7b9973eb1589689a511f690080d978727e5ce11dd86"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/snowflake2/snowflake2.r3t",
+      "size": 1398396,
+      "hash": "673a87a4bd4054bdc9b013b5c97d7605f79e6c322d9338a5f387df1d61614a5ad6452797feea30a4de1c4194ef91264c98b46777805ccaa8799a9497795d8bd4"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/snowman/snowman.r3e",
+      "size": 5092,
+      "hash": "7680aea5bf8bc12e1708da8c36b2752829ccb21230d9dd4f3ca842c9cbe045f22681f16e756554f7ec87ba7f6cd609e9f369622c471d1467d4a8f371f6c8f2eb"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/snowman/snowman.r3m",
+      "size": 198,
+      "hash": "8b5c5f1a01a2fd3634936e0bbaf0a533a90358c2543199fbd9818c67b3b45a218f7992eb00dd0dcadfaf9e1a4dbbd2dde3d6769c716a2577be8d22ed093331c3"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/snowman/snowman.r3t",
+      "size": 1398396,
+      "hash": "53520c09e0e40c3ddeeb07ecb64b9410cc326148a2a6c27ed34adc49e53716d03309e77e4876ce9e9cc57551757d61f8837a5b50bbd8436ab97f027982176308"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/sock/sock.r3e",
+      "size": 3144,
+      "hash": "b599926e62a49676a97cbc523c2d5da13a143046e9c2130669e5dcf42baf13eb8290b7a6f3085346501c09c607d28979ea85c7925a4e53d090dd57e6cd7b6846"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/sock/sock.r3m",
+      "size": 198,
+      "hash": "87b52fa5f244cd340d1587cf125f5f3f828c85ecb5454fca9f4b1ed2a6ec176343771aa42c8fcfbf935012354f3adbbf3f5f71b29b207285f04c82fbdfbb4abb"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/sock/sock.r3t",
+      "size": 1398396,
+      "hash": "0fbe6b35e621bfa29dc4614660b616fc963f0d188db66b99b18460cfde3a12c32938afbd6bbd606cc85148dc601d39e1d14238a5cd6b4c7842f8dabe89fb8f14"
+    },
+    {
+      "path": "map/Entity/energy/event_xmas/spt/snow.spt",
+      "size": 575,
+      "hash": "15eef0c37475bbcce5d2c758dac1b6d7a081bb14162f750649ea8561f7414a83f92f1edfbd10427ba8463160cd54ad01470fdd462211136fc0e3f548e550540c"
+    },
+    {
+      "path": "map/Exile_Land/Exile_land.ebp",
+      "size": 449776,
+      "hash": "6501784d49ec29c3117ae5b6ac2fb3dde9736b28ada5a9965b07dcc2bb27f23759c46737f879f880c43b3fbdaa8cab678d9b7309b43c5e1cc184d45b91b23f25"
+    },
+    {
+      "path": "map/medicallab/medicallab.bsp",
+      "size": 6192569,
+      "hash": "95a9744e3f912fcb496cc5759cb14411df4d72509988de1b4c65efbbaff6aa6477f94dcde48adb7bc95e82cfa4b640ebaa9cdbf851d05794891121afbaccd370"
+    },
+    {
+      "path": "map/medicallab/medicallab.ebp",
+      "size": 109352,
+      "hash": "13558364da64d71866ca77db0cc0ae8334fe75ddb67c29419d1139a70232545431550bbd5326fa5acf2b33dad1af5fd1ed7e075a67163062bc3a3b62bfcb0f1b"
+    },
+    {
+      "path": "map/medicallab/medicallab.r3m",
+      "size": 95398,
+      "hash": "d328f168a12e8d85726b7a6a8f34cc3b61f3da5b0d6a1d4a48e31af227bab5881092fac89876009d3766163cc472896f861118133344087ba218ffc54a13e1fc"
+    },
+    {
+      "path": "map/medicallab/medicallab.r3t",
+      "size": 19431448,
+      "hash": "81b1755ae1e483a9dbc2007196b328046185e54b1b0161f531b5fe78b046d2a05493cede410afcad6b344734866f8aae3169172c7e3cf8f897463f4921baade0"
+    },
+    {
+      "path": "map/medicallab/medicallab.r3x",
+      "size": 1036,
+      "hash": "d13280f8d4e7e2edf92a6a5ddf83b55d3087939018b14e0994f63c5843e38997c80449fbaa26979a2d3107868105316f66e87501b3e1a47cacfacca4a02c90b2"
+    },
+    {
+      "path": "map/medicallab/medicallab.spt",
+      "size": 57979,
+      "hash": "f82dcf204f7bbf174ec2e3edacf9ccce3d07b29ea7ec650b3b45d92f7c18c7b4a4acf18be5aa418af086ee2906fe25aeb60fd9294522f1b9a7b972591ebd7575"
+    },
+    {
+      "path": "map/medicallab/MedicallabEXT.spt",
+      "size": 241,
+      "hash": "1b112c41d8fac3e16bddb4b3eb2561189b54af65b7d5b7b65d0a628e528365f6bd42abb1655a341811b9e9e933b65888b849cee37d45514de78b6d54f13fa850"
+    },
+    {
+      "path": "map/medicallab/medicallablgt.r3t",
+      "size": 7473488,
+      "hash": "ae9f3ea6abe26f33d99d4800f975b51239a3daa5a24e8a184aa4b4ba18db0a1e09d74c14527fb31c150ec4aae8d70984ec3a388d1d2e5457192957de8d4f921d"
+    },
+    {
+      "path": "map/medicallab/sky/medicallabsky.r3e",
+      "size": 50151,
+      "hash": "cee461a6cfd10df6e217010f386278a5023421cbdb167ff54a94ed6b8180e70f8c058eb8363b2a5a544c470528ff10de9fb373c4d025119603744581e8ef026e"
+    },
+    {
+      "path": "map/medicallab/sky/medicallabsky.r3m",
+      "size": 1004,
+      "hash": "94c1c9b127a1996d00fc85ffa33bb05aec9d17b4e325ca8b857bd2a9d46b1ab6943c327c4b449206ca9ef059238a6dd1e14396b291f9a06deb64f6818e6c02ff"
+    },
+    {
+      "path": "map/medicallab/sky/medicallabsky.r3t",
+      "size": 3584358,
+      "hash": "fa2d5609f77210759f945dd641e55f00d726297146a521764bc1af1cd4248bfd3113fbb904a4f44f4d1840d31f1b1c6cd4595757af623e60c49d886ffc2c64a5"
+    },
+    {
+      "path": "map/medicallab/sky/newcamp_asky.r3t",
+      "size": 0,
+      "hash": "cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e"
+    },
+    {
+      "path": "map/Mountain_Beast/Mountain_Beast.ebp",
+      "size": 494690,
+      "hash": "090775f586dde4ab3dc6673187c2d2043cf757b40b1e41688304df4ac7af57e9a98d323055902f1dccbb29088094d28f61c94f04ce01d295a1d5c3942c90cca6"
+    },
+    {
+      "path": "map/neutralA/neutralA.ebp",
+      "size": 753792,
+      "hash": "a8a605a24c0b219d9615bb564ea054647a6dfac3881d6840e3d0ef87281519d3f5f664e4ebfe9972643451691cee9f60fe5f323ed8db29071f3233ef29b380cb"
+    },
+    {
+      "path": "map/neutralB/neutralb.ebp",
+      "size": 791086,
+      "hash": "f6247ed48b09f61e17c447c0c1c78ca3a7462af4646992d7502d2d06a1f88c20dd0e79b30b71ae66f6a103774c02919906310f10dc882bfdbb567b1092d7e30f"
+    },
+    {
+      "path": "map/NeutralBS2/NeutralBS2.ebp",
+      "size": 962180,
+      "hash": "dec8e348c092cb850fc1ece88b9e6e5ae02960fabbd6c088e8ff8ee4ba5301bfdd182508953e2e7f4c2b286b7073c1670126e86fd1b71ae53818a16f1f651fc5"
+    },
+    {
+      "path": "map/neutralC/neutralC.ebp",
+      "size": 743200,
+      "hash": "ca0107ed36da406a8326355907f7d0009cdf9bc58bd7c65dd6c3aa04c7ddaf224eb70f37fca91a9839842a7cb4af1be80dd7143f3a3724757ce2bc827d8367d1"
+    },
+    {
+      "path": "map/Sette/SetteEXT.spt",
+      "size": 237,
+      "hash": "d1b650bc6a5345a0116d830e748edda600ddc000195ba20eb4725acbc6d8abda74c306791b22fb68a4ba716945e1a4facb4f83275424d4fd1d67f44411fef4a0"
+    },
+    {
+      "path": "MSS32.DLL",
+      "size": 349696,
+      "hash": "b6de91c15e186c47817ed375c982fefbbde85672ab020666fa2cce00830146633ea821ec3b2c13b0b81429798baa3386e580a322083d3fffee3787a4842515de"
+    },
+    {
+      "path": "msvcp140.dll",
+      "size": 641744,
+      "hash": "507a07a848663e26715bebbe6d1d8ba102088f69024a826515b2d5c7027c2e478fd62ffcdd8123f97ccde2ac4790e83109b9700d602c0ba4884a0b834e9bd32a"
+    },
+    {
+      "path": "msvcp140d.dll",
+      "size": 740840,
+      "hash": "43f18fc3dd55fa392ba89aae08ebdaf1bb5ba62c22ef1ff5e69a09082e989805ac444deee8d84d0cd585af0bf25083fa8d75e00a2f0ddee03f6784f5329567e6"
+    },
+    {
+      "path": "NetLog fix.dll",
+      "size": 508416,
+      "hash": "71390717a40043eae3c18189082945ff81ab19010ef7859c340bb0dac0f886166d70dc5098826d6ebe88f0844a3eb30b2293eea2d583081b9cb5353ae42ef8c1"
+    },
+    {
+      "path": "PredatorClient.dll",
+      "size": 19409408,
+      "hash": "84b41fc6b5cd6011c0ecc30cf3d45dda580077a393292c00c9c61bf424ff639b6078e871595fdbdda60e6b2fe0d32d715bbb4ed3d1002bc007b1ac71f7b5de62"
+    },
+    {
+      "path": "PurifierA.dll",
+      "size": 69632,
+      "hash": "9e2be7e8e7d27672744fcdb949b7326f7893c66cd53968af42ca31d643fabdfe1f9b7eb5d8e13861a6e09e1f6f10885fa189da00faa75fbf38b127e156bea134"
+    },
+    {
+      "path": "RF_Online.bin",
+      "size": 7597056,
+      "hash": "a8fc2618994c8c91973be01cfded939caf12699ebbeeae35d1d83b6b58058d6b9075fb2490d0298745b2361636b09ce7f3f18135947498ac7fd2307721bd603e"
+    },
+    {
+      "path": "snd/bgm/Title.mp3",
+      "size": 3463010,
+      "hash": "70918d75ec78269c538d148751b845a72d5211aba38d3a34c23fe74b466cf0affa39df7d350745d95e8f0f73c821c6d6cdc54adc5ebc160214c49dbc2b672bca"
+    },
+    {
+      "path": "snd/BGMList.spt",
+      "size": 743,
+      "hash": "8fd712cc6697f30423ce71d146887e4fc737b2aebf8aaca93554b56cf5f86ffbcece74446f28fbe698f5db518e03829fe0c1eea223549514803508170832f83a"
+    },
+    {
+      "path": "snd/Itemdown/bookdown_00.wav",
+      "size": 33120,
+      "hash": "d9e3745d1094cf14337923d31dc49d331ffaa63e7b8a065dc3c27f6751738d5aaec7f9be122e684c2e80a41fbded10554c96b8eff5410c6c697296fa035ab280"
+    },
+    {
+      "path": "snd/Itemdown/item_00.wav",
+      "size": 33120,
+      "hash": "d9e3745d1094cf14337923d31dc49d331ffaa63e7b8a065dc3c27f6751738d5aaec7f9be122e684c2e80a41fbded10554c96b8eff5410c6c697296fa035ab280"
+    },
+    {
+      "path": "snd/Itemdown/uikdown_00.wav",
+      "size": 33120,
+      "hash": "d9e3745d1094cf14337923d31dc49d331ffaa63e7b8a065dc3c27f6751738d5aaec7f9be122e684c2e80a41fbded10554c96b8eff5410c6c697296fa035ab280"
+    },
+    {
+      "path": "snd/Itemdown/uikdown_02.wav",
+      "size": 33120,
+      "hash": "d9e3745d1094cf14337923d31dc49d331ffaa63e7b8a065dc3c27f6751738d5aaec7f9be122e684c2e80a41fbded10554c96b8eff5410c6c697296fa035ab280"
+    },
+    {
+      "path": "snd/Itemdown/uikdown_03.wav",
+      "size": 33120,
+      "hash": "d9e3745d1094cf14337923d31dc49d331ffaa63e7b8a065dc3c27f6751738d5aaec7f9be122e684c2e80a41fbded10554c96b8eff5410c6c697296fa035ab280"
+    },
+    {
+      "path": "snd/Itemdown/uikdown_04.wav",
+      "size": 33120,
+      "hash": "d9e3745d1094cf14337923d31dc49d331ffaa63e7b8a065dc3c27f6751738d5aaec7f9be122e684c2e80a41fbded10554c96b8eff5410c6c697296fa035ab280"
+    },
+    {
+      "path": "snd/Itemdown/uikdown_05.wav",
+      "size": 33120,
+      "hash": "d9e3745d1094cf14337923d31dc49d331ffaa63e7b8a065dc3c27f6751738d5aaec7f9be122e684c2e80a41fbded10554c96b8eff5410c6c697296fa035ab280"
+    },
+    {
+      "path": "snd/Itemdown/uikdown_06.wav",
+      "size": 33120,
+      "hash": "d9e3745d1094cf14337923d31dc49d331ffaa63e7b8a065dc3c27f6751738d5aaec7f9be122e684c2e80a41fbded10554c96b8eff5410c6c697296fa035ab280"
+    },
+    {
+      "path": "snd/Lord/Lord_Battle_Stage_1.mp3",
+      "size": 4270706,
+      "hash": "f6009a62bf3e2eb4a62990927568e3179fbc6c01fbeedce876e9ee269dafd9a6b381b9a820714ccca8d035d3dfb6e594c3e69dda6ac75e645ae5782757c168cb"
+    },
+    {
+      "path": "snd/Lord/Lord_Battle_Stage_2.mp3",
+      "size": 5755343,
+      "hash": "8535f1153d01fe37951a25b5d08008b18c4b3fd71991898725262647f05001ff67d42e0e1ba42b0ce2f0c932293309007fb14f06ac3f851583d42bef849ae2f7"
+    },
+    {
+      "path": "snd/Lord/Lord_Battle_Stage_3.mp3",
+      "size": 7417984,
+      "hash": "135d1668d261a05c5651210754c4d1f8da6cb02f0d523dc10f79356160b5287b9a9202de7cff282e286dcc723da95b458313214f1fdb72afd9ee18d70054c7bc"
+    },
+    {
+      "path": "snd/Lord/Lord_Respawn.wav",
+      "size": 1962594,
+      "hash": "b442a002b307cb70ea145693821da4ddd129b9a02f49de10776c71fa74396ded544fe9b48a95ca237c29788220e897e2c774aa06db070cd7a070e3ffd1850e6e"
+    },
+    {
+      "path": "snd/Lord/StartBattle.mp3",
+      "size": 1658043,
+      "hash": "79e89d44515add2202c351d91cbb5dec81f8d5998799681f74845238b1dd81d0efed84ef97ac85db33972a6bb3e670ddeb62f8c1bb5398901f79ce434ac13d45"
+    },
+    {
+      "path": "spriteimage/common/class.spr",
+      "size": 413780,
+      "hash": "e2b0b6cd8ff1e5280c4816ee5a5f9871b163080a9674cb980f6fe3be1b653afc7f1eaa5a10253300f832fdfa35e8c84ffe77369cbf96322d4353d575adf78660"
+    },
+    {
+      "path": "spriteimage/common/item.spr",
+      "size": 39674780,
+      "hash": "2814c39a25006283afeb6744ae86046067d81394b5366163ad44061fd3fee36e78bd0dd779a3869855d55d79e397621041df94218f91581abebadeeeb8a1a0f8"
+    },
+    {
+      "path": "spriteimage/common/loading.spr",
+      "size": 4194340,
+      "hash": "03c797f73dfb3ab4add9781a33314196bbc9275bf34f2706e3d284aa8802a3a9985808f7e0966ecae8ca38b46e54b03bd722135c0268656a1acd1ff82ca9791f"
+    },
+    {
+      "path": "spriteimage/common/map/Acc_Field.spr",
+      "size": 335960,
+      "hash": "771b2b7b73c3bf0af482d3dd664ecdf3fd18ea1255acb4e3e6fff74f0dbe1eb25b25708c890a186ffb01ede23844fcf2da51bb30a4de98f8f140cf6aad5ac981"
+    },
+    {
+      "path": "spriteimage/common/map/Bel_Field.spr",
+      "size": 303192,
+      "hash": "96997f24a693191cc146b0625d7646ca864a8f40b27f9864f8b7ac155553cbc5276d982eab7636d5d803e5dbac257c2f4b726ac84e3801edb9c552d9181eeaba"
+    },
+    {
+      "path": "spriteimage/common/map/Cauldron01_Field.spr",
+      "size": 262180,
+      "hash": "73d4ed8ba4305b6330851a4e02c2e753faedeea202cdf79724fb5b189465724e74efa863b449ae88b24310851601fdb13bf8cdd090cf6c1f5b4822b149845594"
+    },
+    {
+      "path": "spriteimage/common/map/Cor_Field.spr",
+      "size": 303192,
+      "hash": "eee61b8dd6e66f413f4fb4511171d40e310ad0b7768cfdf7e42e05ba9cb1afb15b64feeeaba50405e3d91e991fef7db66e081c109b04c6e1ffb29a919ceea95e"
+    },
+    {
+      "path": "spriteimage/common/map/Cora.spr",
+      "size": 262180,
+      "hash": "d79f6c65470750463ae5b7a8086e713fcaa76b782bfb8c125fc427be2eb1b63d2b00d8219f3fc65004583dcf28fa4c246275ef327ac7d120850152b9f09380ca"
+    },
+    {
+      "path": "spriteimage/common/map/Elan_Field.spr",
+      "size": 262180,
+      "hash": "9b6e50bab88fc28680f12f79610bbd736d23f732c6e599ed77f74d2694d0b4fce3f487f1d458db7729b22f5957cd92007b5fd15a9eda8e56ede1906b4e591bb7"
+    },
+    {
+      "path": "spriteimage/common/map/Exile_Land.spr",
+      "size": 262180,
+      "hash": "80dcf2aa488f25ef3d4e67df80525dbac6ef7f12f1c3396a1c835ea1722addf873b243d42ba925aef64115b5bf1ac51b23b4741dc2b4b40d170de9c9155f80e5"
+    },
+    {
+      "path": "spriteimage/common/map/Medicallab.spr",
+      "size": 262180,
+      "hash": "8169ef22bc0ec91fa3556b33830c9107f1ecdaf2be7caab0d4827ba8a4b4632ce698f9b080229ede29ce94c50749d38d3f0f8066a466374af58cf11525b48260"
+    },
+    {
+      "path": "spriteimage/common/map/Mountain_Beast.spr",
+      "size": 262180,
+      "hash": "eedff039467ac7115c299e9cab2305fdd0f92188c4b34e6eb69fa1501d970ff1a0f6eddd1c12d524bc11ed417a03839a12e9df6479d385834619f91922ad0c6a"
+    },
+    {
+      "path": "spriteimage/common/map/Nas1_Field.spr",
+      "size": 270400,
+      "hash": "1b839d39fd861a9d8ec02bce9f1e1447cc53f61cf4379cebbdbade42ebaa54bf9b4c522fa82d83b67e2377010a76d87ca3a57a577d359a7aa20e55a5256877c0"
+    },
+    {
+      "path": "spriteimage/common/map/Nas2_Field.spr",
+      "size": 270400,
+      "hash": "433cecc25e7b26e0103065ce9a9d244f7b60ef0fc8196cf7f9be5024b7cc0ed26809ba12fa45499e620db0e718b565267c4ffd18a2874f5892756f5e0b211bbf"
+    },
+    {
+      "path": "spriteimage/common/map/Nbs1_Field.spr",
+      "size": 294976,
+      "hash": "e1a9f45d6ac04f339c1a73d4e43c7677333fbb3f19b026c99064c06869d1bbe89a99c9948438b49c8512584737f60809310848ded20320c09aa4ccb11e891219"
+    },
+    {
+      "path": "spriteimage/common/map/Nbs2_Field.spr",
+      "size": 270400,
+      "hash": "ead7b295bb234d286074639367f7cd0ba9ed109b46cad74348db3924ca1059352d7e92d878c6db4b19a3a9ee6bf5a1b46ab54b169edd0b9d57637894d3b8111b"
+    },
+    {
+      "path": "spriteimage/common/map/Ncs1_Field.spr",
+      "size": 270400,
+      "hash": "f96fe011ea035fc3e23a510bb27abff9f96d4166a9b3204abf7c815df3d346e56e65e2470a88c9cac310dc003ee3846c949b52de01c386b63ce03b4e57d591a4"
+    },
+    {
+      "path": "spriteimage/common/map/Ncs2_Field.spr",
+      "size": 270400,
+      "hash": "8299602eccfe15cada3eb942340685fa3b57cb796be7f8fd7e75d10ed69f9bcad4b41d0d02da4d7914b00d1a0282d3b07ff53f1006394778408aa84e1377233e"
+    },
+    {
+      "path": "spriteimage/common/map/Pla01_Field.spr",
+      "size": 262180,
+      "hash": "46a297dd7010db13afc76f7313aaa16082a812491bd2ff3260fdcf5d580fe0d1c9c1ae7dc1f212c7864a75685b1fd77d367c954fa3547e5ee65eb4746f5ab722"
+    },
+    {
+      "path": "spriteimage/common/map/Resource_Field.spr",
+      "size": 262180,
+      "hash": "7fc31971ea5315d22e57fe4b6ea5e5d3b94d47fed0aaf577227157132498ced2d783352e5e02926507286d0b201f97e59908937840ae9cfdc78417f1e765773f"
+    },
+    {
+      "path": "spriteimage/common/map/Sette_Field.spr",
+      "size": 262180,
+      "hash": "7fc3d26986705391cbb94bf6fc52a6dbc2f9e3e9ae93e81fe67a05f16cd300fb50b4363b6437a392cad972be807c04b1961df4848c50b9e85dfc381c861deb18"
+    },
+    {
+      "path": "spriteimage/common/predator.spr",
+      "size": 5214980,
+      "hash": "abcbceef8a401193d56c2c21b0ddce77676ff2ed070100d8111cca452592564a40d260c9c9f82641d3359535809c60876fffe43984a018aed5d83508cec4b37c"
+    },
+    {
+      "path": "spriteimage/common/shop.spr",
+      "size": 266324,
+      "hash": "accffcbbe6e01c135e738232d94ccf006766573a9d61999b4ccd9c36893864475796cb91402c43e3d61acacfbe88a783a401aacf200fbda772058246f60eea13"
+    },
+    {
+      "path": "spriteimage/common/system.spr",
+      "size": 1410784,
+      "hash": "c42c441505d72b5da2589f2f28a0a215718a063286b130e249db0e0fa773b53e0a1f1c8c69a11cdfef2616e915f0dd6812ecc523472e27ce067b43639922e8f3"
+    },
+    {
+      "path": "spriteimage/common/unit.spr",
+      "size": 401908,
+      "hash": "503040b3d7fce6080d2dc4e0cb4f4907961533601b3f22f07d0b98dd244efb2eab09b7634f3d81ae04d7a9eb3af46edb177b96847939c0cf11be866fec1e2848"
+    },
+    {
+      "path": "spriteimage/loading.spr",
+      "size": 4194340,
+      "hash": "03c797f73dfb3ab4add9781a33314196bbc9275bf34f2706e3d284aa8802a3a9985808f7e0966ecae8ca38b46e54b03bd722135c0268656a1acd1ff82ca9791f"
+    },
+    {
+      "path": "spriteimage/ru-ru/loading.spr",
+      "size": 4194340,
+      "hash": "03c797f73dfb3ab4add9781a33314196bbc9275bf34f2706e3d284aa8802a3a9985808f7e0966ecae8ca38b46e54b03bd722135c0268656a1acd1ff82ca9791f"
+    },
+    {
+      "path": "StringLoaderA.dll",
+      "size": 61440,
+      "hash": "4b8fdc5167559d588b0e12798492d67181bd584cc72a1e69c259cc0c93ffa0ed7b4d8925409a67d98ad107faab63e9f2d37eefde59daa08926742ee35df666a1"
+    },
+    {
+      "path": "system/Data.xml",
+      "size": 260,
+      "hash": "f6fe0adb83099c34140939fa8b160d3e5513d374ff363ab8454b6013993245b4d3b621d84d9774d64f875f06b56bc25b37c99ca6181c16a9429b074c5e1f3b8d"
+    },
+    {
+      "path": "system/mouse/attack.ani",
+      "size": 283472,
+      "hash": "6d38462a83b2eb5e9797659c4dc7cc47a4b29d65e8e7b776e6e6f192e4662d2fb91b97e9a766965e0c64abca8af2c4ace1fddacc548614e45e8dc90a3ffb0af6"
+    },
+    {
+      "path": "system/mouse/basic.ani",
+      "size": 214976,
+      "hash": "1b02aadb7264853b1dcfcdd9d15824e7aa3f249256258dafc3599aee8e97f595e5f4665356e03bf0acb9894136e4f552b7fdfa9f81c6c6a2f216d9b55986af8c"
+    },
+    {
+      "path": "system/mouse/force.ani",
+      "size": 18116,
+      "hash": "e8cd11b4b8858e145f136608d37df5216f4c4d50799c8a7aa10c58d0d25406d31a3c4d3f6e66a52de8a3e9923b9b02c28d70d687411b931702ad8686946a320b"
+    },
+    {
+      "path": "system/mouse/get.ani",
+      "size": 86036,
+      "hash": "02a801add6dbf9173b8702f41e26a3220da904ff67ed9278876661f33b3a63c8ebf3761c818fce418ce2089b723c491da3e73819e6beb2e4e33918e8ac774c9e"
+    },
+    {
+      "path": "system/mouse/npc.ani",
+      "size": 68908,
+      "hash": "c92518ce146bbcc828f947421b98fde9fe0dea8529f9f0920501a62cf010e65a5e3a91be0cc09422d9cbefed299355c8c9af30281f8cae564c6a454982f4f456"
+    },
+    {
+      "path": "system/mouse/samerace.ani",
+      "size": 257996,
+      "hash": "06fedbced2971c706a19471ba9e09da56e62b2f2cea0afeb5e338dac7d20602a1f7fe7803ec55e308a6b57e9dd419c2b28abedb9c09ad60120468b7e726e7ba0"
+    },
+    {
+      "path": "system/mouse/skill.ani",
+      "size": 11354,
+      "hash": "7692c6d632071f1c9e5cb124e94f969d7ad2475dbb8981fbf5564c662ec6009f07859d670fbad58b5d376df867f43ceeb36041964bfb9804c112e5195bfd5ccf"
+    },
+    {
+      "path": "system/titlelogo.tga",
+      "size": 5440044,
+      "hash": "1b82d70ab7bdf60fa5869384b90802b6feb891e347f7a16f3d0795463301e6acf6c647e65339b59d4c14dc9bdb7a9c284906a192b300169c74d0f011fe9817c0"
+    },
+    {
+      "path": "ucrtbased.dll",
+      "size": 1520768,
+      "hash": "a7a41f3fb7f2eb3e2d85c04dabb508189249cfc15a5354fc6daac7a8dc6cadbd7f1ebc4dd21a7b9f7a69e80836a07ae1874a3afbcf5d5e447c3f0b958920d72a"
+    },
+    {
+      "path": "vcruntime140d.dll",
+      "size": 114664,
+      "hash": "0d712ac4ec76b2c7557a519ef46a8507ce833f57740adec1e75a1086677692dd42763717c8674a63f371b5c092b2924b95db098534a0930f11dc4940aef27f98"
+    },
+    {
+      "path": "XInput1_4.dll",
+      "size": 45568,
+      "hash": "d12041255f72c33bd63fb28569164efc8f39479a5fdae9cc59ca5e2a114b2c406a05088d3f40c2ed6db1a05f945e0429c5cbf3de40b1e6179e1e6effcc3e0405"
     }
   ]
 }

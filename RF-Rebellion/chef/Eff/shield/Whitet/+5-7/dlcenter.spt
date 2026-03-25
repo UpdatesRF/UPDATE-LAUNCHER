@@ -1,0 +1,32 @@
+[Particle]
+
+entity_file .\Chef\monster\GLOW\aura.R3E
+
+num	3
+pos box 0 0 0
+
+live_time 1.5
+time_speed 1.2
+
+gravity	0 0 0
+	start_alpha 30
+	start_color 255 30 0
+	start_scale 30
+alpha_type 3
+z_front -0.3
+
+time 0.5
+	alpha 100
+	color 255 0 0
+	scale 20
+
+time 1
+	alpha 180
+	color 255 100 0
+	scale 10
+
+time 1.5
+	alpha 30
+	color 255 255 0
+	scale 5
+end

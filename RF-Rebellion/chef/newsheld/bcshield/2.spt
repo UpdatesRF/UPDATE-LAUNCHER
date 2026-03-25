@@ -1,0 +1,27 @@
+[Particle]
+entity_file .\Chef\PVP_Item\PVP_KNIFE\781p\lvup.R3E
+num	50
+pos box rand (-7,6.5) -1.3 1
+
+live_time 4
+time_speed 1
+gravity	 0 0 0 
+	start_power 0 0 2
+	start_time_range 0.1
+	start_color 255 36 0
+	start_scale 3
+	start_alpha 255
+	start_zrot rand(0,180)
+alpha_type 3
+FREE
+
+time 1
+	color 255 36 0
+	alpha 150
+	scale rand (0.8,3)
+time 2
+	alpha 75
+time 4
+	alpha 0
+
+end

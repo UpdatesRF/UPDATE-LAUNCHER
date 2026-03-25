@@ -1,0 +1,25 @@
+[Particle]
+entity_file  .\Chef\Runeweapon\spkl\spkl.r3e
+num	500
+pos box rand(-40,40) rand(-40,40) rand(-40,40)
+
+live_time 30
+time_speed 2
+gravity	 0 0 0 
+	start_power 0 rand(-1,1) 0
+	start_time_range 0.1
+	;start_color 255 255 255
+	start_scale rand(0.5,3)
+	start_alpha 255
+	start_zrot rand(0,360)
+alpha_type 3
+FREE
+
+time 1
+	
+	scale rand(3,5)
+	alpha 255
+time 10
+	alpha 255
+
+end
