@@ -1,6 +1,6 @@
 {
   "method": "GitHub",
-  "version": "17",
+  "version": "18",
   "files": [
     {
       "path": "ABuse.dll",
@@ -1270,7 +1270,7 @@
     {
       "path": "datatable/item.edf",
       "size": 1612715,
-      "hash": "dea8ec70c99bc62b68412a419a0cd18577c38d5eec91ea18fc0fd3d8d15766e9e30a7f7e08be265f5a308ca43509de40dcd5cfdb55e8f166db7b198029ce6398"
+      "hash": "580429aee6eddb50a3640d60d0c7f6776e16683720712831c944f0e5675054ac1d7e526f59c2e18ed17a9b7a4e37b44e6ecf1fe34af00018f4cfd359efca36f5"
     },
     {
       "path": "datatable/itemcash.edf",
