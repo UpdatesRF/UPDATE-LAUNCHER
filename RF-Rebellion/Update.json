@@ -1,6 +1,6 @@
 {
   "method": "GitHub",
-  "version": "3",
+  "version": "4",
   "files": [
     {
       "path": "ABuse.dll",
@@ -1205,7 +1205,7 @@
     {
       "path": "datatable/character.edf",
       "size": 671333,
-      "hash": "9a881a1a121f92dbf2fc307dde6f12375c079e7ce8ce3e4ffeeae7abfc19fa83d26ae137d09be70d7c5a04118c416f75277a12209554585daa44c6f555b8bcb5"
+      "hash": "1958e9b27f9e1e982e549aad7063104241374922cdbe6b006eb3d1331a8f3118ba2d36cdd370efc1c962c7e487c53f913df5d19688d16e3202a4405510ec3cc2"
     },
     {
       "path": "datatable/class.edf",
@@ -1275,7 +1275,7 @@
     {
       "path": "datatable/itemcash.edf",
       "size": 35561,
-      "hash": "1c6b5c1c37505b113811f061f8517ae2ca0851bb51b81ec26c89e2e69e0ec7bff92b84bb96dee3ec25e72ad2b648da6dd9c060280add13fbbcfb1588b7ecd5af"
+      "hash": "a88ec815e7e660f696d49c458ea6b80e7ce31bd3c7c44cd9ea3937e4475591e644669666b597f5307f5c06eb259894dbb047a6657a72f29932a7c22b951e6ef7"
     },
     {
       "path": "datatable/itemcombine.edf",
@@ -1704,8 +1704,8 @@
     },
     {
       "path": "datatable/ru-ru/NDLanguage.edf",
-      "size": 192925,
-      "hash": "4181a17461e35da4af7cf3df55c06493c00720d0179ae6ddced07db89debd9ff32a2dd3d46154931ff1f23b51c5f33ac86d056eb5a23a4039377421935b9094d"
+      "size": 192876,
+      "hash": "c8f7caaf4c10aecca4942db89608201e8f750ff15c6ae352af7d8ad1051b2b44387dffd3a32436d56f0e88e9b412456b5050da5c59ebc94b0d715d98b743d106"
     },
     {
       "path": "datatable/ru-ru/ndmap.edf",
