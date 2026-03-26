@@ -1,6 +1,6 @@
 {
   "method": "GitHub",
-  "version": "7",
+  "version": "8",
   "files": [
     {
       "path": "ABuse.dll",
@@ -2805,7 +2805,7 @@
     {
       "path": "spriteimage/ru-ru/CashShop.spr",
       "size": 6116540,
-      "hash": "a32535754f9c73af4e1c9df0506684c91dc7051cbd055f0b7be31acefdfa7343784737fe18af08ab76fc71416cb87b45ac3a783f2229adf850e1fc7af89efcf8"
+      "hash": "e54c17afe6fa97c894975da0bfc2a35480916291e28b885ad815089f8d3629bf1970590e2fd2b8b819f3b732aa8abadce457c551f2a452cc64a64b1c5bfc3614"
     },
     {
       "path": "spriteimage/ru-ru/loading.spr",
