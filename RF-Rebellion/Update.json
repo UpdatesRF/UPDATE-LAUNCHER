@@ -1,6 +1,6 @@
 {
   "method": "GitHub",
-  "version": "2",
+  "version": "3",
   "files": [
     {
       "path": "ABuse.dll",
@@ -2584,8 +2584,8 @@
     },
     {
       "path": "PredatorClient.dll",
-      "size": 19409408,
-      "hash": "84b41fc6b5cd6011c0ecc30cf3d45dda580077a393292c00c9c61bf424ff639b6078e871595fdbdda60e6b2fe0d32d715bbb4ed3d1002bc007b1ac71f7b5de62"
+      "size": 19338752,
+      "hash": "b0524b4eecce0b402c52145c3cca0434232c244b0eb15143b5c1c9692987d7d41226bb7d0f03c29272fb83d3f3d1d211f31560227620ebc5579d16c50bd04254"
     },
     {
       "path": "PurifierA.dll",
@@ -2779,8 +2779,8 @@
     },
     {
       "path": "spriteimage/common/predator.spr",
-      "size": 5214980,
-      "hash": "abcbceef8a401193d56c2c21b0ddce77676ff2ed070100d8111cca452592564a40d260c9c9f82641d3359535809c60876fffe43984a018aed5d83508cec4b37c"
+      "size": 5220756,
+      "hash": "9223d0a76efe1ed146a930b732a89ee13070e5262e08ad8b5b32e760ed7f96e4443245c127134cfd03075bcf042dd7459bb1f155efe874e74e2439792618e0fc"
     },
     {
       "path": "spriteimage/common/shop.spr",
@@ -2801,6 +2801,11 @@
       "path": "spriteimage/loading.spr",
       "size": 4194340,
       "hash": "03c797f73dfb3ab4add9781a33314196bbc9275bf34f2706e3d284aa8802a3a9985808f7e0966ecae8ca38b46e54b03bd722135c0268656a1acd1ff82ca9791f"
+    },
+    {
+      "path": "spriteimage/ru-ru/CashShop.spr",
+      "size": 6113980,
+      "hash": "aba028f6deecd5dbd233ad51106386169cccd735010504c9e361fdea9df059caee2c4ac776eb618c2a59a46de1e78362e2b4771f41112e104468345006435979"
     },
     {
       "path": "spriteimage/ru-ru/loading.spr",
