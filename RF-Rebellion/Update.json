@@ -1,6 +1,6 @@
 {
   "method": "GitHub",
-  "version": "16",
+  "version": "17",
   "files": [
     {
       "path": "ABuse.dll",
@@ -1275,7 +1275,7 @@
     {
       "path": "datatable/itemcash.edf",
       "size": 35561,
-      "hash": "a88ec815e7e660f696d49c458ea6b80e7ce31bd3c7c44cd9ea3937e4475591e644669666b597f5307f5c06eb259894dbb047a6657a72f29932a7c22b951e6ef7"
+      "hash": "f265485ddd9b3bee1dd907f5a06192a3f5414df8029019b112d5dc1b734e35cc2e8f6771ce97d09d2217cbf95130070961da106018749e181917b13f538a4989"
     },
     {
       "path": "datatable/itemcombine.edf",
@@ -2805,7 +2805,7 @@
     {
       "path": "spriteimage/ru-ru/CashShop.spr",
       "size": 6129340,
-      "hash": "9e5a1dd75e7176d413a050835c61132b9a67163b0281f11ac72603f8854085e784f8968c6edb1ce59fa704121812e068aa98b60d6d2006058595b4ed9b397df3"
+      "hash": "00318ba14a35d44b7a06e5af659eda155561577623e3784b8cd549dd2289f38bb978a0b00a304c519a434ad0b33ad3be5484d39f293593726d43d57e68b39187"
     },
     {
       "path": "spriteimage/ru-ru/loading.spr",
