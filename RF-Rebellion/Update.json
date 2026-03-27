@@ -1,6 +1,6 @@
 {
   "method": "GitHub",
-  "version": "18",
+  "version": "19",
   "files": [
     {
       "path": "ABuse.dll",
@@ -1205,7 +1205,7 @@
     {
       "path": "datatable/character.edf",
       "size": 671333,
-      "hash": "1958e9b27f9e1e982e549aad7063104241374922cdbe6b006eb3d1331a8f3118ba2d36cdd370efc1c962c7e487c53f913df5d19688d16e3202a4405510ec3cc2"
+      "hash": "3137ee6e057a52d6f22b91dd859e4282e228171fcca2f6198e2784e0a99fbf5fb3a5b1a2b495ad49aa3dd7a4fb34a08b76d2ec6d3ac24d748fad14a5429ea8a8"
     },
     {
       "path": "datatable/class.edf",
@@ -1270,7 +1270,7 @@
     {
       "path": "datatable/item.edf",
       "size": 1612715,
-      "hash": "580429aee6eddb50a3640d60d0c7f6776e16683720712831c944f0e5675054ac1d7e526f59c2e18ed17a9b7a4e37b44e6ecf1fe34af00018f4cfd359efca36f5"
+      "hash": "fadff057a04fcc4d257abfd217e0e2300fa7a2759d2602694877a3bbf9fe874ac39ed39f8fbc92b41ee35e67e2d9ce32b94a7ce81452b0a93cbb015de1bf9af3"
     },
     {
       "path": "datatable/itemcash.edf",
@@ -1345,7 +1345,7 @@
     {
       "path": "datatable/Modules/[Client]BoxItemOut.edf",
       "size": 105741,
-      "hash": "5132621d68c355488769c1e2c94f74e422df7711213296957a3245c1377d8a6111ed4bb273a193b2a55f8bcf071dabe17ad4af1f086754ba014ec4f149644025"
+      "hash": "ca94920f5f77465150b327a2f19471a9d1a7c7c6564bd9805598e138de946ae005fe50b0fe175066d660c4bb60466b86af3e651127252a4813dece33b3c43ddd"
     },
     {
       "path": "datatable/Modules/[Client]ButtonEx.edf",
@@ -1694,8 +1694,8 @@
     },
     {
       "path": "datatable/ru-ru/nditem.edf",
-      "size": 830347,
-      "hash": "32f3d13595a09508783d19b3fb2a78a27225ea1a03fe2e9977a3b1a276c7bd949ce28087838127a487caf79f5f78f73fccf6c75ddb3e1018b89233c2146d65b5"
+      "size": 830346,
+      "hash": "17d88af2b763b857b16ebd2aa887b4a9535bcdcbd8e25896a3cc2fc75b7950e8d358984ba763a980341d644039275040cb632f223d7109e62587cc8f5a9c1668"
     },
     {
       "path": "datatable/ru-ru/nditemcash.edf",
@@ -1729,8 +1729,8 @@
     },
     {
       "path": "datatable/ru-ru/ndskillforce.edf",
-      "size": 227177,
-      "hash": "7ee39241c3ba51d0ad322271cd04cb4759ba1e199f3e417e9973872ddb6752c99412d9fb23a7f1177991a44bc7902e22298fbbc01e1bff6f4ee98116d42ed694"
+      "size": 228809,
+      "hash": "e7e5943e9fe1315e304b57e5a87a6b4c9c4b71a7306059af1230a0b2fd91b89ad66acc44336fcb92e1a4d86a26bed7ad317cd381bfebfda4f143c573f15c358b"
     },
     {
       "path": "datatable/ru-ru/ndstore.edf",
@@ -1799,13 +1799,13 @@
     },
     {
       "path": "datatable/skillforce.edf",
-      "size": 465257,
-      "hash": "050a5350ffaae2c2aad5abaa14f28e8777db42279db49e64cd3abe2050af6958f1dfae5e4fcaae2b6527efe30e0d250f5f5aa6398d94e999ec4ce37d1ad00298"
+      "size": 468617,
+      "hash": "8ca850a5e616aa7d6da793e2094e63ee39bd90b40cc4f641e5781352f15f92f1fc24e03ddcc439802c962432042f1d2e530eb1dce3f612777803e7815a14a80f"
     },
     {
       "path": "datatable/store.edf",
       "size": 622377,
-      "hash": "22e9b33c889c4a717b07a4e08cfed6c03244592fa8d7f48df4cd2ad17231d100aca67568e737c9dcd8ecede31c115e9d919434d88855be4f961f62eceb2e2e85"
+      "hash": "337abe44a81d4eb75fbbc6f03f199c54f9524538a1c8d2a4a22296be750a870de3608b938063f0a6b01d474437d3465e6f01a1d522fc736238e5f2f62ed391e2"
     },
     {
       "path": "datatable/timeritem.edf",
