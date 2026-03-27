@@ -1,6 +1,6 @@
 {
   "method": "GitHub",
-  "version": "19",
+  "version": "20",
   "files": [
     {
       "path": "ABuse.dll",
@@ -924,8 +924,8 @@
     },
     {
       "path": "chef/monster.ini",
-      "size": 29519,
-      "hash": "c4fd2a82bf18968e221644844f784310bf9d195a636e65ea150ea35a6ac749ebcf20fae7df7cbb5936a0e5e6db489c012cff57f6538d83e1433dbcfbe72ebbf0"
+      "size": 30005,
+      "hash": "97edfa0636cfda857be0c384cb3935dbb1c10a19063caada97f287ae979853998c3c11ff5f22c4a687c94b57bca7997bbfa16e39da78a9d18fc5457e0de9c8ad"
     },
     {
       "path": "chef/newsheld/ashield/1.spt",
@@ -1204,8 +1204,8 @@
     },
     {
       "path": "datatable/character.edf",
-      "size": 671333,
-      "hash": "3137ee6e057a52d6f22b91dd859e4282e228171fcca2f6198e2784e0a99fbf5fb3a5b1a2b495ad49aa3dd7a4fb34a08b76d2ec6d3ac24d748fad14a5429ea8a8"
+      "size": 674917,
+      "hash": "0114a5d57c780a42ccf2f12f58aa46579e4579adb43e71d036789791cce8cf991890ac537a417dc84b5857a7aeeed7d3d1bb2f6ae84446dd801271ed283c2773"
     },
     {
       "path": "datatable/class.edf",
@@ -1339,8 +1339,8 @@
     },
     {
       "path": "datatable/Modules/[Client]BossRespawnControlEx.edf",
-      "size": 15081,
-      "hash": "66aaa3da3ab37cd18962b3f6114fb337107dd7c22f8f9396d2cc1cf1e8ce34e5b6429a98d451069f7bad12ae4d1bb6fe21faf003f14509032311130356c8b212"
+      "size": 41641,
+      "hash": "5f10e4610140c3f13fe8390294344136d9d0a3fe4b44356107b56d46e7e3a3d32939c0390436e46d5d14a1094d5cd5fea3286664ed5eacc31f82025183e64a64"
     },
     {
       "path": "datatable/Modules/[Client]BoxItemOut.edf",
@@ -1399,13 +1399,13 @@
     },
     {
       "path": "datatable/Modules/[Client]MonsterCreateEx.edf",
-      "size": 6977,
-      "hash": "6191ae488e402e35ad1602e2d006355979d1b526b99362c568c616f06b6f792d60b05007e2e28a40eac12a93cdcf4048a17c3451c44791e903562798d0f51676"
+      "size": 7979,
+      "hash": "109e9d28d1e804e7962d44188fff230a28f297a8f6836b79ad2dbbd83a62c6df7de5c7599ea60ea9b87b67927c395dd17ae7bc90983369f5f7e6cf24dd895b5c"
     },
     {
       "path": "datatable/Modules/[Client]MonsterDestroyEx.edf",
-      "size": 6977,
-      "hash": "849c0c685572baf6d99be161f2dcd1b81afbc29f1d97d027071e204defc5a942ccd534aecc7ce8861bb8e4b0c386b80a5bb21df868ba4ade32cb363759b873d3"
+      "size": 7979,
+      "hash": "e98783af90ef2d113a1f27f3019eec4e71e37bf3d358d7f823568e0e40f76bbcf88b82a6f794ad0b721f261c7c64a8cd921c8e3f2375eabd139baab306c4ac70"
     },
     {
       "path": "datatable/Modules/[Client]ObjectData.edf",
@@ -1684,8 +1684,8 @@
     },
     {
       "path": "datatable/ru-ru/ndcharacter.edf",
-      "size": 225441,
-      "hash": "f25906675993047ee50e4d1aa73b04a27c0ecbc2460ece30fe1e8d74f7fc8a1086cca4455e006cabb662d4ccea5993b6433381646655bdac46111256fd3504a9"
+      "size": 225953,
+      "hash": "f2446c26a53a1a77c5e1a89abc766451202aacc263f348f2dfbee654e5cf5a3de5f873b72a56e170083b0019e0193c7d6a65a6d514230f7f1a434211e3a25555"
     },
     {
       "path": "datatable/ru-ru/ndeventship.edf",
@@ -1729,8 +1729,8 @@
     },
     {
       "path": "datatable/ru-ru/ndskillforce.edf",
-      "size": 228809,
-      "hash": "e7e5943e9fe1315e304b57e5a87a6b4c9c4b71a7306059af1230a0b2fd91b89ad66acc44336fcb92e1a4d86a26bed7ad317cd381bfebfda4f143c573f15c358b"
+      "size": 229353,
+      "hash": "70381a45f1c7e727b8b6b907e29c72eca6e5e15947beec0fc2a52c5b775c02ccad532be0b06fbc73c1d5e24b7fe8f600aea00764e5b42f690e9252a78f2c690d"
     },
     {
       "path": "datatable/ru-ru/ndstore.edf",
@@ -1799,8 +1799,8 @@
     },
     {
       "path": "datatable/skillforce.edf",
-      "size": 468617,
-      "hash": "8ca850a5e616aa7d6da793e2094e63ee39bd90b40cc4f641e5781352f15f92f1fc24e03ddcc439802c962432042f1d2e530eb1dce3f612777803e7815a14a80f"
+      "size": 469737,
+      "hash": "a67d81c95a9f89ad6d3e1e136ff0d1d83f35078255a64c335b4b52034c68d6349038f14f5d35d26253f505ee069c63511f12a63888cacd234b95f77b59b01500"
     },
     {
       "path": "datatable/store.edf",
