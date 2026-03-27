@@ -1,6 +1,6 @@
 {
   "method": "GitHub",
-  "version": "20",
+  "version": "21",
   "files": [
     {
       "path": "ABuse.dll",
@@ -1399,13 +1399,13 @@
     },
     {
       "path": "datatable/Modules/[Client]MonsterCreateEx.edf",
-      "size": 7979,
-      "hash": "109e9d28d1e804e7962d44188fff230a28f297a8f6836b79ad2dbbd83a62c6df7de5c7599ea60ea9b87b67927c395dd17ae7bc90983369f5f7e6cf24dd895b5c"
+      "size": 11987,
+      "hash": "160561a423255b506f2b613c66d60e83c117618ad4c75aa6be8b65c9220e46cc4eb9dd271031a593be8a65e4b638804ff2840a3a0eadee10a07311cf03bc649c"
     },
     {
       "path": "datatable/Modules/[Client]MonsterDestroyEx.edf",
-      "size": 7979,
-      "hash": "e98783af90ef2d113a1f27f3019eec4e71e37bf3d358d7f823568e0e40f76bbcf88b82a6f794ad0b721f261c7c64a8cd921c8e3f2375eabd139baab306c4ac70"
+      "size": 11987,
+      "hash": "ce1988b61e3583c2b0fe96866db6fd698f2ac9f800646ae56f50dcfa8faa6bb0dec1f75d505f3f614341986e410bd43e5bf8410b2a8ca20b7222a85fa43d81ca"
     },
     {
       "path": "datatable/Modules/[Client]ObjectData.edf",
