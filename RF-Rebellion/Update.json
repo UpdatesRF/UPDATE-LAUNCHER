@@ -1,6 +1,6 @@
 {
   "method": "GitHub",
-  "version": "22",
+  "version": "23",
   "files": [
     {
       "path": "ABuse.dll",
@@ -1340,7 +1340,7 @@
     {
       "path": "datatable/Modules/[Client]BossRespawnControlEx.edf",
       "size": 41641,
-      "hash": "5f10e4610140c3f13fe8390294344136d9d0a3fe4b44356107b56d46e7e3a3d32939c0390436e46d5d14a1094d5cd5fea3286664ed5eacc31f82025183e64a64"
+      "hash": "136d9a19a2ea370548c5f8f9110961f1fe1b4ad36256b39ed803b3bfc45a10e2478d130a6635a977d765844fc840f51500bc99691c19e58b84d05bd9a484d7a0"
     },
     {
       "path": "datatable/Modules/[Client]BoxItemOut.edf",
@@ -1400,12 +1400,12 @@
     {
       "path": "datatable/Modules/[Client]MonsterCreateEx.edf",
       "size": 11987,
-      "hash": "160561a423255b506f2b613c66d60e83c117618ad4c75aa6be8b65c9220e46cc4eb9dd271031a593be8a65e4b638804ff2840a3a0eadee10a07311cf03bc649c"
+      "hash": "26c31bf2db989c087c8198f3a58482c6bbd0c6d11ca7c65ca8f8ea4ba8b81dfcd8316ecea74d2b4594394839fa591237331ec920c005e035c7c84aaa07ebc822"
     },
     {
       "path": "datatable/Modules/[Client]MonsterDestroyEx.edf",
       "size": 11987,
-      "hash": "ce1988b61e3583c2b0fe96866db6fd698f2ac9f800646ae56f50dcfa8faa6bb0dec1f75d505f3f614341986e410bd43e5bf8410b2a8ca20b7222a85fa43d81ca"
+      "hash": "812a406bd6a44a6cdec067a2cd3d593871f306296c3111021ed0ccf40a7a7e8a9d919f6b2ee5bb617ae738ddc2882e1242791c2fa433199c252dd73581134d47"
     },
     {
       "path": "datatable/Modules/[Client]ObjectData.edf",
