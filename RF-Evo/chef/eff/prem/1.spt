@@ -1,0 +1,33 @@
+[Particle]
+
+entity_file .\Chef\eff\prem\1\aura.R3E
+
+num 24
+pos box rand(-13,-2) 0 0
+
+
+live_time 1
+time_speed 1
+gravity 0 0 0
+	start_power 2 1 0
+	start_scale rand(2,3)
+	start_color 255 220 0
+	start_alpha 10
+	start_zrot rand(0,360)
+	alpha_type 3
+
+z_front -0.1
+
+time 0.5
+	alpha 120
+	zrot_rand(0,360)
+	scale rand(3,4)
+	color 255 80 0
+
+
+time 1
+	color 255 50 0
+	zrot_rand(0,360)
+	alpha 10
+	scale rand(4,5)
+end

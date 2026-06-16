@@ -1,0 +1,29 @@
+[Particle]
+
+entity_file .\Chef\Eff\Weapon\WeaponEVO\pvp\183p\aura.R3E
+num 2
+pos box 0 0 0
+
+live_time 1.5
+time_speed 1
+gravity 0 0 0
+	
+	start_scale 0.7
+	start_color 55 255 55
+	start_alpha 0
+	start_zrot rand(0,360)
+	alpha_type 3
+
+z_front 0
+
+
+
+time 0.5
+	alpha 255
+	;color rand(100,255) rand(0,10) rand(0,10)
+
+time 1.5
+	color 77 197 77
+	alpha 0
+
+end

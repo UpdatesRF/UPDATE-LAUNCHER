@@ -1,0 +1,31 @@
+[Particle]
+entity_file .\chef\eff\none4\ant1\13\3.R3E
+num 50
+pos box 0 0 0
+
+live_time 3
+time_speed 2
+gravity 0 0 0
+
+
+	start_scale rand(0.3,0.8)
+	start_alpha 0
+	start_power rand(-1,1) rand(-1,1) rand(-1,1)
+	start_color 125 0 196
+	flicker_alpha 100
+	flicker_time 0.1
+
+no_billboard
+
+free     
+flicker
+time 1
+	color 74 0 117
+	alpha 255
+         scale rand(0.3,1)
+time 3
+	color 125 0 196
+	alpha 0
+	scale rand(0.3,1)
+
+end

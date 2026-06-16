@@ -1,0 +1,26 @@
+[Particle]
+entity_file .\Chef\Knife\stream\wave2\wav.r3e
+num 0
+pos box 0 3 0
+
+live_time 3
+time_speed 2
+gravity	0 0 0
+
+	start_scale rand(0.4,1)
+	start_alpha 120
+	start_yrot rand(0,360)
+	start_color 255 rand(0,90) 0
+alpha_type 3
+no_billboard
+always_live
+
+time 1.5
+	
+	yrot -60
+	alpha 125
+
+time 3
+	yrot -30
+	alpha 150
+end

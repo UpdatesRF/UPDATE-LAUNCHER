@@ -1,0 +1,31 @@
+;직진형태
+
+[Particle]
+
+entity_file .\Chef\Mob02\SYLISGEIL\524p\aura.R3E
+num 3
+pos box 0 0 0
+
+live_time 1.5
+time_speed 0.1
+gravity 0 0 0
+	;creat_time_epsilon 10
+	start_power 0 0 0
+	start_scale rand(3,3.5)
+	start_color 145 70 255
+	start_alpha 0
+	;start_zrot rand(0,360)
+	alpha_type 3
+        ;free
+
+z_front -0.2
+
+time 0.5
+	alpha 255
+	zrot rand(40,60)
+
+time 1
+	alpha 0
+	zrot rand(-60,-40)
+	scale 0
+end

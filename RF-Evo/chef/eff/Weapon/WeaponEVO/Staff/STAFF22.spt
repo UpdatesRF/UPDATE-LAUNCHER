@@ -1,0 +1,50 @@
+;가장마지막연기
+
+[Particle]
+entity_file  .\Chef\fix_weapons\Lv35_BLUEWAND\glow\expl.R3E
+num	10
+pos box  -5 0 0
+live_time 1.5
+time_speed 1
+gravity	-5 0 0
+
+	;start_time_range 0.1
+	start_power rand(-0.1,0.1) rand(-0.1,0.1) rand(-0.1,0.1)
+	start_scale rand(0.1,0.12)
+	start_alpha 0
+	start_zrot rand(0,360)
+        start_color 125 0 196
+        
+       
+alpha_type 3
+z_front -0.1
+
+time 0.6
+
+	alpha 50
+        power rand(-0.1,0.1) rand(-0.1,0.1) rand(-0.1,0.1)
+	scale rand(0.15,0.2)
+	zrot rand(-30,30)
+        ;color 120 100 80
+
+time 1
+	alpha 30
+	power rand(-0.1,0.1) rand(-0.1,0.1) rand(-0.1,0.1)
+	scale rand(0.2,0.25)
+	zrot rand(-20,20)
+        ;color 120 100 80
+        
+
+
+time 1.5
+	alpha 0
+	power rand(-0.1,0.1) rand(-0.1,0.1) rand(-0.1,0.1)
+	scale rand(0.25,0.3)
+	zrot rand(-20,20)
+        color 200 120 255
+
+        
+
+
+
+end

@@ -1,0 +1,30 @@
+[Particle]
+
+entity_file  .\Chef\PVP_Item\C_W_TAXE\782p\aura.R3E
+num 10
+pos box 0 0 0
+
+live_time 1
+time_speed 0.2
+gravity	0 1 0
+	;creat_time_epsilon 6
+	start_color 0 255 0
+	start_scale 1.5
+	start_alpha 0.1
+	start_zrot rand(0,360)
+	start_power rand(-1,1) rand(2,3) 0
+z_front	-0.03
+alpha_type 3
+
+time 0.7
+	color 3	192	60
+	zrot rand(-50,50)
+	alpha 10
+	scale 2
+
+time 1
+	color 127 255 0
+	scale 3
+	zrot rand(-50,50)
+	alpha 10
+end

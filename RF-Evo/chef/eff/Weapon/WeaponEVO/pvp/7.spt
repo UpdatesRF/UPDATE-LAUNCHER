@@ -1,0 +1,40 @@
+АП·є-±вє»(И°їл)
+
+[Particle]
+
+entity_file .\Chef\recall\recall_l02b\aura.R3E
+num 3
+pos box 0 0 0
+
+live_time 1.5
+time_speed 1
+gravity 0 0 0
+	
+	start_scale rand(2,4)
+	start_color 212 212 212
+	start_alpha 0
+	start_zrot rand(0,360)
+	alpha_type 3
+	flicker_alpha 100
+	flicker_time 0.01
+	flicker
+z_front 0
+
+
+
+time 1
+	color 77 197 77
+	alpha 255
+	;scale 10
+	zrot rand(-40,40)
+
+
+time 1.5
+	color 255 255 255
+	;alpha 0
+	;scale 5
+	zrot rand(-25,25)
+	flicker
+
+
+end

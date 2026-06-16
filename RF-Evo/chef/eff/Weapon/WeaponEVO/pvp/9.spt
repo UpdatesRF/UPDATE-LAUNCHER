@@ -1,0 +1,38 @@
+[Particle]
+entity_file .\Chef\Eff\Weapon\WeaponEVO\pvp\aa\1.r3e
+num 2
+pos box 0 0 0
+
+live_time 2
+time_speed 1
+gravity	0 0 0
+
+	start_power 0 0 0
+	;start_time_range 0.98
+	;start_color 149 19 21
+	start_scale 0.4
+	start_alpha 200
+	
+alpha_type 3
+
+time 0.5
+	alpha 100
+	;color 200 255 255
+	scale 0.4
+time 1
+
+	alpha 200
+	;color 149 19 21
+	scale 0.4
+
+time 1.5
+	alpha 100
+	;color 200 255 255
+	scale 0.4
+time 2
+
+	alpha 200
+	;color 149 19 21
+	scale 0.4
+end
+

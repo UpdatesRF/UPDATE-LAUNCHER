@@ -1,0 +1,37 @@
+
+[Particle]
+entity_file .\Chef\Eff\none\5\2\wave02.r3e
+num	10
+pos box 0 0 0
+
+live_time 15
+time_speed 0.9
+gravity	0 0 0
+
+start_scale rand(0.2,0.3 )
+start_power 0 10 0
+create_time_epsilon 0.2
+start_alpha 255
+alpha_type 3
+start_zrot 0
+pos box rand( -5,5) 0 rand( -5,5)
+time 0.5
+alpha 200
+
+
+time 0.9
+alpha 150
+
+
+
+time 1.1
+alpha 110
+
+
+
+time 2
+alpha 0
+
+
+
+end
