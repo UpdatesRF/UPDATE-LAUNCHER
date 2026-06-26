@@ -1,6 +1,6 @@
 {
   "method": "GitHub",
-  "version": "4",
+  "version": "5",
   "files": [
     {
       "path": "ABuse.dll",
@@ -5710,7 +5710,7 @@
     {
       "path": "DataTable/Modules/[Client]ItemUpgradeEx.edf",
       "size": 1980,
-      "hash": "a24c47172d6859e28c290495679373db2859a75c41eacd146770e439a9ed41113f600522d000e2d78e1f74fc7508ddd1aeb98ba8b5a76d91f1c28d866e30e89b"
+      "hash": "464d2c932a6a48183cf7fa1482182423ffff6fee8f2035b6315ff42392a005c4b9bf0ef7b30827e54ffacdba46517eddd2e2e0f18ab94c3f4c45dc480f99124e"
     },
     {
       "path": "DataTable/Modules/[Client]LanguageEx.edf",
@@ -6130,7 +6130,7 @@
     {
       "path": "DataTable/store.edf",
       "size": 645705,
-      "hash": "00697dbc025b827a51484ad5fb199468b42ef13d3a853acbf90473839c68ce25d1181781b37166594ca1ae2ac728fa77b19840d81f6d0692b0e6adf59e80b708"
+      "hash": "0a951b812266af725af785a083603df2ba9e05f396d09c07026beb530c182637543ad9292f448037719346ecdebd3cd8c257aaa7b46226967b43197b5778d5f5"
     },
     {
       "path": "DataTable/timeritem.edf",
