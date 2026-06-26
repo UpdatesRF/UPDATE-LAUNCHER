@@ -692,3 +692,4 @@
 690 .\Chef\Knife\don\1.EFF		0 
 691 .\Chef\Knife\lider\1.EFF		0 
 692 .\Chef\Knife\stream\1.EFF		0   
+693 .\Chef\Knife\member\1.EFF		0  

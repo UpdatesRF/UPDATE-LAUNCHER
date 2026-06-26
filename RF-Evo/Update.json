@@ -1,6 +1,6 @@
 {
   "method": "GitHub",
-  "version": "1",
+  "version": "2",
   "files": [
     {
       "path": "ABuse.dll",
@@ -4599,13 +4599,13 @@
     },
     {
       "path": "chef/EffectFileList.txt",
-      "size": 30548,
-      "hash": "ad76433ca362b4c91bb11aae5a1c0661d0d5f922375191bf3315dd2a3522f8b50e1e2a0362683d0c06b94a53fc24159813c0016ceb09f42215b787eb38eab423"
+      "size": 30584,
+      "hash": "924e6d99ba08368bbce804501db55f84fa9d069d6ea946a74305b3cf109ae8700725ff47b92e3cab0bc5d618b4c08dc60fb5aa2e604744aed33eed8bf0fea474"
     },
     {
       "path": "chef/ItemEffectList.txt",
-      "size": 111107,
-      "hash": "a1d2264b73ef40547dc23b74bb64a27db2f430731eb8b61737980b487762e6d8cae7411e4f49b5ee25e84d0fca0ee0ae569e900fcd6907745f6679b6247aeca8"
+      "size": 111129,
+      "hash": "bb2856c485f56352e28fa6f099ed0e3743d55b68cc1facd01b7b0ad45a489fa6cdc6ba9c456c1ba83e3597a459e1b4a2016d08a23c679927b77f4bca96715df5"
     },
     {
       "path": "chef/Knife/don/1.EFF",
@@ -4619,13 +4619,13 @@
     },
     {
       "path": "chef/Knife/don/10.spt",
-      "size": 333,
-      "hash": "d4706d26412c492311238f3349b1f39f03793f87cdb5d517970a7e5bbfa61c1aa90ac868130853002e893c29a9f85a8f002e347b2ed2e2d6e9b327251f2b849e"
+      "size": 334,
+      "hash": "9ae8d7aea826fd128c7ac4dfdde8824cdafa78a82bcec2e87e1053337188f51c378cbc67195ad57274f5f87e144bbdfdd606730a661495fb473d3653fcc7b5b0"
     },
     {
       "path": "chef/Knife/don/11.spt",
-      "size": 335,
-      "hash": "a8850223cc41c16ab9b7e74574dbf08df0b840b6ee31fae7e828e27f86d716284f53c777d9535389a81ad20a895975bac540784d3ddd10a79bc830e39ee01013"
+      "size": 336,
+      "hash": "91df62a3bd520fe8b5de285ea4c6c4391b20d8980f41c1fb162878e87cb3f5266a89533eff5b5224f77c5362aaa355daba868491bd55eb46fcd6633606342799"
     },
     {
       "path": "chef/Knife/don/13.spt",
@@ -4828,6 +4828,116 @@
       "hash": "955320c6da63bcab4f2b717003f12183411d1b0cae38a39de8e692bca2fc7fc7eb4cecc6dc114f60172ca423c59e967f702f733eda338682e81ae63793778b6a"
     },
     {
+      "path": "chef/Knife/member/1.EFF",
+      "size": 2288,
+      "hash": "2fc76554984b2b0006b4c6ecc76e16056b2e25f8e5f7637b1daa25aff8f9f92e04664cc848eaf6537551555c9c275cb76cb221124545b42fed76ad14bbc69d7f"
+    },
+    {
+      "path": "chef/Knife/member/1.spt",
+      "size": 539,
+      "hash": "be5c22e393ea26507a8d472672abc936b2e9e498bd0f6bbd4afae73490846aad1cd0704948916c6777b509128f0db411ae7ab7c457227df45595fbb82910e641"
+    },
+    {
+      "path": "chef/Knife/member/10.spt",
+      "size": 335,
+      "hash": "a594be6c8ddf3157dc811648e146a28b46db0a5a313aadc1f7371d45e031cd95b4f12feff517a50e81fbae11dc74e3b025d341a674ec63f9e0f05a4cb5b53049"
+    },
+    {
+      "path": "chef/Knife/member/11.spt",
+      "size": 337,
+      "hash": "67500645ace3b7fcbc3416dca114f6f50e7556c8357138573a02711831808facc149939a2d59283fd73d24fed15b0ae30025ecbba59f6c760bdc91509a09bf5c"
+    },
+    {
+      "path": "chef/Knife/member/13.spt",
+      "size": 476,
+      "hash": "d5cc47b3b3c1a103afa9f991df3aef7540b1823f3f4f2029a45ce9b77a814f45ea230dba235dd91910585df990cd3387d77c1cf31a964ab33f4ff3a4bc90e205"
+    },
+    {
+      "path": "chef/Knife/member/15.spt",
+      "size": 415,
+      "hash": "d2293013cfcbe9c2e6e6ca66f532f1cfdd40a4d1ef0dc5dde68b735e7a9d86aa2ed4debb8ef610faf8c69bff797d5d17f1dea1a34e20a42de81375844c707fa2"
+    },
+    {
+      "path": "chef/Knife/member/17.spt",
+      "size": 385,
+      "hash": "2e6c1ed669e814acb7e5dbd60b6307393577e4b8e09f095b93671b7a3482da1c85a6724771b7d8025e64c6e6784f407e178dd5a42d58d95612512e0c4d5d262e"
+    },
+    {
+      "path": "chef/Knife/member/2.spt",
+      "size": 470,
+      "hash": "d218d5eb0585257982250cdc47b90fb88155d0e19e78277e05b8532805bd4b08875a7ae5a3ccb5714286bbccff25e329b3c2ae96aa5973ce6d5945be9f2d4b29"
+    },
+    {
+      "path": "chef/Knife/member/3.spt",
+      "size": 536,
+      "hash": "50a53de8ce5b902c9d4a0a77e03d45c7044eb161f22011cc4d39477b7acd35c48918b673e2f53512ccc20504738514b24ac09df61b660472739ea858ba28bd4c"
+    },
+    {
+      "path": "chef/Knife/member/4.spt",
+      "size": 429,
+      "hash": "3873e6f724c9459fcfa20cbeb7acdf3b837e10650b70d3b85bf69bdc2b2a74e36023a65436f756c1de8e4b832add5dd0efa79bfc4d6848179c3537c0f93ef54a"
+    },
+    {
+      "path": "chef/Knife/member/6.spt",
+      "size": 470,
+      "hash": "d218d5eb0585257982250cdc47b90fb88155d0e19e78277e05b8532805bd4b08875a7ae5a3ccb5714286bbccff25e329b3c2ae96aa5973ce6d5945be9f2d4b29"
+    },
+    {
+      "path": "chef/Knife/member/7.spt",
+      "size": 445,
+      "hash": "dc9f887314ff9beaaa58986e77c6a1add9276e549502311bc1d0f7d296f26c6d07c6a0fa1ac1ccbedb87d4b788f3bc6cfbd54a6e3235fdc73b2e7ff6972d826f"
+    },
+    {
+      "path": "chef/Knife/member/Logo/EF.dds",
+      "size": 5592532,
+      "hash": "120c378e5a13816e3a925e4d0dd67bf718519b336e6ac07021a79e627a97fa75bfc4d3eea2130787de307becd8e57977b5577da2f0f79a3db01106c67e1468da"
+    },
+    {
+      "path": "chef/Knife/member/Logo/FA_0.mst",
+      "size": 166,
+      "hash": "a459687dd86ec2855c0e4473760164882c06100adf09d3c4c83924132fbe502b3a3c0407f36bb9f773adef34f5c1d15a3a9e33c620f5106f6177d1f38c9cf4ce"
+    },
+    {
+      "path": "chef/Knife/member/Logo/LG.R3E",
+      "size": 208,
+      "hash": "956ee4f10a86fb5bb32451f547fb5a453099d71d5d8216193e5f0d6b08149e58f3bb978a00abfe8a5102fe4649f85eaed50aa5f9b9e5bdb60a2a2923c3d34b07"
+    },
+    {
+      "path": "chef/Knife/member/Logo/MainMaterial.mst",
+      "size": 44,
+      "hash": "67e30e7fb5adcbb6f1c7c482594857dbd55fe46637631c8db2c67e04905aba415b3b0596bf02c7c164e7ea94e521432c8d83e4b57f802febedb6a6d6d76a8a49"
+    },
+    {
+      "path": "chef/Knife/member/wave1/wav.r3e",
+      "size": 728,
+      "hash": "72f9e8eacba0d456c4708bcce7c6d9777e9f446020345eff892cf7717546e813c1e334a0d20078162484afcca576b799bda3f19631b5a871f11c8222c207b467"
+    },
+    {
+      "path": "chef/Knife/member/wave1/wav.r3m",
+      "size": 198,
+      "hash": "ac0b42fb08fe2884e82c3ad61703f36a4b81a8e9107fbcc7965e6b6b2d133c1382c343ad54a39b90cece2ce2a004330b12b40855049bef8fb95c6861756790f4"
+    },
+    {
+      "path": "chef/Knife/member/wave1/wav.r3t",
+      "size": 22132,
+      "hash": "955320c6da63bcab4f2b717003f12183411d1b0cae38a39de8e692bca2fc7fc7eb4cecc6dc114f60172ca423c59e967f702f733eda338682e81ae63793778b6a"
+    },
+    {
+      "path": "chef/Knife/member/wave2/wav.r3e",
+      "size": 728,
+      "hash": "72f9e8eacba0d456c4708bcce7c6d9777e9f446020345eff892cf7717546e813c1e334a0d20078162484afcca576b799bda3f19631b5a871f11c8222c207b467"
+    },
+    {
+      "path": "chef/Knife/member/wave2/wav.r3m",
+      "size": 198,
+      "hash": "ac0b42fb08fe2884e82c3ad61703f36a4b81a8e9107fbcc7965e6b6b2d133c1382c343ad54a39b90cece2ce2a004330b12b40855049bef8fb95c6861756790f4"
+    },
+    {
+      "path": "chef/Knife/member/wave2/wav.r3t",
+      "size": 22132,
+      "hash": "955320c6da63bcab4f2b717003f12183411d1b0cae38a39de8e692bca2fc7fc7eb4cecc6dc114f60172ca423c59e967f702f733eda338682e81ae63793778b6a"
+    },
+    {
       "path": "chef/Knife/stream/1.EFF",
       "size": 2288,
       "hash": "aee2181d9c17a6c4954a2f15662a4e1d26bcdbff07c8986194eebd1fcedc19c647a0f6776dd071cdf6922c624ecb62c6996bff72d3c12000045dbb77e97d7c32"
@@ -4939,18 +5049,18 @@
     },
     {
       "path": "chef/monster.ini",
-      "size": 30658,
-      "hash": "cc14732415543dd87bd10d4acc029c7d7572025ba54f3865251caa338081fde4ed165071cd47436c6449889656b3a24929dddfc76b171de3a9f3d87b89a2fd63"
+      "size": 30030,
+      "hash": "244e2243c2762c84767cfde653ac645051a296a4f1ed03c52caba520934724aedd9f4c16f22da55435a02425a30b245f9934a0ed069113aed6637b083a65c9dd"
     },
     {
       "path": "chef/Particle.ini",
-      "size": 137700,
-      "hash": "688edfb9fbba753166615f063b0b2a4fd70edfd2efac94aba4d848e2578a29fa0f16893f2afff2381445957419378deef7248bf11f5af5d8fb8b84135879a87c"
+      "size": 139135,
+      "hash": "b529dd7028a9fedbd9c8e764e1524987699989099c8a511ea54a22628830f81f2ec4da7b3c9b43db10624286fa7262a22e7ffbddade38e13fa95310fcaee6ae1"
     },
     {
       "path": "chef/PatternList.txt",
-      "size": 23157,
-      "hash": "239d8733061360f824850003867e6fc5175a5ef5a899c0b77e4000de20b3c04a6c9f377086f7ba8b94420d9638e374104cfbb1bc1713641fe81424fc2f443b8e"
+      "size": 23198,
+      "hash": "372398c97cb43f0817c910b020e22daa4558806c5decdee73e94445c65ffb9dd6ccd7d8790a2fe46c5e7ab0368504b90cfb7dbecd2901c6a9c0ff6c0baeb28fe"
     },
     {
       "path": "chef/recall.ini",
@@ -5053,6 +5163,306 @@
       "hash": "9bee3e2d75fedd39d765b3f93698d2ef626feff03d91e071a82705ab5f4aa68cf25b1a2da55a452401e4a11cc19b7fba52e91f97a3edb6f36c6cc19bb642d252"
     },
     {
+      "path": "chef/Unick_up/C_W_TBOW/407p.spt",
+      "size": 356,
+      "hash": "eb377b462f96171eef6e9260ad1e041d49daed83689d07e4670ebac47cc27d806aead3e26d6f193b42f0a73244437da0250c316e448865b39e923556394cd2ea"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TBOW/407p/1_-_Default_0.mst",
+      "size": 145,
+      "hash": "9d5d84517ea5b09d8cc94dadaaac685e958915ab280ad17e8f4c95a3b169c78441c1adf7525d027f2f4fd66793e9c801b579756b245c8dd8e4b3d4c7524f87bd"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TBOW/407p/aa.dds",
+      "size": 22000,
+      "hash": "ccdc1fa02f078953549fe578da516dc1b1142178079ee3804a7349809fdf47cd97c6feb25b46143e26e916b488f9c4bbc580ea3061454afa0af6bb4e0a6b128b"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TBOW/407p/aura.R3E",
+      "size": 208,
+      "hash": "956ee4f10a86fb5bb32451f547fb5a453099d71d5d8216193e5f0d6b08149e58f3bb978a00abfe8a5102fe4649f85eaed50aa5f9b9e5bdb60a2a2923c3d34b07"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TBOW/407p/MainMaterial.mst",
+      "size": 40,
+      "hash": "de5af4bc6b5024a60ee5275c9a72b3dcff32c747b02f4a4813f3c508d25f260c7167d4ebf59e02ed74c58104788b4d0a07d361e8b91c0a3b4c27807a9ed14fdd"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TBOW/408p.spt",
+      "size": 417,
+      "hash": "3031f0be78dd50dda1302a1493979e0a096cf43bd542968437954fdde59048fbd7527a27795fb56be07e6892c9182697fd00ca565a03b002760504b1dbc72322"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TBOW/408p/1_-_Default_0.mst",
+      "size": 145,
+      "hash": "9d5d84517ea5b09d8cc94dadaaac685e958915ab280ad17e8f4c95a3b169c78441c1adf7525d027f2f4fd66793e9c801b579756b245c8dd8e4b3d4c7524f87bd"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TBOW/408p/aa.dds",
+      "size": 43818,
+      "hash": "b8ac047aa74a7618e9c2790b5827c268b4e733d627598d46186a56d476820f5c71383d47de05683b8dfdfa7fd9615a74f972ccbc6305ac75dfb54028a8208238"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TBOW/408p/aura.R3E",
+      "size": 208,
+      "hash": "956ee4f10a86fb5bb32451f547fb5a453099d71d5d8216193e5f0d6b08149e58f3bb978a00abfe8a5102fe4649f85eaed50aa5f9b9e5bdb60a2a2923c3d34b07"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TBOW/408p/MainMaterial.mst",
+      "size": 40,
+      "hash": "de5af4bc6b5024a60ee5275c9a72b3dcff32c747b02f4a4813f3c508d25f260c7167d4ebf59e02ed74c58104788b4d0a07d361e8b91c0a3b4c27807a9ed14fdd"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TBOW/409p.spt",
+      "size": 429,
+      "hash": "80819b18ce44f2355fb4471bc4e3c9d9d0cc1bea1007c347abd3d4818ab92656a8c86904b9fe69bf28167d61bd07999c5aa2a1e91c8c4109612a60925db774b1"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TBOW/409p/MainMaterial.mst",
+      "size": 44,
+      "hash": "d25a55bd8a27222d72e5910776d6759c0a0d90a26a8c9d4449be01b6d382cd6a120569abc913669d6354732172356d8a2d672d7fb536baac6633f6ad960eb2dd"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TBOW/409p/rain.R3E",
+      "size": 208,
+      "hash": "df38a3c3844aac0cfc607ecf11e864f3c944a6f4da119fa27298c6e535ca546abbf357ae642aaa6c9b2d0680b144933856530c8429c02b4bdc9862ba97cca40f"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TBOW/409p/rainbow.dds",
+      "size": 2872,
+      "hash": "0ef542f7228f9109ca60150462ae9ea76f1f8d105e2919e8e52cfb9a050edd5fe437eb1d2e3f6b8059bb86c19501c1ce407bba07cbd269dbbd3ae28eeb809ae3"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TBOW/409p/taex1_0.mst",
+      "size": 171,
+      "hash": "8abf85ef85521cc8cf0bcb9cd3ef4c7bd82b7fda99218b97aeccc9f0e048eac22d776df5b77f1409094fdba4be0b68b21fa8e5d343e396c44dcc328c1364a254"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TBOW/410p.spt",
+      "size": 532,
+      "hash": "78e972be93328f8dfd1ae2b7440a5a40736022b72d772cb5646b44337c372c9591f4f4cc2401941fd4e53e13b10469378b0101cee171989df0e1d02f2671a8d6"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TBOW/410p/1_-_Default_0.mst",
+      "size": 143,
+      "hash": "6cf7663036934258481b600fb3125a000d1a2b9cf4b6d393bb063ed4cbe84b612c87eefb7e53174a69a66e413bae255e4c95a67fe8d36b8de2f57cfabb09ce74"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TBOW/410p/aa.dds",
+      "size": 11050,
+      "hash": "7708e5156147582f1273f011c1c22cb8930f773b827110b64331110397a6e7d530f56e4927114a9c89dc2fbef300c332e24870a7280b4e7aeab335034cfc2994"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TBOW/410p/aura.R3E",
+      "size": 208,
+      "hash": "956ee4f10a86fb5bb32451f547fb5a453099d71d5d8216193e5f0d6b08149e58f3bb978a00abfe8a5102fe4649f85eaed50aa5f9b9e5bdb60a2a2923c3d34b07"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TBOW/410p/MainMaterial.mst",
+      "size": 40,
+      "hash": "de5af4bc6b5024a60ee5275c9a72b3dcff32c747b02f4a4813f3c508d25f260c7167d4ebf59e02ed74c58104788b4d0a07d361e8b91c0a3b4c27807a9ed14fdd"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TBOW/411p.spt",
+      "size": 535,
+      "hash": "fdd52f07b980598e2521ad02f23761fc112f7dd427b69de35ec2cbbb031333d536c2619ce5c16fa535b381a0a8d8912a69d6b6aecca10fb382033e7efdbd8275"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TBOW/412p.spt",
+      "size": 524,
+      "hash": "844c679794190f3936f4db62a8557177dbf3c2d1e98dbd4de257b86272b299f3f266cdcc16531bb21b5a5ba5f765a90157f630ea6872bd4fb640d3c3ecef4997"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TBOW/412p/1_-_Default_0.mst",
+      "size": 143,
+      "hash": "6cf7663036934258481b600fb3125a000d1a2b9cf4b6d393bb063ed4cbe84b612c87eefb7e53174a69a66e413bae255e4c95a67fe8d36b8de2f57cfabb09ce74"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TBOW/412p/aa.dds",
+      "size": 43832,
+      "hash": "0f819bf9c53f92f40fb8e16f367acab04ccd1a5df1ccb8fd57a81b5a9b65a5e808f96ed1bca8be3e9a124b9912e2e0d5f0043045b01673b1f77f88da3ac62e33"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TBOW/412p/aura.R3E",
+      "size": 208,
+      "hash": "956ee4f10a86fb5bb32451f547fb5a453099d71d5d8216193e5f0d6b08149e58f3bb978a00abfe8a5102fe4649f85eaed50aa5f9b9e5bdb60a2a2923c3d34b07"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TBOW/412p/MainMaterial.mst",
+      "size": 40,
+      "hash": "de5af4bc6b5024a60ee5275c9a72b3dcff32c747b02f4a4813f3c508d25f260c7167d4ebf59e02ed74c58104788b4d0a07d361e8b91c0a3b4c27807a9ed14fdd"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TBOW/413p.spt",
+      "size": 528,
+      "hash": "e7afcb97b888150428b5a286547c5881e55150d544b1a024485e95b4ec13a34ee74248595c90641868b9ca6e4a6023b55eb83a77d9ab5021cb561df603d2e8fc"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/399p.spt",
+      "size": 543,
+      "hash": "add8e4fbc4d6d778959bd0837d797cd57d342422eca1d5032169b28c22d90ef2f48808d17a4bae871ba275d34ccfc59e53d8b86f3ea52524fb42249a7cf1ed1f"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/399p/1_-_Default_0.mst",
+      "size": 181,
+      "hash": "9e092eaccc79049e10d6d44aa49c618f6ea31d51159c87d18e91197c00cdcaa3efa14da6186bba45f09877e27114f436714712e79906ce5234b0e10ea28153b4"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/399p/aa3.dds",
+      "size": 11064,
+      "hash": "2e54c2567dfce363588da47cd48a9b90b3e6af79dcda313074f2011c857f5fcff6dd9b27bd99091729753efc45b5bcf7433f6b8055a5f4e198d28098a2d8ee4b"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/399p/elec03.R3E",
+      "size": 208,
+      "hash": "956ee4f10a86fb5bb32451f547fb5a453099d71d5d8216193e5f0d6b08149e58f3bb978a00abfe8a5102fe4649f85eaed50aa5f9b9e5bdb60a2a2923c3d34b07"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/399p/MainMaterial.mst",
+      "size": 40,
+      "hash": "de5af4bc6b5024a60ee5275c9a72b3dcff32c747b02f4a4813f3c508d25f260c7167d4ebf59e02ed74c58104788b4d0a07d361e8b91c0a3b4c27807a9ed14fdd"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/400p.spt",
+      "size": 486,
+      "hash": "7d59709f4bbc113cdb42bdff0f86024c8a20bfcd3a6699be489e64ff62c7e2ba4f39d81b2539ae515d8e13bbbf5daf2ab77a92a7685b396f5d99c3612dabd75b"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/400p/1_-_Default_0.mst",
+      "size": 143,
+      "hash": "6cf7663036934258481b600fb3125a000d1a2b9cf4b6d393bb063ed4cbe84b612c87eefb7e53174a69a66e413bae255e4c95a67fe8d36b8de2f57cfabb09ce74"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/400p/aa.dds",
+      "size": 11050,
+      "hash": "7708e5156147582f1273f011c1c22cb8930f773b827110b64331110397a6e7d530f56e4927114a9c89dc2fbef300c332e24870a7280b4e7aeab335034cfc2994"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/400p/aura.R3E",
+      "size": 208,
+      "hash": "956ee4f10a86fb5bb32451f547fb5a453099d71d5d8216193e5f0d6b08149e58f3bb978a00abfe8a5102fe4649f85eaed50aa5f9b9e5bdb60a2a2923c3d34b07"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/400p/MainMaterial.mst",
+      "size": 40,
+      "hash": "de5af4bc6b5024a60ee5275c9a72b3dcff32c747b02f4a4813f3c508d25f260c7167d4ebf59e02ed74c58104788b4d0a07d361e8b91c0a3b4c27807a9ed14fdd"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/401p.spt",
+      "size": 522,
+      "hash": "63f99ec220ebf165591dc5c57e2af8d7f2b0933d753b0b81a24bcccdecca09ff18bfa72e7a2824027ced98179af80ffc69cb97aa9d8399c8d5c926d840c90f9d"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/401p/MainMaterial.mst",
+      "size": 44,
+      "hash": "d25a55bd8a27222d72e5910776d6759c0a0d90a26a8c9d4449be01b6d382cd6a120569abc913669d6354732172356d8a2d672d7fb536baac6633f6ad960eb2dd"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/401p/rain.R3E",
+      "size": 208,
+      "hash": "956ee4f10a86fb5bb32451f547fb5a453099d71d5d8216193e5f0d6b08149e58f3bb978a00abfe8a5102fe4649f85eaed50aa5f9b9e5bdb60a2a2923c3d34b07"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/401p/rainbow.dds",
+      "size": 43818,
+      "hash": "b8ac047aa74a7618e9c2790b5827c268b4e733d627598d46186a56d476820f5c71383d47de05683b8dfdfa7fd9615a74f972ccbc6305ac75dfb54028a8208238"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/401p/taex1_0.mst",
+      "size": 171,
+      "hash": "8abf85ef85521cc8cf0bcb9cd3ef4c7bd82b7fda99218b97aeccc9f0e048eac22d776df5b77f1409094fdba4be0b68b21fa8e5d343e396c44dcc328c1364a254"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/402p.spt",
+      "size": 522,
+      "hash": "894e8d31666d4153acf4e49ccf38985c531ee8ea8c5aab24bec73808f64643f3d8eb1a870e6bd026de869d98e78b563890c1dab0c2def789c82f725168e558ee"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/403p.spt",
+      "size": 519,
+      "hash": "c3f658fa45514f52b7cf068754bffaa7efe25710cccc50ea2e197cdc174e8629c288f9c264297f64995698eff2c9db155ea2adf7a3cfc0d950c79f61783701ef"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/404/1_-_Default_0.mst",
+      "size": 143,
+      "hash": "6cf7663036934258481b600fb3125a000d1a2b9cf4b6d393bb063ed4cbe84b612c87eefb7e53174a69a66e413bae255e4c95a67fe8d36b8de2f57cfabb09ce74"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/404/aa.dds",
+      "size": 87504,
+      "hash": "2620a3cd6040e0e34c4d8d74e398faf477dc63c9b0281c226045aadd603acbecdad019d11806e6ce52bcb8a510c8a3c3fe0a68eb1793f83f4b9c3e03b1fa6315"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/404/aura.R3E",
+      "size": 208,
+      "hash": "956ee4f10a86fb5bb32451f547fb5a453099d71d5d8216193e5f0d6b08149e58f3bb978a00abfe8a5102fe4649f85eaed50aa5f9b9e5bdb60a2a2923c3d34b07"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/404/MainMaterial.mst",
+      "size": 40,
+      "hash": "de5af4bc6b5024a60ee5275c9a72b3dcff32c747b02f4a4813f3c508d25f260c7167d4ebf59e02ed74c58104788b4d0a07d361e8b91c0a3b4c27807a9ed14fdd"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/404p.spt",
+      "size": 504,
+      "hash": "345e7a6d4de1f3d29a01480dafc55f8297e403089bb85a56d3d3b51381c6f9561197ba4660c8f08cb13b99c530b874c59172fcef7cd0f7823e4d535a5928d1d2"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/405p.spt",
+      "size": 361,
+      "hash": "fbfbbc42b801f3f212d7e198cc7327f4d1d2ff16a692c826d733cbb661b1bfab7cf91ea8139b7dcb23e3c8bd83c177c7b0976a16b636fa2c1371b927056568ad"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/405p/2593.R3E",
+      "size": 292,
+      "hash": "df1a8a687ba2f51d855024e5b872f1f62ade1bf1213f35dc5bd27306e80b31fb68234704f341de0348d0759b2dde9690c7feae65f80762666afc6fbb996bd8da"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/405p/l.dds",
+      "size": 22024,
+      "hash": "3cf71e27b145aba6d78cb63427e5d0badc8955017d11d173852cc79cc89f6d693673cfea051665951c9cd54799dfedc5840c36df1ec158e640385d854d7271df"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/405p/MainMaterial.mst",
+      "size": 44,
+      "hash": "fedb7d7dc4b91b2db791309257c47d52f6b4223bbf0df88028ac58589b876a98de4e49d2bcb1bf169878326f58ab4ad41f2ba236123a75b432fd351e504598bf"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/405p/Material%#25_0.mst",
+      "size": 165,
+      "hash": "ce3d5b56781682675d871755f1434f12f89f829806c393dfcec02379521bf208eaf7bd34ae78da6ff0c8088b64ff2ff2f4fed0ac234cf50f320e0ebb2bfef8f1"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/405p/Material%#25_0.mst.tmp",
+      "size": 155,
+      "hash": "02c9cf0ded7dc53965a55a2c0d0d4bd6500eda23d0544d4ef71d8d0fdd72f5475b402db04fbef5a36de2a00143cf6e41f6baa775fc8d35b63aa140b96abc2cc1"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/406p.spt",
+      "size": 432,
+      "hash": "cc476c90e91af0dca9fa3cab58ecc91fd832a738076315c631b413d09ec4dfba1e7413ca0d40c70b9f155eec11959cac773d46fabf2a297aa0eefb61dab1a3fc"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/406p/MainMaterial.mst",
+      "size": 44,
+      "hash": "d25a55bd8a27222d72e5910776d6759c0a0d90a26a8c9d4449be01b6d382cd6a120569abc913669d6354732172356d8a2d672d7fb536baac6633f6ad960eb2dd"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/406p/rain.R3E",
+      "size": 208,
+      "hash": "df38a3c3844aac0cfc607ecf11e864f3c944a6f4da119fa27298c6e535ca546abbf357ae642aaa6c9b2d0680b144933856530c8429c02b4bdc9862ba97cca40f"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/406p/rainbow.dds",
+      "size": 2872,
+      "hash": "0ef542f7228f9109ca60150462ae9ea76f1f8d105e2919e8e52cfb9a050edd5fe437eb1d2e3f6b8059bb86c19501c1ce407bba07cbd269dbbd3ae28eeb809ae3"
+    },
+    {
+      "path": "chef/Unick_up/C_W_TSWORD/406p/taex1_0.mst",
+      "size": 171,
+      "hash": "8abf85ef85521cc8cf0bcb9cd3ef4c7bd82b7fda99218b97aeccc9f0e048eac22d776df5b77f1409094fdba4be0b68b21fa8e5d343e396c44dcc328c1364a254"
+    },
+    {
       "path": "chef/Unit.ini",
       "size": 2568,
       "hash": "5b6fd8fb9dc0924ebe7b57e8e485bd82306b7687c2ddd257331bb7b246425a7dba2edf1b16cdc07f401ab4a9a0ac96720ef8dd001ab6cb57d51bd53d7f5cdb8f"
@@ -5134,8 +5544,8 @@
     },
     {
       "path": "DataTable/character.edf",
-      "size": 680741,
-      "hash": "e143a9f859062e51b56cb471e7cb689aa4e99456b623c8a344d2fb73b76e2efbcab4dbc5ab6dd963d473f51ff6e5240334789fbe94f14c21388e358d52a163bd"
+      "size": 672677,
+      "hash": "fc320a8f0f13be2b4533e1ade44f62385f3cd925b0b7b5a9f1eb0e77a3ac98fa195247e1fb73b527ab589fba1f2eac72af1509910a970baccea4e433b19a60d3"
     },
     {
       "path": "DataTable/class.edf",
@@ -5204,18 +5614,18 @@
     },
     {
       "path": "DataTable/item.edf",
-      "size": 1638787,
-      "hash": "409283757a158f008538dfb7c046213572ee04385a63413be4fe6aae0793a3a90422310908f6ffeb00a9a5b89ca8a69a60fe8b0beca2e6268034bb6129d4f6f7"
+      "size": 1639371,
+      "hash": "7128b0ca59464f1ffe96c804dd5ac7f96a3b9bd197e62dee3b0f8d358e7a35a36f5f325cf57b386cd5d3f2c2bfb375c57a68b3391ee8d07c001987d84b1b8544"
     },
     {
       "path": "DataTable/itemcash.edf",
       "size": 35561,
-      "hash": "58d37161c1680391809adbc95eabf5f9d0710806606992c1cbf11441bc5abe28ce206a578afc11eb0928e110fb89242b5e9aaceb154d6e467e880c3ae066089f"
+      "hash": "2c4cd7d43c0bcdccfd1c2729a10a46b5380168cb3d4bf9de551fdae8635500f84db83b63bcb4e2f5e0e217980c475225c6beeaf5a14c3b4fdeb675031d5d2130"
     },
     {
       "path": "DataTable/itemcombine.edf",
-      "size": 291637,
-      "hash": "cb4ba3664380b74d83c98aa70e9cc9b1583299a7dda0ff15820c9c7740c595e330beaab0bf29bf65d6045d3bae9f0a5ea3a8f5d097a717b942be7b76c048c831"
+      "size": 291265,
+      "hash": "10869d7866940d5b4aee6de4fb4e54fb840c152501073e8d9c781b673a24da2ad9563d3d2c5065885808779ee31bb165cbc4a6e03f2bbe11a22df7313f7cfc15"
     },
     {
       "path": "DataTable/itempremium.edf",
@@ -5225,12 +5635,12 @@
     {
       "path": "DataTable/itemseteffect.edf",
       "size": 43497,
-      "hash": "8c2718766cd900e0cdb77888ab05813982555f16da86e198477e1c5c9f57e048333cece336ae612d0fceb5e72c57147b81a2e2ade8aef8c367af199ab3a853c7"
+      "hash": "48d6d7c6eabe620a965d57fc1a968c4ec1e6f37abab62426dddc25cdd805dcdc32db29826e6fba5c4951b8a7e6233c04b9bca9a261d4940bd5008130f1f94183"
     },
     {
       "path": "DataTable/itemtimer.edf",
-      "size": 897,
-      "hash": "c0eede6c118c4817d3ff31835bec43485b098f4f4692449c1131ab2432e1f5be55a5e3b876be9b86fc05b319ef35e4be6c2155fb602f6f7e3a55417266aa04d8"
+      "size": 1017,
+      "hash": "a9b4d2f3f1d505c7baba127240f6a060848c110f82d2542e79430be62392865a8b37925b651e55aebd71536ca095d15a309d5fe15084538cb0fb8f75217e62fb"
     },
     {
       "path": "DataTable/iua.dic",
@@ -5250,7 +5660,7 @@
     {
       "path": "DataTable/map.edf",
       "size": 204611,
-      "hash": "cfecae5aeb773fdef87e5d0f2d1b614a7c77709178fd60d46e5f08b73982e5b96f14687af17bbdf1968f7a9a007691c3ce47ae735ec5582998168f5e429ab89e"
+      "hash": "0723cb09afbc900ac0b45527ffad831d853035424f022b3fbd14a7f84a93ad309ba0ec7c84ea85180d1f145c897c07518932f89e2f718c915db6d6d1c5c209fd"
     },
     {
       "path": "DataTable/mapdata.dat",
@@ -5264,18 +5674,18 @@
     },
     {
       "path": "DataTable/Modules/[Client]BossRespawnControlEx.edf",
-      "size": 177897,
-      "hash": "28dfce8c421adaf407a513cda2d2c73a8395be86c0c488ae53587118e4926dbacb335c3fb22497ccd224ee3247cc603dc870369e704de2e5b840fb44c87ae50e"
+      "size": 22889,
+      "hash": "2c01814342538c95f93ce0b3e29ba943be32768f967a4699d0d4935ae9105907c8e695c2321d8536811b7f1157333b2eb376dcc5a66e863c751ffe17296d5d67"
     },
     {
       "path": "DataTable/Modules/[Client]BoxItemOut.edf",
-      "size": 85905,
-      "hash": "40c260602a8a00d6ecba81afd711e92942951561c5c29f1241b7877bb91c9697575dee990832a33a9910506f65a48e079db9a9cee45422e99da043d59eeefde3"
+      "size": 76509,
+      "hash": "703b35f7791658beb0895cbe505d185ec96e23acc8e751563e145276089ba6dd5b1654a64c9213f7b384de71627333285a49c0ce22eb689172ad19a3aa9175f1"
     },
     {
       "path": "DataTable/Modules/[Client]ButtonEx.edf",
-      "size": 1341,
-      "hash": "df052e15b293b5e2fea09b1375b1335ea20084fed0f1afc686ebb72b8a8d736bce8bee25d1a341f933416091b5abc44e168ec262f6652d1da41e362152ee4438"
+      "size": 1921,
+      "hash": "95a1933d2be84422ea4c06d36cf1da925fb45f7882f213547d4881487761a89b86e3465b28fe9b496ef75a8d257e454df50364f263f91c4ef41c0a405f84c854"
     },
     {
       "path": "DataTable/Modules/[Client]DailyReward.edf",
@@ -5324,13 +5734,13 @@
     },
     {
       "path": "DataTable/Modules/[Client]MonsterCreateEx.edf",
-      "size": 17665,
-      "hash": "75a07562c207eed2de06200ce1558b20e0af002e81ef4db495d33b456779e6c8c36dc300271b78b9b0bd7b8e17a534135fcf151cb29abd1c36ee886af4a86f45"
+      "size": 7311,
+      "hash": "41992b9bd0417e5d1356d04fb6eaab33c2c3d1b9ccf428e45227bbb4edcd08c1b456c2d6fd907eafdd729847dabfe5ef10c3925d14c1ba62beca4a588dafc231"
     },
     {
       "path": "DataTable/Modules/[Client]MonsterDestroyEx.edf",
-      "size": 17665,
-      "hash": "cfda7630984b8914d45d16bec53a1bd37065e3dd95d0bead8ad9d07ba2366cdde07d00d1775c26c19028b3dfd97e13fec94c4bfd885c2954224694823c3a31ed"
+      "size": 7311,
+      "hash": "e052f4a08c28f1c8ad63f89fe45ad74e9002eb71f0d871474174c90564639996da443d5c9e282247f5c141396fab6b1b4e865ed8d69462b0968248834fa4d5b9"
     },
     {
       "path": "DataTable/Modules/[Client]ObjectData.edf",
@@ -5344,8 +5754,8 @@
     },
     {
       "path": "DataTable/Modules/[Client]PotionEx.edf",
-      "size": 2629,
-      "hash": "fdfa8827f15425d71d6da25e5448904f0dcdef8bd3bc837584b4ce75655e1356a88123994773a220cc527bf635758ae66a123fdc3dc03034b878b97e62ebb926"
+      "size": 3333,
+      "hash": "f923db5aefb1f975d8382500f513c41e9b47d4811c2b90f507c6c180026bfd5cbc0c32a06181604afd78810831773b7aa7676a5feae2e033aa8e9f2ed9485313"
     },
     {
       "path": "DataTable/Modules/[Client]Retribution.edf",
@@ -5400,12 +5810,12 @@
     {
       "path": "DataTable/quest.edf",
       "size": 1229121,
-      "hash": "a6d43239a5ac45615b05434640a5ff0ed62edc9fd4a2342ebe9df314429fe01fdcadb4eb193ffdfcd22c36f5513ec5219b3d81238e9b0da9526ebbe69ebe7d97"
+      "hash": "abd6c6e4eec1c57e27c8522c172bcfd27d7709183609833474e5f22b7fddb76f1dae43c3d06da310da225c0eaa760907614dacf59b353244775dfd622ad5fd03"
     },
     {
       "path": "DataTable/Resource.edf",
-      "size": 4381577,
-      "hash": "d8763e7c5108c1c9a2512b05a3ce039fde45b22c490c5d31a41a091fc0c2ac7c5bc253a3bafcf5e960bdbcd64074803c55c0ec971699b8a067e9eb546498f6d9"
+      "size": 4381905,
+      "hash": "92c413f933e174f650ee9a65009d06ab566ad32bfeab5181f83b811a12288b4fd7a86c3e590ce36b432b804911e69702647d5f164172c83cc8fcf50585fbcfe7"
     },
     {
       "path": "DataTable/rf_avi.dat",
@@ -5599,8 +6009,8 @@
     },
     {
       "path": "DataTable/ru-ru/ndcharacter.edf",
-      "size": 226785,
-      "hash": "76cea0203895394b029a925fb578644e711e6dd3fede9cf63cb40556f33f9a2e86969c52f6c25b6d08c2938347e50a82d20547eaf43d8c81ab07edfa41b06065"
+      "size": 225633,
+      "hash": "1d98b6bd4998da6adaf302dcd7cf51ec51e88386463433b9832f6c97a5e6c36a4b26fcc8c010a886522a3055a571a1a49e7767ef82295574c401574e3a15955e"
     },
     {
       "path": "DataTable/ru-ru/ndeventship.edf",
@@ -5609,23 +6019,23 @@
     },
     {
       "path": "DataTable/ru-ru/nditem.edf",
-      "size": 886145,
-      "hash": "ad8f9bead0cc20c13661d82ea372b624711d70f87251561a63c96d500b94818ed9329cba89eaeb8db220c2025d3caaf2babd9bebea4eb232f4c81e97e8e0da7f"
+      "size": 860679,
+      "hash": "845559a8e1aaafb023fcac915e30259621c0a57381b733377fb5c345420bf7a30dc95581ec8dc1217cb0eb382acef2c3ee7b4a4b63d98dccb3cce119fe1aff9e"
     },
     {
       "path": "DataTable/ru-ru/nditemcash.edf",
       "size": 2501,
-      "hash": "a11c1aab951687cf5f9fbb6bf4ebb53ae4083b1b6a15f9021134e11b2bc7160d89b0d096e8c0e4811108121927764cab966bf1e3df5bfb778e1b728190f5db92"
+      "hash": "8e1b3738757b55c5404d935dce513da88d2bab28622f2b2293b4d4bd2377cf6bfa2210a1409b0ef02a7e2964f85a300601f7f4f8df148f5204fd1e85d5f92798"
     },
     {
       "path": "DataTable/ru-ru/NDLanguage.edf",
-      "size": 193364,
-      "hash": "011a2879d5c533a30800655a64e96f52a2c70768e631b3bf0c9c795b8cae757cc8422dbf6d6c2acfbf2d4f668a3c61f27ad3456275663eedba7f05ebf655b41a"
+      "size": 193315,
+      "hash": "7d1984f9095aed68874d1b8a4bbd4a4c68478eafbfd112c812e7d14083a2f9fbc869a7916f3f56b7c8772fd5f829f2131d6b59aeac9851d3efa1a1c9655a91c3"
     },
     {
       "path": "DataTable/ru-ru/ndmap.edf",
-      "size": 31320,
-      "hash": "34d407ca1d4424053c2b83917c016e5dbaf1e90080adcf3b8475d6bf27deef50fee723ec74abd4935918868fc4289f4598dd702cea9ff8e79b796a0b13aaaa3d"
+      "size": 31273,
+      "hash": "707aa8a406b475d173fca6679e901ef3b25da41f70c93c086378c24343d9e9924ff5ffc5dd7bd0b272f8f9b721f5b393a6edaff86b2309d4e3456e764453e61f"
     },
     {
       "path": "DataTable/ru-ru/ndmsgevent.edf",
@@ -5639,18 +6049,18 @@
     },
     {
       "path": "DataTable/ru-ru/ndquest.edf",
-      "size": 655374,
-      "hash": "64a228ee6ddd6c8415df7de0438de862f9905dcb05fa6f6d5e570d48c6c774650f5cad4271f0b699fcb20f7c7fb2e9197df2ef65deda1e4ac95aac71ab4aa199"
+      "size": 655496,
+      "hash": "50966d2a25cf7e421130aca886fb25bf859e7ecd05ec5b0a24866e3b77108e10490133630a7058abb2b25d0227c2e26e724b038d7e07c118c7bba656d068a46e"
     },
     {
       "path": "DataTable/ru-ru/ndskillforce.edf",
       "size": 229353,
-      "hash": "8c62fbcff59356659228c943bb3627ca6201b5b87be463710e25d9404221620d859d3ced7faa10f6518ee743378f3047438ebb4edbaca9d10b37a65871b9956c"
+      "hash": "f4d57be7653f58fc3a7847999bf657cb37aab61f08ed029f5d3e73af48f38ec42b5fa7ad2eca1b5c0c507dbec49278f4bc62ba7f3a7d4bc5c31c182f88c1f907"
     },
     {
       "path": "DataTable/ru-ru/ndstore.edf",
-      "size": 24514,
-      "hash": "7f9c91bf516ff2b1b51613a002d92f831f13f88065544e6167a696a0fccfc3fe1c8d393bc869dfa276ffc309a270c050756b0b14493074eb9d250a8064a32b22"
+      "size": 24733,
+      "hash": "4ec1b0939880b0065cc2696d5f063b3605440a606d5a1427fa52ba92e73ec45682cb00a105ffb7bcba0c55228319dd4e03ff3b8c673a8ea8f6e895f412fcc5ad"
     },
     {
       "path": "DataTable/ru-ru/pcroom.edf",
@@ -5715,12 +6125,12 @@
     {
       "path": "DataTable/skillforce.edf",
       "size": 469737,
-      "hash": "3f03792f6f92c3c9f18a3227208828d2ac63fb5c32d2af314338e474e96f02203f7e765bc861ae0cf93e2cdaee7cc664c42b17f338cf9bb1883b2e358a9622c6"
+      "hash": "a0941b576ab8263cf0c336bf3ad2065ae29b23c16d479d1b2fde30e51648e94644932031e27fcc3ec2715e5111d7811b9c8c9c14515459354705122fc3a5f3d9"
     },
     {
       "path": "DataTable/store.edf",
-      "size": 639873,
-      "hash": "2cfc853e6e6e2cd69b5a4af229777a9b4c49a063c5a3dd8bc7c0f92a3bba52b7a51d6efde429c8e2295fca1a64279d17696523122c941381a527caa95cb6b90b"
+      "size": 645705,
+      "hash": "e7650b074be51f5471470e4fab4ad6caffaa579c2a4ee453cc0c9121fa4d115f17ddba6da0855fad4e6164324ac3935ca90afe799662da0809b5ab01a162fcdb"
     },
     {
       "path": "DataTable/timeritem.edf",
@@ -6354,18 +6764,23 @@
     },
     {
       "path": "Item/Weapon/Mesh/COM_WEAPON_RKNIFE_AURAEVO.MSH",
-      "size": 746438,
-      "hash": "dc66efe67509f0d81b52361ccdcf8d1639c22a31a4071942bcee154f5a82be4c392b30caa1faf0dd1da1ac6f835f4c2ad7fd7e89aea1d359fe345b8aae3640f9"
+      "size": 276430,
+      "hash": "1032ba5bc66b625dbeb24641787072f4bab646c5c8cb1bf6d9e4774e4eebf889bb415083a25a505baa3acfbbbd54d170acb838f7738fb0d85250b87a73fdd303"
     },
     {
       "path": "Item/Weapon/Mesh/COM_WEAPON_RKNIFE_AURALG.MSH",
-      "size": 746438,
-      "hash": "dc66efe67509f0d81b52361ccdcf8d1639c22a31a4071942bcee154f5a82be4c392b30caa1faf0dd1da1ac6f835f4c2ad7fd7e89aea1d359fe345b8aae3640f9"
+      "size": 276430,
+      "hash": "1032ba5bc66b625dbeb24641787072f4bab646c5c8cb1bf6d9e4774e4eebf889bb415083a25a505baa3acfbbbd54d170acb838f7738fb0d85250b87a73fdd303"
     },
     {
       "path": "Item/Weapon/Mesh/COM_WEAPON_RKNIFE_AURAST.MSH",
-      "size": 746438,
-      "hash": "dc66efe67509f0d81b52361ccdcf8d1639c22a31a4071942bcee154f5a82be4c392b30caa1faf0dd1da1ac6f835f4c2ad7fd7e89aea1d359fe345b8aae3640f9"
+      "size": 276430,
+      "hash": "1032ba5bc66b625dbeb24641787072f4bab646c5c8cb1bf6d9e4774e4eebf889bb415083a25a505baa3acfbbbd54d170acb838f7738fb0d85250b87a73fdd303"
+    },
+    {
+      "path": "Item/Weapon/Mesh/COM_WEAPON_RKNIFE_MEM.msh",
+      "size": 276430,
+      "hash": "1032ba5bc66b625dbeb24641787072f4bab646c5c8cb1bf6d9e4774e4eebf889bb415083a25a505baa3acfbbbd54d170acb838f7738fb0d85250b87a73fdd303"
     },
     {
       "path": "Item/Weapon/Mesh/COM_WEAPON_RKNIFE_PREM.msh",
@@ -6404,8 +6819,8 @@
     },
     {
       "path": "Item/Weapon/Tex/433344.dds",
-      "size": 349680,
-      "hash": "9f0ecfd16eed5a696e94d1fd8d08363d31e93c43d66c0ac1c01699cd58d2d1f79f204a3ad0e32a8b758cbda6d46c8bd7bd182ef48f08b50d0c4ad3bc60aaf123"
+      "size": 1398228,
+      "hash": "ec3ce2afd78af1e525b63dda8aa2e633108681e6b969022caa0c19c6e5b09aba685b9b0454087a213522b1bb3b57d92102e09dedc7d9c85ea9f2c9829281b0bc"
     },
     {
       "path": "Item/Weapon/Tex/47899.dds",
@@ -7139,13 +7554,13 @@
     },
     {
       "path": "spriteimage/common/item.spr",
-      "size": 78336924,
-      "hash": "f819313228238ca1b88ca0c5e7f1fcbd54ad49c552c70cc512d8a7a4f91189e1785e8106d90b67ec6d9e7ace35745228002d7d546cc03965932a04270052fd91"
+      "size": 79762332,
+      "hash": "0d2ff8e409623caeb45f7c0250767da01a325ecb96699faf0889517db29029840ec05b3178e044e19f3488be02d4b12278c0b8f2240d7209fd35c82dfcba8e5c"
     },
     {
       "path": "spriteimage/common/loading.spr",
       "size": 16777252,
-      "hash": "c528e3b9f5890f7483bf4dd92ffb52fb52ba32ebb055efb59b1455acfe60655d247b924eea854e7d3468e92bb4cca7b8dae96166dbc565f5a5a0229a1ae9c70e"
+      "hash": "0bbe6564bfd18e519513e474ffc8bdbf267d690c3dcbf68f167eddf0a952dd18310f72767455b18197315d3abd5e71bd8815c0d66e77518d4180b49cbe0bc06c"
     },
     {
       "path": "spriteimage/common/map/Acc_Field.spr",
@@ -7214,8 +7629,8 @@
     },
     {
       "path": "spriteimage/common/map/Ncs1_Field.spr",
-      "size": 270400,
-      "hash": "f96fe011ea035fc3e23a510bb27abff9f96d4166a9b3204abf7c815df3d346e56e65e2470a88c9cac310dc003ee3846c949b52de01c386b63ce03b4e57d591a4"
+      "size": 1056832,
+      "hash": "234f6e6dea41b86fa49cd2f24f5d287b9f05f43885fed0f41d6947e5f7e1414cda876ecaa254b10d47b076521d3ee4656e2c0494a11bc7bebb567dcb3794f94c"
     },
     {
       "path": "spriteimage/common/map/Ncs2_Field.spr",
@@ -7258,9 +7673,104 @@
       "hash": "503040b3d7fce6080d2dc4e0cb4f4907961533601b3f22f07d0b98dd244efb2eab09b7634f3d81ae04d7a9eb3af46edb177b96847939c0cf11be866fec1e2848"
     },
     {
+      "path": "spriteimage/ru-ru/CashShop.spr",
+      "size": 9870524,
+      "hash": "4c7ecd009fb8be02cbf503f549ca046dc4f6c681b34c2413630cb54d48c25cf4943d338a494a62b9ab9184d2454779d3a5af20a2ad2e5e84514618a16b8f1ffd"
+    },
+    {
       "path": "spriteimage/ru-ru/loading.spr",
       "size": 16777252,
-      "hash": "c528e3b9f5890f7483bf4dd92ffb52fb52ba32ebb055efb59b1455acfe60655d247b924eea854e7d3468e92bb4cca7b8dae96166dbc565f5a5a0229a1ae9c70e"
+      "hash": "0bbe6564bfd18e519513e474ffc8bdbf267d690c3dcbf68f167eddf0a952dd18310f72767455b18197315d3abd5e71bd8815c0d66e77518d4180b49cbe0bc06c"
+    },
+    {
+      "path": "spriteimage/ru-ru/map/Acc_Field.spr",
+      "size": 335960,
+      "hash": "771b2b7b73c3bf0af482d3dd664ecdf3fd18ea1255acb4e3e6fff74f0dbe1eb25b25708c890a186ffb01ede23844fcf2da51bb30a4de98f8f140cf6aad5ac981"
+    },
+    {
+      "path": "spriteimage/ru-ru/map/Bel_Field.spr",
+      "size": 1089624,
+      "hash": "40419efddf4e087ab5ecb78c290886c16d0e0e1a294b62e77bb110d0e6167584da321c630aaa84832b581ee510296100168b661f52338b94875dbbb0165d6255"
+    },
+    {
+      "path": "spriteimage/ru-ru/map/Cauldron01_Field.spr",
+      "size": 262180,
+      "hash": "c2a08ed5b195584aa7e16d01ce5d5f397308b6030130a4ee6f708138450b19073ff860604f644847592c63d27bd9500bea44a729729fe25e975f5980b8c56f4b"
+    },
+    {
+      "path": "spriteimage/ru-ru/map/Cor_Field.spr",
+      "size": 303192,
+      "hash": "eee61b8dd6e66f413f4fb4511171d40e310ad0b7768cfdf7e42e05ba9cb1afb15b64feeeaba50405e3d91e991fef7db66e081c109b04c6e1ffb29a919ceea95e"
+    },
+    {
+      "path": "spriteimage/ru-ru/map/Cora.spr",
+      "size": 262180,
+      "hash": "7d1e61a42bda2143d32a18decb69abbadaf11d09c0f3f451de50eb7a3ef445ce9e566a19624227897395c145a414247aea55847f6d2d137d4504ddeee19a9f89"
+    },
+    {
+      "path": "spriteimage/ru-ru/map/Elan_Field.spr",
+      "size": 262180,
+      "hash": "9b6e50bab88fc28680f12f79610bbd736d23f732c6e599ed77f74d2694d0b4fce3f487f1d458db7729b22f5957cd92007b5fd15a9eda8e56ede1906b4e591bb7"
+    },
+    {
+      "path": "spriteimage/ru-ru/map/Exile_Land.spr",
+      "size": 262180,
+      "hash": "d1d069c87a25d8666ce82f6b94bd6eef6bcf056f306b30ebdc644940dcd2c64998508c4dabe6c89edf2ed3497a2ce31f014c9d9b2d3ba7d8cbec3abc713cdaf6"
+    },
+    {
+      "path": "spriteimage/ru-ru/map/Medicallab.spr",
+      "size": 262180,
+      "hash": "3ee9e8ef2bc93d7e742eab8cad8907896362283d7938deaa7317c8b58823b93f4b3cb21156a264fd2a5894d23bc51d94c9c7e0e04d0b35b811b5ea584d1e018c"
+    },
+    {
+      "path": "spriteimage/ru-ru/map/Mountain_Beast.spr",
+      "size": 262180,
+      "hash": "eedff039467ac7115c299e9cab2305fdd0f92188c4b34e6eb69fa1501d970ff1a0f6eddd1c12d524bc11ed417a03839a12e9df6479d385834619f91922ad0c6a"
+    },
+    {
+      "path": "spriteimage/ru-ru/map/Nas1_Field.spr",
+      "size": 270400,
+      "hash": "a1517b8a65b8902163d04c92d21cee9dcf33355fb45a6d0c30b24fa36c0bd389b8dc0f7924eae2110481f452d94c531276dcef478f875035062900854727c002"
+    },
+    {
+      "path": "spriteimage/ru-ru/map/Nas2_Field.spr",
+      "size": 270400,
+      "hash": "433cecc25e7b26e0103065ce9a9d244f7b60ef0fc8196cf7f9be5024b7cc0ed26809ba12fa45499e620db0e718b565267c4ffd18a2874f5892756f5e0b211bbf"
+    },
+    {
+      "path": "spriteimage/ru-ru/map/Nbs1_Field.spr",
+      "size": 294976,
+      "hash": "e1a9f45d6ac04f339c1a73d4e43c7677333fbb3f19b026c99064c06869d1bbe89a99c9948438b49c8512584737f60809310848ded20320c09aa4ccb11e891219"
+    },
+    {
+      "path": "spriteimage/ru-ru/map/Nbs2_Field.spr",
+      "size": 270400,
+      "hash": "ead7b295bb234d286074639367f7cd0ba9ed109b46cad74348db3924ca1059352d7e92d878c6db4b19a3a9ee6bf5a1b46ab54b169edd0b9d57637894d3b8111b"
+    },
+    {
+      "path": "spriteimage/ru-ru/map/Ncs1_Field.spr",
+      "size": 1056832,
+      "hash": "234f6e6dea41b86fa49cd2f24f5d287b9f05f43885fed0f41d6947e5f7e1414cda876ecaa254b10d47b076521d3ee4656e2c0494a11bc7bebb567dcb3794f94c"
+    },
+    {
+      "path": "spriteimage/ru-ru/map/Ncs2_Field.spr",
+      "size": 270400,
+      "hash": "c4bc8b86adcb235325f58921c21880dc771f7cbfee19834d3bcfbaa3b3cdd3b283cab68e82254bae2a0d1e67472e9dae4414cca3a03fc3126074f427f4eb1cf1"
+    },
+    {
+      "path": "spriteimage/ru-ru/map/Pla01_Field.spr",
+      "size": 1048612,
+      "hash": "f9e98c77c9f42c7519a7113f08239b3af1ebdd54a0e1be1f72b90e11318e3f7d9a1ceb5a39d378da69526e7787578145de90a616285a8556e46de17dbe43373a"
+    },
+    {
+      "path": "spriteimage/ru-ru/map/Resource_Field.spr",
+      "size": 262180,
+      "hash": "7fc31971ea5315d22e57fe4b6ea5e5d3b94d47fed0aaf577227157132498ced2d783352e5e02926507286d0b201f97e59908937840ae9cfdc78417f1e765773f"
+    },
+    {
+      "path": "spriteimage/ru-ru/map/Sette_Field.spr",
+      "size": 1048612,
+      "hash": "2b86d2de47ac0e5b2a21444d6b349c952ec29b1b2aefe6d56b860fc18031d4163cc9153a2e9e45b13d77167fda035b19486f383096cf4136c2edcfe7c299d300"
     },
     {
       "path": "StringLoaderA.dll",
@@ -7276,6 +7786,11 @@
       "path": "ucrtbased.dll",
       "size": 1520768,
       "hash": "a7a41f3fb7f2eb3e2d85c04dabb508189249cfc15a5354fc6daac7a8dc6cadbd7f1ebc4dd21a7b9f7a69e80836a07ae1874a3afbcf5d5e447c3f0b958920d72a"
+    },
+    {
+      "path": "Update.ver",
+      "size": 227243,
+      "hash": "89ac07261168c337e190d8220ee920f992582e3fd43a92485a294ceec705da74b596c653c24dc441c69a5ee825bd8cd778ce90ce72ba1a89ac572661611cd2eb"
     },
     {
       "path": "vcruntime140_cor3.dll",

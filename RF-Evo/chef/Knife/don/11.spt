@@ -1,7 +1,7 @@
 [Particle]
 entity_file .\Chef\Knife\don\wave2\wav.r3e
 num 25
-pos box 0 3 0
+pos box 0 -2 0
 
 live_time 3
 time_speed 2
