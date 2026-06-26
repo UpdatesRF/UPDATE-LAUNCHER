@@ -1,6 +1,6 @@
 {
   "method": "GitHub",
-  "version": "5",
+  "version": "6",
   "files": [
     {
       "path": "ABuse.dll",
@@ -5615,7 +5615,7 @@
     {
       "path": "DataTable/item.edf",
       "size": 1639371,
-      "hash": "49d1b6ac7ffcb57dc733468c7a3a6a9f5796f6352e342fc716b7906f34a265e01eee7968b08d0843aaf8369f22fd35ef09b5f308cd4eb102b75c84d4bd9b05b6"
+      "hash": "6352c1c5d80e517626530f61d0e23ba6b5efb36fa3addc1a505b2e686de5667fa77df55fc8e478a0f8e5f03f848dfac140b656cc070c3570ed31ef5c98edbb06"
     },
     {
       "path": "DataTable/itemcash.edf",
@@ -6019,8 +6019,8 @@
     },
     {
       "path": "DataTable/ru-ru/nditem.edf",
-      "size": 860837,
-      "hash": "922e01f9b55c4c4c84fa9b37fc102c9e6ee1159d95d40fad2254db2c88f4a06b617e14999b1ef1a488bda810aad2fb2b5010abe5a13e45ecfce1d0b12b15605d"
+      "size": 860834,
+      "hash": "c6414e9f624781483cffc91201613208237578967411daf9c8a3fe55c59ef6c7e26bc5adb3768413e10e8713e437069fbd5d14c2f7fc429520529f03f8d5f56d"
     },
     {
       "path": "DataTable/ru-ru/nditemcash.edf",
@@ -6125,7 +6125,7 @@
     {
       "path": "DataTable/skillforce.edf",
       "size": 469737,
-      "hash": "b1842a53082b708b454165f600708ed66ec2fa1378c3c983364a8ed1f4a7d25cc3c9d2580bf1b5d816ecbb903abde013554968402cfcb7cef23c8829eafae8e9"
+      "hash": "deb8475a90a6021411d0818d545d11d7597365c36dedb944953a42132b6305bd79ba7961cd9a9274db3776b1210a64129a303cb34dd94df6cc8682b0914be2c1"
     },
     {
       "path": "DataTable/store.edf",
@@ -7630,7 +7630,7 @@
     {
       "path": "spriteimage/common/map/Ncs1_Field.spr",
       "size": 1056832,
-      "hash": "234f6e6dea41b86fa49cd2f24f5d287b9f05f43885fed0f41d6947e5f7e1414cda876ecaa254b10d47b076521d3ee4656e2c0494a11bc7bebb567dcb3794f94c"
+      "hash": "3cc3487f8b99e4d3318bded5b66755ebda385468d8d355f4be39191ebd6d83c2fe9fb8a6782c80ccb09d7bba28ad3c5c9bc9ecdba0791b2e0b80995961fb2f44"
     },
     {
       "path": "spriteimage/common/map/Ncs2_Field.spr",
@@ -7750,7 +7750,7 @@
     {
       "path": "spriteimage/ru-ru/map/Ncs1_Field.spr",
       "size": 1056832,
-      "hash": "234f6e6dea41b86fa49cd2f24f5d287b9f05f43885fed0f41d6947e5f7e1414cda876ecaa254b10d47b076521d3ee4656e2c0494a11bc7bebb567dcb3794f94c"
+      "hash": "3cc3487f8b99e4d3318bded5b66755ebda385468d8d355f4be39191ebd6d83c2fe9fb8a6782c80ccb09d7bba28ad3c5c9bc9ecdba0791b2e0b80995961fb2f44"
     },
     {
       "path": "spriteimage/ru-ru/map/Ncs2_Field.spr",
