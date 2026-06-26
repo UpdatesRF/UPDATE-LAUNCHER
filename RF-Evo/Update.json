@@ -1,6 +1,6 @@
 {
   "method": "GitHub",
-  "version": "3",
+  "version": "4",
   "files": [
     {
       "path": "ABuse.dll",
@@ -5615,7 +5615,7 @@
     {
       "path": "DataTable/item.edf",
       "size": 1639371,
-      "hash": "b2504770e4661122c4787f46184861c67b8292dc368e41c0812a43e1421504de52f8e42b96b126c6565857841f2f7cc7c833036dd0bb510c00224acd5e63fa1e"
+      "hash": "49d1b6ac7ffcb57dc733468c7a3a6a9f5796f6352e342fc716b7906f34a265e01eee7968b08d0843aaf8369f22fd35ef09b5f308cd4eb102b75c84d4bd9b05b6"
     },
     {
       "path": "DataTable/itemcash.edf",
@@ -5690,7 +5690,7 @@
     {
       "path": "DataTable/Modules/[Client]DailyReward.edf",
       "size": 1289,
-      "hash": "3e94435d3b678013ba737bc7617d84471400c9f148d7fc0eb3d7e5d393c25ecb1f171dd8821abcb1026a84f3fa3e2e8f0b29e7032b35fa70510434c2effbd046"
+      "hash": "803b1d2fb2d08e0f4e8276e67692deae8a2290b35ad4a6dd0cbfee774d2c582f4f87b92c62b192ac26b687b4b301d25a8abba3af51b6cd9a2e644969e3b640bc"
     },
     {
       "path": "DataTable/Modules/[Client]DistanceView.edf",
@@ -6130,7 +6130,7 @@
     {
       "path": "DataTable/store.edf",
       "size": 645705,
-      "hash": "e7650b074be51f5471470e4fab4ad6caffaa579c2a4ee453cc0c9121fa4d115f17ddba6da0855fad4e6164324ac3935ca90afe799662da0809b5ab01a162fcdb"
+      "hash": "00697dbc025b827a51484ad5fb199468b42ef13d3a853acbf90473839c68ce25d1181781b37166594ca1ae2ac728fa77b19840d81f6d0692b0e6adf59e80b708"
     },
     {
       "path": "DataTable/timeritem.edf",
