@@ -1,6 +1,6 @@
 {
   "method": "GitHub",
-  "version": "2",
+  "version": "1",
   "files": [
     {
       "path": "ABuse.dll",
@@ -5615,7 +5615,7 @@
     {
       "path": "DataTable/item.edf",
       "size": 1639371,
-      "hash": "7128b0ca59464f1ffe96c804dd5ac7f96a3b9bd197e62dee3b0f8d358e7a35a36f5f325cf57b386cd5d3f2c2bfb375c57a68b3391ee8d07c001987d84b1b8544"
+      "hash": "f0c45470c855d539ceded3c469218d6fef154e66bbb9f442ea930abe85d7c82b2e8e908e8c3d1380579c85f4e23dca658d714b136ae0fdceb54338fef51a9e33"
     },
     {
       "path": "DataTable/itemcash.edf",
@@ -5690,7 +5690,7 @@
     {
       "path": "DataTable/Modules/[Client]DailyReward.edf",
       "size": 1289,
-      "hash": "76478771719d3679ec435c4769e6446558a49dade73f49504b50bd8d436a6ac3c580eb9cdb7466fbb158920eedc3bf647c68558626bb8b787a98d358f30d7767"
+      "hash": "3e94435d3b678013ba737bc7617d84471400c9f148d7fc0eb3d7e5d393c25ecb1f171dd8821abcb1026a84f3fa3e2e8f0b29e7032b35fa70510434c2effbd046"
     },
     {
       "path": "DataTable/Modules/[Client]DistanceView.edf",
@@ -5810,7 +5810,7 @@
     {
       "path": "DataTable/quest.edf",
       "size": 1229121,
-      "hash": "abd6c6e4eec1c57e27c8522c172bcfd27d7709183609833474e5f22b7fddb76f1dae43c3d06da310da225c0eaa760907614dacf59b353244775dfd622ad5fd03"
+      "hash": "40ba5baa9d1db8f3a9dc5ecf7cd9e9be2c3bd0cab9e34d30effb4093f1412630a1dcd61b3edfbc80af00246460cc71a8fc7597276fc95b1aabec9effd5065640"
     },
     {
       "path": "DataTable/Resource.edf",
@@ -6020,7 +6020,7 @@
     {
       "path": "DataTable/ru-ru/nditem.edf",
       "size": 860679,
-      "hash": "845559a8e1aaafb023fcac915e30259621c0a57381b733377fb5c345420bf7a30dc95581ec8dc1217cb0eb382acef2c3ee7b4a4b63d98dccb3cce119fe1aff9e"
+      "hash": "c6b44f47c31a34b6dbbad8d3f6f6f90e9448c0dee24c85bb205cc3ecb6799d640b295708b5cf772549f6390eb6a5325cdecbc81b233499c03b07c86066563724"
     },
     {
       "path": "DataTable/ru-ru/nditemcash.edf",
@@ -6125,7 +6125,7 @@
     {
       "path": "DataTable/skillforce.edf",
       "size": 469737,
-      "hash": "a0941b576ab8263cf0c336bf3ad2065ae29b23c16d479d1b2fde30e51648e94644932031e27fcc3ec2715e5111d7811b9c8c9c14515459354705122fc3a5f3d9"
+      "hash": "b1842a53082b708b454165f600708ed66ec2fa1378c3c983364a8ed1f4a7d25cc3c9d2580bf1b5d816ecbb903abde013554968402cfcb7cef23c8829eafae8e9"
     },
     {
       "path": "DataTable/store.edf",
@@ -7555,7 +7555,7 @@
     {
       "path": "spriteimage/common/item.spr",
       "size": 79762332,
-      "hash": "0d2ff8e409623caeb45f7c0250767da01a325ecb96699faf0889517db29029840ec05b3178e044e19f3488be02d4b12278c0b8f2240d7209fd35c82dfcba8e5c"
+      "hash": "c2a11eb8a7ea86bd879ae9f6c4fc82eb9f5a8d7acc4120f3e3a43d4f575ff3a39369aab7c4325a28915be90953bc143095fd99eb1ee4f535264da047dcd0b4eb"
     },
     {
       "path": "spriteimage/common/loading.spr",
@@ -7786,11 +7786,6 @@
       "path": "ucrtbased.dll",
       "size": 1520768,
       "hash": "a7a41f3fb7f2eb3e2d85c04dabb508189249cfc15a5354fc6daac7a8dc6cadbd7f1ebc4dd21a7b9f7a69e80836a07ae1874a3afbcf5d5e447c3f0b958920d72a"
-    },
-    {
-      "path": "Update.ver",
-      "size": 227243,
-      "hash": "89ac07261168c337e190d8220ee920f992582e3fd43a92485a294ceec705da74b596c653c24dc441c69a5ee825bd8cd778ce90ce72ba1a89ac572661611cd2eb"
     },
     {
       "path": "vcruntime140_cor3.dll",
