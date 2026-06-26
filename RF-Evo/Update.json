@@ -1,6 +1,6 @@
 {
   "method": "GitHub",
-  "version": "2",
+  "version": "3",
   "files": [
     {
       "path": "ABuse.dll",
@@ -6019,8 +6019,8 @@
     },
     {
       "path": "DataTable/ru-ru/nditem.edf",
-      "size": 860679,
-      "hash": "c6b44f47c31a34b6dbbad8d3f6f6f90e9448c0dee24c85bb205cc3ecb6799d640b295708b5cf772549f6390eb6a5325cdecbc81b233499c03b07c86066563724"
+      "size": 860837,
+      "hash": "922e01f9b55c4c4c84fa9b37fc102c9e6ee1159d95d40fad2254db2c88f4a06b617e14999b1ef1a488bda810aad2fb2b5010abe5a13e45ecfce1d0b12b15605d"
     },
     {
       "path": "DataTable/ru-ru/nditemcash.edf",
