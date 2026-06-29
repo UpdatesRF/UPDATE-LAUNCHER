@@ -1,6 +1,6 @@
 {
   "method": "GitHub",
-  "version": "12",
+  "version": "13",
   "files": [
     {
       "path": "ABuse.dll",
@@ -5615,7 +5615,7 @@
     {
       "path": "DataTable/item.edf",
       "size": 1640539,
-      "hash": "87d498a42ec8fbfb5b9dae6a4a2d6b5aae9621fca66bbda0d48243e0ee5c56f3d234b08d81db7ed2c3e681df9c1cad76f5cfd421bfa46a97d2fd1f85840b068b"
+      "hash": "d792339355b1f4375f93ffe1f496ec7c47a3e7e992369ac65c897f556ddce1b85cdc540f2f2a17411dab1950c081035d311233c86552db76998fe2a84bb84ade"
     },
     {
       "path": "DataTable/itemcash.edf",
@@ -5674,8 +5674,8 @@
     },
     {
       "path": "DataTable/Modules/[Client]BossRespawnControlEx.edf",
-      "size": 22889,
-      "hash": "2c01814342538c95f93ce0b3e29ba943be32768f967a4699d0d4935ae9105907c8e695c2321d8536811b7f1157333b2eb376dcc5a66e863c751ffe17296d5d67"
+      "size": 23529,
+      "hash": "72f0f70e97f1bcf80b61ee976b6677b06e87cdbe4621e92b55cfc8f5ce45f548b07f2258bb32d193173c3aa5c6beba40bcda46891a8ee3f7b1afa52a4f78626b"
     },
     {
       "path": "DataTable/Modules/[Client]BoxItemOut.edf",
@@ -6019,8 +6019,8 @@
     },
     {
       "path": "DataTable/ru-ru/nditem.edf",
-      "size": 861911,
-      "hash": "7d1a593ef920bb84dd6d1a327fecdb1c2fbee8fe282c703288e5bc056d7607729f2da0c350dddca855b848860995648fb207e38fc4b1f4ece1e0ea78c9e788fe"
+      "size": 861875,
+      "hash": "dff3fea81d6b97fb15c549af54599ef5450e04af75aa7b7fb6c38047b7f1941b44f7a6dc7cc039a509c09ae0ec01be12158440810969b25fbae4f9bc16219aff"
     },
     {
       "path": "DataTable/ru-ru/nditemcash.edf",
