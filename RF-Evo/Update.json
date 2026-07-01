@@ -1,6 +1,6 @@
 {
   "method": "GitHub",
-  "version": "13",
+  "version": "14",
   "files": [
     {
       "path": "ABuse.dll",
@@ -5614,8 +5614,8 @@
     },
     {
       "path": "DataTable/item.edf",
-      "size": 1640539,
-      "hash": "d792339355b1f4375f93ffe1f496ec7c47a3e7e992369ac65c897f556ddce1b85cdc540f2f2a17411dab1950c081035d311233c86552db76998fe2a84bb84ade"
+      "size": 1640767,
+      "hash": "16b58eb273f83481d1ad6b4a847f1b1f39158fca02d930d68a1a6e47b0911505286eb0e7e5d684d4b7f25d73e01313e6cda03653ac5915e89396c852a2281ad2"
     },
     {
       "path": "DataTable/itemcash.edf",
@@ -5624,8 +5624,8 @@
     },
     {
       "path": "DataTable/itemcombine.edf",
-      "size": 306393,
-      "hash": "a35e6f7f8aabdad0a2c02aa27c0fe5b43559835ed5abb3e725bbe3b9d32698de0ee3462388c4a35d28e5e188ce7d09c8ba0dc86c49f279d05339f62c8fded048"
+      "size": 307881,
+      "hash": "8c1ea13c0acfbfb410f0c7764f05ad84e30b353dbd6fc4f6803a0df49fe3b9a6624ded7f3f99d4e03246079b55616099bdf4c6f6e2c139f37d86c0e768c89933"
     },
     {
       "path": "DataTable/itempremium.edf",
@@ -5635,7 +5635,7 @@
     {
       "path": "DataTable/itemseteffect.edf",
       "size": 43497,
-      "hash": "617dfb6c10bc16af6d4debd203594f1b6f395f09668b457ab744b529fe42f419927ba738b71d4a6eef76f537c580445f0d4d13ce463a29ff1ad0044a1fbe81bf"
+      "hash": "ad411a14cca081afefc0846b5baad457fe69d3a12b0c2e77ebf9290331b7a1e58cf42660a8e311b7750c0bdf5580f4531b918ad719df122c02edf65cd371ab49"
     },
     {
       "path": "DataTable/itemtimer.edf",
@@ -5684,8 +5684,8 @@
     },
     {
       "path": "DataTable/Modules/[Client]ButtonEx.edf",
-      "size": 1921,
-      "hash": "f6624c9bbadece5b42f2b36a9b62cbcb4a785a25d945be304d29e949479c06aad6ccde20a683fb6f2e2ddeed1ba3d384309e309a7a75317a24ca39a25c25e6f8"
+      "size": 2037,
+      "hash": "0f0307df229c95261e6e4593b5859b8d97b3dfe226111ec8442575ed96568f8b63e211a224340d959c2901ccbb50335fc0bec0e90a8eac4aaf98a6ae3426e508"
     },
     {
       "path": "DataTable/Modules/[Client]DailyReward.edf",
@@ -5710,7 +5710,7 @@
     {
       "path": "DataTable/Modules/[Client]ItemUpgradeEx.edf",
       "size": 1980,
-      "hash": "464d2c932a6a48183cf7fa1482182423ffff6fee8f2035b6315ff42392a005c4b9bf0ef7b30827e54ffacdba46517eddd2e2e0f18ab94c3f4c45dc480f99124e"
+      "hash": "3b7cab7bd7bfabbb2d2941a64cae4b4683e9407df92687c03be202e941bbbc98373c4949530d68dc062cc6a2d929e8a42c0bbc29ba23715be0b67ce02a9f508b"
     },
     {
       "path": "DataTable/Modules/[Client]LanguageEx.edf",
@@ -5810,7 +5810,7 @@
     {
       "path": "DataTable/quest.edf",
       "size": 1229121,
-      "hash": "7a9559a8b0f6b6bff01529189d29a152737424bedff2ca589385a1e3158a58e16bc1d9628ccff797e112a85849ea3c4b9204bcc9af90e7650821c7b3f5cd3646"
+      "hash": "b8afa3a91d0bb801a9dd2b126f6b2cac5fed9008c46f352ed3104eb350ab77f3231842d63dd885fe6576eaeb434d30252d042f66e74cd37f2eaf63d7692fd6f4"
     },
     {
       "path": "DataTable/Resource.edf",
@@ -6019,8 +6019,8 @@
     },
     {
       "path": "DataTable/ru-ru/nditem.edf",
-      "size": 861875,
-      "hash": "dff3fea81d6b97fb15c549af54599ef5450e04af75aa7b7fb6c38047b7f1941b44f7a6dc7cc039a509c09ae0ec01be12158440810969b25fbae4f9bc16219aff"
+      "size": 861601,
+      "hash": "ccb9da30d6f831a05c1bb8bb5488f541bb61fc2d10586ecf8fa3888b0711260cbc3a0573c76bdd467f770544c745108bc5474a17fd669ee01ad1712fa4d2011d"
     },
     {
       "path": "DataTable/ru-ru/nditemcash.edf",
@@ -6125,12 +6125,12 @@
     {
       "path": "DataTable/skillforce.edf",
       "size": 469737,
-      "hash": "cf9cbb2fdc128f0760122e15a4bc43b6e928888dea9c4dedb96bf30028fba50d6f2a1f86251a6ccab4ffcd20634bf53b655b2d3bda47d11eb83f0a9e1f1f13fe"
+      "hash": "9f02dc0b480d4cd7a60bb6fef62ccc576d15cee184fa52f04bcee59565198c5c2b557e18a695d9cef965d0575882ac6499aaa91aa312ab97119a45c85308a8a3"
     },
     {
       "path": "DataTable/store.edf",
       "size": 645705,
-      "hash": "043d8b6dd5a1c6bcc25e3adee0ae020b8dd7424a5b014547edb8db8c8323073398c6bed87c46ab484091a2ec32099050ce248ae1f6d600464894ee6ff4f7d765"
+      "hash": "d8d2f7a4e7b882ef458479c74cc0daa3cde9675d9215020105cb32bc7770c6099ec3e0fc081d3bc7ffc38728563744ad2485e8be67dc6baaa54f81bab4ce4080"
     },
     {
       "path": "DataTable/timeritem.edf",
@@ -7555,7 +7555,7 @@
     {
       "path": "spriteimage/common/item.spr",
       "size": 79762332,
-      "hash": "13b911e1a651dbe039713e540a1cc4e828705035b4b961c3f322c7cf55d65a9a163be20da9b4193cdfaf453149844aa3154a1909f05299f36ffeb749c3cc5bd7"
+      "hash": "bdc45c9043f98bbc81c707fc6d10d244bc6fe5043b7452ef53348a74f44a5c14e8e050415e38991fac5862c5949f6bcfc3aa4d8e61ec008ccd413be015986477"
     },
     {
       "path": "spriteimage/common/loading.spr",
